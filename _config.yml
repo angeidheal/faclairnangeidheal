@@ -6,12 +6,12 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: An Gèidheal Ùr
+title: Faclair nan Gèidheal
 description: > # this means to ignore newlines until "baseurl:"
-  A' toirt thugaibh na naidheachdan LGBTQIA+ as ùire
+
 
 #baseurl: "/antubhalghort" # the subpath of your site, e.g. /blog
-url: "https://angeidhealur.scot" # the base hostname & protocol for your site
+url: "https://faclair.lgbt" # the base hostname & protocol for your site
 
 #footer
 author-name: Crìstean MacMhìcheil
