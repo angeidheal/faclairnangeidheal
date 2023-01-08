@@ -30,14 +30,10 @@ SimpleJekyllSearch({
 <p>Ma tha sibh a' lorg post ùr ri leughadh, seo agaibh na postaichean as ùire anns gach roinn-seòrsa:</p>
 
 <ul>
-{% assign sorted_categories = site.categories | sort %}
-  {% for category in sorted_categories %}
-    <li><a name="{{ category | first }}">{{ category | first }}</a>
-      <ul>
-      {% for post in category.last limit:3 %}
-        <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
-      {% endfor %}
-      </ul>
+{% assign sorted_posts = site.posts | sort: 'title' %}
+  {% for post in sorted_postss %}
+    <li>
+      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
     </li>
   {% endfor %}
 </ul>
