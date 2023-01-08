@@ -1,0 +1,60 @@
+<nav class="navbar navbar-expand-lg navbar-dark">
+  <a class="navbar-brand" href={{"/" | relative_url}} style="font-family: Lemonada" title="An t-Ubhal-ghort">{{ site.title }}</a>
+  <button
+    class="navbar-toggler"
+    type="button"
+    data-toggle="collapse"
+    data-target="#navbarSupportedContent"
+    aria-controls="navbarSupportedContent"
+    aria-expanded="false"
+    aria-label="Toggle navigation"
+  >
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav ml-auto">
+      <li class="nav-item">
+        <a class="nav-link" href={{"/" | relative_url}} title="Dachaigh | Home"><strong>Dachaigh</strong></a>
+      </li>
+
+      <li class="nav-item dropdown">
+        <a
+          class="nav-link dropdown-toggle"
+          href="#"
+          id="navbarDropdown"
+          role="button"
+          data-toggle="dropdown"
+          aria-haspopup="true"
+          aria-expanded="false"
+          title="Roinnean-seòrsa | Categories"
+        >
+          <strong>Roinnean‑seòrsa</strong>
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+          {% for category in site.data.categories %}
+            <a class="dropdown-item" href="{{ category.url }}"><strong>{{ category.title }}</strong></a>
+          {% endfor %}
+        </div>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="https://faclair.lgbt" target="_blank" title="Faclair nan Gèidheal"><strong>Faclair nan Gèidheal</strong></a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href={{"/comhairle/" | relative_url}} title="Comhairle | Advice"><strong>Comhairle</strong></a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href={{"/ceanglaichean/" | relative_url}} title="Ceanglaichean | Links"><strong>Ceanglaichean</strong></a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="https://angeidhealur.myspreadshop.co.uk/" target="_blank" title="Bùth-bhathair | Merch Store"><strong>Bùth-bhathair</strong></a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href={{"/mu-ar-deidhinn/" | relative_url}} title="Mu ar deidhinn | About Us"><strong>Mu ar deidhinn</strong></a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href={{"/lorg/" | relative_url}} title="Lorg | Search"><i class="fa-solid fa-magnifying-glass"></i></a>
+      </li>
+    </ul>
+  </div>
+</nav>
