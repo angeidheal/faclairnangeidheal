@@ -7,7 +7,7 @@ layout: post
 guid: 'https://faclair.lgbt/?p=465'
 permalink: /achd-aithneachadh-gne-2004/
 categories:
-    - Faclair
+    - gd
 ---
 
 &#x1f3f4;&#xe0067;&#xe0062;&#xe0073;&#xe0063;&#xe0074;&#xe007f; Achd Aithneachadh Gnè (2004)

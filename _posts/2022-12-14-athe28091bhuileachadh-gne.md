@@ -7,7 +7,7 @@ layout: post
 guid: 'https://macmhicheil.scot/faclair-nan-geidheal/?p=62'
 permalink: /ath%e2%80%91bhuileachadh-gne/
 categories:
-    - Faclair
+    - gd
 ---
 
 &#x1f3f4;&#xe0067;&#xe0062;&#xe0073;&#xe0063;&#xe0074;&#xe007f; ath‑bhuileachadh gnè

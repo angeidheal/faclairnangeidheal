@@ -7,7 +7,7 @@ layout: post
 guid: 'https://faclair.lgbt/?p=315'
 permalink: /neo%e2%80%91reireach-a%e2%80%91thaobh-gne/
 categories:
-    - Faclair
+    - gd
 ---
 
 &#x1f3f4;&#xe0067;&#xe0062;&#xe0073;&#xe0063;&#xe0074;&#xe007f; neo‑rèireach a‑thaobh gnè

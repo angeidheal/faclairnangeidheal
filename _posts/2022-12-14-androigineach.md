@@ -7,7 +7,7 @@ layout: post
 guid: 'https://macmhicheil.scot/faclair-nan-geidheal/?p=52'
 permalink: /androigineach/
 categories:
-    - Faclair
+    - gd
 ---
 
 &#x1f3f4;&#xe0067;&#xe0062;&#xe0073;&#xe0063;&#xe0074;&#xe007f; androigineach

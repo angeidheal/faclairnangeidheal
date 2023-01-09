@@ -7,7 +7,7 @@ layout: post
 guid: 'https://faclair.lgbt/?p=211'
 permalink: /earotaigeachd-cho%e2%80%91sheorsach/
 categories:
-    - Faclair
+    - gd
 ---
 
 &#x1f3f4;&#xe0067;&#xe0062;&#xe0073;&#xe0063;&#xe0074;&#xe007f; earotaigeachd cho‑sheòrsach

@@ -7,7 +7,7 @@ layout: post
 guid: 'https://faclair.lgbt/?p=275'
 permalink: /leigheas-ro%e2%80%91chasgach-iar%e2%80%91ghabhalach/
 categories:
-    - Faclair
+    - gd
 ---
 
 &#x1f3f4;&#xe0067;&#xe0062;&#xe0073;&#xe0063;&#xe0074;&#xe007f; Leigheas Ro‑chasgach Iar‑ghabhalach

@@ -7,7 +7,7 @@ layout: post
 guid: 'https://faclair.lgbt/?p=365'
 permalink: /riochdairean-roghnaichte/
 categories:
-    - Faclair
+    - gd
 ---
 
 &#x1f3f4;&#xe0067;&#xe0062;&#xe0073;&#xe0063;&#xe0074;&#xe007f; riochdairean ròghnaichte

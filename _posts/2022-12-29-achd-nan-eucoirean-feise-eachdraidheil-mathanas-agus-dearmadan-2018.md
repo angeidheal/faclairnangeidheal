@@ -7,7 +7,7 @@ layout: post
 guid: 'https://faclair.lgbt/?p=444'
 permalink: /achd-nan-eucoirean-feise-eachdraidheil-mathanas-agus-dearmadan-2018/
 categories:
-    - Faclair
+    - gd
 ---
 
 &#x1f3f4;&#xe0067;&#xe0062;&#xe0073;&#xe0063;&#xe0074;&#xe007f; Achd nan Eucoirean Feise Eachdraidheil (Mathanas agus Dearmadan) 2018

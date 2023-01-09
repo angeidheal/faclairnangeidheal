@@ -7,7 +7,7 @@ layout: post
 guid: 'https://faclair.lgbt/?p=305'
 permalink: /narachadh/
 categories:
-    - Faclair
+    - gd
 ---
 
 

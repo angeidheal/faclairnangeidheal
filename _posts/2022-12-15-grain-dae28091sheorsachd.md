@@ -7,7 +7,7 @@ layout: post
 guid: 'https://faclair.lgbt/?p=249'
 permalink: /grain-da%e2%80%91sheorsachd/
 categories:
-    - Faclair
+    - gd
 ---
 
 &#x1f3f4;&#xe0067;&#xe0062;&#xe0073;&#xe0063;&#xe0074;&#xe007f; gràin dà‑sheòrsachd

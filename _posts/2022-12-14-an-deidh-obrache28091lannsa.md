@@ -7,7 +7,7 @@ layout: post
 guid: 'https://macmhicheil.scot/faclair-nan-geidheal/?p=50'
 permalink: /an-deidh-obrach%e2%80%91lannsa/
 categories:
-    - Faclair
+    - gd
 ---
 
 &#x1f3f4;&#xe0067;&#xe0062;&#xe0073;&#xe0063;&#xe0074;&#xe007f; an déidh obrach‑lannsa
