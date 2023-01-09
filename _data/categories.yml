@@ -1,15 +1,11 @@
-- title: Blog
-  url: https://angeidhealur.scot/roinn-seorsa/blog
+- title: gd
+  url: /roinn-seorsa/gd
   description:
 
-- title: Gàidhlig
-  url: https://angeidhealur.scot/roinn-seorsa/gaidhlig
+- title: ga
+  url: /roinn-seorsa/ga
   description:
 
-- title: LGBTQIA+
-  url: https://angeidhealur.scot/roinn-seorsa/lgbtqia
-  description:
-
-- title: Teicneòlas
-  url: https://angeidhealur.scot/roinn-seorsa/teicneolas
+- title: en
+  url: /roinn-seorsa/en
   description:
