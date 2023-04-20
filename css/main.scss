@@ -66,14 +66,19 @@ img {
 
 a {
   color: $text-color;
-  font-weight: 900;
 }
 
 a:hover {
   color: #6062a5;
 }
 
-p a {
+p a, li a {
+  color: #6062a5;
+  font-weight: 600;
+}
+
+p a:hover, li a:hover {
+  color: #f0f0f0;
   text-decoration: underline;
 }
 
