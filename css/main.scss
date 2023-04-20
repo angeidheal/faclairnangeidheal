@@ -21,38 +21,43 @@ $on-laptop: 800px;
 
 html,
 body {
-  font-family: "Open Sans";
+  font-family: "Outfit";
   background-color: $background-color;
   font-size: 18px;
 }
 
 h1, h2, h3, h4, h5, h6{
-  font-family: "Lemonada";
   margin-top: 28px;
 }
 
 h1{
   font-size: 30px;
+  font-weight: 900;
 }
 
 h2{
-  font-size: 28px;
+  font-size: 27px;
+  font-weight: 700;
 }
 
 h3{
-  font-size: 26px;
+  font-size: 24px;
+  font-weight: 500;
 }
 
 h4{
-  font-size: 24px;
+  font-size: 22px;
+  font-weight: 400;
 }
 
 h5{
-  font-size: 22px;
+  font-size: 20px;
+  font-weight: 200;
 }
 
 h6{
-  font-size: 20px;
+  font-size: 18px;
+  font-weight: 100;
 }
 
 img {
@@ -60,19 +65,27 @@ img {
 }
 
 a {
-  color: #747593;
-  font-weight: bold;
+  color: $text-color;
+  font-weight: 900;
 }
 
 a:hover {
-  color: $text-color;
+  color: #6062a5;
+}
+
+p a {
   text-decoration: underline;
 }
 
 code {
   color: $text-color;
   border-left: 3px solid $brand-color;
-  padding-left: 10px;
+  padding-left: 8px;
+}
+
+blockquote {
+  border-left: 3px solid $brand-color;
+  padding-left: 8px;
 }
 
 /* Navbar */
@@ -123,12 +136,6 @@ code {
 
 article.post {
   margin-bottom: 28px;
-}
-
-.post-title {
-  font-family: "Lemonada";
-  font-size: 28px;
-  padding-top: 50px;
 }
 
 /* Post Media */
