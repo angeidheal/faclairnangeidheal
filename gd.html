@@ -4,7 +4,9 @@ title: GD->GA/EN
 ---
 
 <ul>
-  {% for post in site.categories.gd | sort %}
+
+  {% assign sortedPosts = site.posts | sort: 'title' %}
+  {% for post in sortedPosts %}
     <li>
       <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
     </li>
