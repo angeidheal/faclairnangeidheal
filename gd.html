@@ -5,7 +5,7 @@ title: GD->GA/EN
 
 <ul>
 
-  {% assign sortedPosts = site.posts | sort: 'title' case_sensitive:false %}
+  {% assign sortedPosts = site.posts | sort_natural: 'title' %}
   {% for post in sortedPosts %}
     <li>
       <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
