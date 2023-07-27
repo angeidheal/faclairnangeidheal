@@ -10,13 +10,15 @@ categories:
     - gd
 ---
 
-Neach aig a bheil tàladh romansach no feiseil air luchd na gnè ceudna.
-
-Mar eisimpleir, fireannach aig a bheil tàladh romansach no feiseil air fireannaich eile.
-
 1. fir. gin. ⁊ iol. -aich
 
 2. bua. coi. -aiche
+
+## Mìneachadh
+
+Neach aig a bheil tàladh romansach no feiseil air luchd na gnè ceudna.
+
+Mar eisimpleir, fireannach aig a bheil tàladh romansach no feiseil air fireannaich eile.
 
 ## Eadar-theangachaidhean
 
