@@ -22,7 +22,6 @@ Mar eisimpleir, 's e fireannach aig a bheil tàladh romansach no feiseil air fir
 
 &#x1f3f4;&#xe0067;&#xe0062;&#xe0065;&#xe006e;&#xe0067;&#xe007f; homosexual
 
-
 ## Faclan co-cheangailte
 
 [gèidh](https://faclair.lgbt/geidh/)
