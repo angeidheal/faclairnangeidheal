@@ -18,7 +18,7 @@ categories: [gd]
 
 Nuair a dh'innseas neach do chuideigin eile gu bheil iad LGDTC+.
 
-## Làithean mothaichaidh
+## Làithean mothachaidh
 
 Thathar a' comharrachadh Latha Nàiseanta na Tighinn A-mach 11d den Dhàmhair gach bliadhna.
 
