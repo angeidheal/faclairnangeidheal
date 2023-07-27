@@ -26,4 +26,4 @@ Neach aig a bheil tàladh romansach no feiseil air còrr 's aon ghnè.
 
 ## Faclan co-cheangailte
 
-[pan-sheòrsach](/)
+[pan-sheòrsach](https://faclair.lgbt/pan-sheorsach/)
