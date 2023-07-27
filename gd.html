@@ -4,8 +4,8 @@ title: GD->GA/EN
 ---
 
 <ul>
-  {% assign sortedPosts = site.posts | sort_natural: 'title' %}
-  {% for post in sortedPosts %}
-      {{ post.title }}
-  {% endfor %}
+	{% assign sortedPosts = site.posts | sort_natural: 'title' %}
+		{% for post in sortedPosts %}
+			<p>{{ post.title }}</p>
+		{% endfor %}
 </ul>
