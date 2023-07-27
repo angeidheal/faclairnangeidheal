@@ -5,7 +5,7 @@ date: '2022-12-15T10:58:12+00:00'
 author: 'Crìstean MacMhìcheil'
 layout: post
 guid: 'https://faclair.lgbt/?p=193'
-permalink: /da%e2%80%91sheorsach/
+permalink: /da-sheorsach/
 categories:
     - gd
 ---
@@ -16,7 +16,7 @@ categories:
 
 ## Mìneachadh
 
-
+Neach aig a bheil tàladh romansach no feiseil air còrr 's aon ghnè.
 
 ## Eadar-theangachaidhean
 
@@ -25,3 +25,5 @@ categories:
 &#x1f3f4;&#xe0067;&#xe0062;&#xe0065;&#xe006e;&#xe0067;&#xe007f; bisexual
 
 ## Faclan co-cheangailte
+
+[pan-sheòrsach](/)
