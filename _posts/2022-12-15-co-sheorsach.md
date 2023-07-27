@@ -18,6 +18,8 @@ Mar eisimpleir, fireannach aig a bheil tàladh romansach no feiseil air fireanna
 
 2. bua. coi. -aiche
 
+## Eadar-theangachaidhean
+
 &#x1f1ee;&#x1f1ea; homaighnéasach
 
 &#x1f3f4;&#xe0067;&#xe0062;&#xe0065;&#xe006e;&#xe0067;&#xe007f; homosexual
