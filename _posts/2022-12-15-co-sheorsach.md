@@ -12,7 +12,7 @@ categories:
 
 Neach aig a bheil tàladh romansach no feiseil air luchd na gnè ceudna.
 
-Mar eisimpleir, 's e fireannach aig a bheil tàladh romansach no feiseil air fireannaich eile.
+Mar eisimpleir, fireannach aig a bheil tàladh romansach no feiseil air fireannaich eile.
 
 1. fir. gin. ⁊ iol. -aich
 
