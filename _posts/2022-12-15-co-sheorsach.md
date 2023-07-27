@@ -25,4 +25,5 @@ Mar eisimpleir, 's e fireannach aig a bheil tàladh romansach no feiseil air fir
 ## Faclan co-cheangailte
 
 [gèidh](https://faclair.lgbt/geidh/)
+
 [leasbach](https://faclair.lgbt/leasbach/)
