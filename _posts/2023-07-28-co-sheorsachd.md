@@ -36,8 +36,8 @@ Tàladh romansach no feiseil eadar luchd na gnè ceudna.
 
 [leasbachd](https://faclair.lgbt/leasbachd/)
 
-[lgdt](https://faclair.lgbt/lgdt/)
+[LGDT+](https://faclair.lgbt/lgdt/)
 
-[lgdtc](https://faclair.lgbt/lgdtc/)
+[LGDTC+](https://faclair.lgbt/lgdtc/)
 
-[lgdtcen](https://faclair.lgbt/lgdtcen/)
+[LGDTCEN+](https://faclair.lgbt/lgdtcen/)
