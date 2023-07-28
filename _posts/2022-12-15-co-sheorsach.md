@@ -32,6 +32,14 @@ Mar eisimpleir, fireannach aig a bheil tàladh romansach no feiseil air fireanna
 
 ## Faclan co-cheangailte
 
+[co-sheòrsachd](https://faclair.lgbt/co-sheorsachd/)
+
 [gèidh](https://faclair.lgbt/geidh/)
 
 [leasbach](https://faclair.lgbt/leasbach/)
+
+[LGDT+](https://faclair.lgbt/lgdt/)
+
+[LGDTC+](https://faclair.lgbt/lgdtc/)
+
+[LGDTCEN+](https://faclair.lgbt/lgdtcen/)
