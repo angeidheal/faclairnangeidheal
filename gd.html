@@ -1,11 +1,10 @@
 ---
 layout: page
-title: Faclan gu lèir
+title: Gàidhlig
 ---
 
 <p>'S e seo liosta den a h-uile facal a nochdas ann am Faclair nan Gèidheal. Dèan briog air fear airson barrachd fhiosrachaidh mu a dheidhinn.<p>
 
-{% assign sortedPosts = site.posts | sort_natural: 'title' %}
-	{% for post in sortedPosts %}
-		<p><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></p>
-	{% endfor %}
+{% for facal in site.data.faclair %}
+	<p><a href="{{ site.baseurl }}{{ facal.url }}">{{ facal.title }}</a></p>
+{% endfor %}
