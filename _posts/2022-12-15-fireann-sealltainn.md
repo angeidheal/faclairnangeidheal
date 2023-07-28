@@ -5,7 +5,7 @@ date: '2022-12-15T11:03:38+00:00'
 author: 'Crìstean MacMhìcheil'
 layout: post
 guid: 'https://faclair.lgbt/?p=231'
-permalink: /fireann%e2%80%91sealltainn/
+permalink: /fireann-sealltainn/
 categories:
     - gd
 ---

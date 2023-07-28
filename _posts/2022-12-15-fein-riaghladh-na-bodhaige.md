@@ -5,7 +5,7 @@ date: '2022-12-15T11:01:56+00:00'
 author: 'Crìstean MacMhìcheil'
 layout: post
 guid: 'https://faclair.lgbt/?p=223'
-permalink: /fein%e2%80%91riaghladh-na-bodhaige/
+permalink: /fein-riaghladh-na-bodhaige/
 categories:
     - gd
 ---

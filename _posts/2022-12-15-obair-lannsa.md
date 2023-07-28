@@ -5,7 +5,7 @@ date: '2022-12-15T14:26:44+00:00'
 author: 'Crìstean MacMhìcheil'
 layout: post
 guid: 'https://faclair.lgbt/?p=329'
-permalink: /obair%e2%80%91lannsa/
+permalink: /obair-lannsa/
 categories:
     - gd
 ---

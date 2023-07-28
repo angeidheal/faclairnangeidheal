@@ -5,7 +5,7 @@ date: '2022-12-15T14:33:15+00:00'
 author: 'Crìstean MacMhìcheil'
 layout: post
 guid: 'https://faclair.lgbt/?p=377'
-permalink: /sionndram-easbhaidh-ion%e2%80%91dhion-togte/
+permalink: /sionndram-easbhaidh-ion-dhion-togte/
 categories:
     - gd
 ---

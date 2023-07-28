@@ -5,7 +5,7 @@ date: '2022-12-14T09:48:53+00:00'
 author: 'Crìstean MacMhìcheil'
 layout: post
 guid: 'https://macmhicheil.scot/faclair-nan-geidheal/?p=60'
-permalink: /aon%e2%80%91sheorsach/
+permalink: /aon-sheorsach/
 categories:
     - gd
 ---

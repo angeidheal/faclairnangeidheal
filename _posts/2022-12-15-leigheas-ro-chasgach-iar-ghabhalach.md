@@ -5,7 +5,7 @@ date: '2022-12-15T11:10:02+00:00'
 author: 'Crìstean MacMhìcheil'
 layout: post
 guid: 'https://faclair.lgbt/?p=275'
-permalink: /leigheas-ro%e2%80%91chasgach-iar%e2%80%91ghabhalach/
+permalink: /leigheas-ro-chasgach-iar-ghabhalach/
 categories:
     - gd
 ---

@@ -5,7 +5,7 @@ date: '2022-12-15T10:47:28+00:00'
 author: 'Crìstean MacMhìcheil'
 layout: post
 guid: 'https://faclair.lgbt/?p=138'
-permalink: /bioras-easbhaidh-ion%e2%80%91dhion-daonna/
+permalink: /bioras-easbhaidh-ion-dhion-daonna/
 categories:
     - gd
 ---

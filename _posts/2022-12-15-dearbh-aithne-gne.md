@@ -5,7 +5,7 @@ date: '2022-12-15T10:58:43+00:00'
 author: 'Crìstean MacMhìcheil'
 layout: post
 guid: 'https://faclair.lgbt/?p=197'
-permalink: /dearbh%e2%80%91aithne-gne/
+permalink: /dearbh-aithne-gne/
 categories:
     - gd
 ---

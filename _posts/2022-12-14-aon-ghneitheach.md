@@ -5,7 +5,7 @@ date: '2022-12-14T08:39:38+00:00'
 author: 'Crìstean MacMhìcheil'
 layout: post
 guid: 'https://macmhicheil.scot/faclair-nan-geidheal/?p=58'
-permalink: /aon%e2%80%91ghneitheach/
+permalink: /aon-ghneitheach/
 categories:
     - gd
 ---

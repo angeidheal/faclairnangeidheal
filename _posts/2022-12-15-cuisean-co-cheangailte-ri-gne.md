@@ -5,7 +5,7 @@ date: '2022-12-15T10:57:45+00:00'
 author: 'Crìstean MacMhìcheil'
 layout: post
 guid: 'https://faclair.lgbt/?p=189'
-permalink: /cuisean-co%e2%80%91cheangailte-ri-gne/
+permalink: /cuisean-co-cheangailte-ri-gne/
 categories:
     - gd
 ---

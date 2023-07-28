@@ -5,7 +5,7 @@ date: '2022-12-15T10:54:00+00:00'
 author: 'Crìstean MacMhìcheil'
 layout: post
 guid: 'https://faclair.lgbt/?p=163'
-permalink: /ceile-dhen-aon%e2%80%91ghne/
+permalink: /ceile-dhen-aon-ghne/
 categories:
     - gd
 ---

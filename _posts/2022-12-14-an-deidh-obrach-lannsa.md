@@ -5,7 +5,7 @@ date: '2022-12-14T08:30:36+00:00'
 author: 'Crìstean MacMhìcheil'
 layout: post
 guid: 'https://macmhicheil.scot/faclair-nan-geidheal/?p=50'
-permalink: /an-deidh-obrach%e2%80%91lannsa/
+permalink: /an-deidh-obrach-lannsa/
 categories:
     - gd
 ---

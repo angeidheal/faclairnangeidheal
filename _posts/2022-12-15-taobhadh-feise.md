@@ -5,7 +5,7 @@ date: '2022-12-15T14:34:50+00:00'
 author: 'Crìstean MacMhìcheil'
 layout: post
 guid: 'https://faclair.lgbt/?p=389'
-permalink: /taobhadh%e2%80%91feise/
+permalink: /taobhadh-feise/
 categories:
     - gd
 ---

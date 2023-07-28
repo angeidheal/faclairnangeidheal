@@ -5,7 +5,7 @@ date: '2022-12-15T14:33:31+00:00'
 author: 'Crìstean MacMhìcheil'
 layout: post
 guid: 'https://faclair.lgbt/?p=379'
-permalink: /sionndram-neo%e2%80%91mhothalachd-nan-gineachan-fireann/
+permalink: /sionndram-neo-mhothalachd-nan-gineachan-fireann/
 categories:
     - gd
 ---

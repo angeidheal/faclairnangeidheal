@@ -5,7 +5,7 @@ date: '2022-12-15T14:24:40+00:00'
 author: 'Crìstean MacMhìcheil'
 layout: post
 guid: 'https://faclair.lgbt/?p=317'
-permalink: /neo%e2%80%91romansach/
+permalink: /neo-romansach/
 categories:
     - gd
 ---

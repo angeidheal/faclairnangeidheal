@@ -5,7 +5,7 @@ date: '2022-12-15T14:28:30+00:00'
 author: 'Crìstean MacMhìcheil'
 layout: post
 guid: 'https://faclair.lgbt/?p=343'
-permalink: /oillt-thar%e2%80%91ghneitheach/
+permalink: /oillt-thar-ghneitheach/
 categories:
     - gd
 ---

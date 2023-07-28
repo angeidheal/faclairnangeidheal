@@ -5,7 +5,7 @@ date: '2022-12-15T14:30:29+00:00'
 author: 'Crìstean MacMhìcheil'
 layout: post
 guid: 'https://faclair.lgbt/?p=357'
-permalink: /pribhleid-eile%e2%80%91sheorsach/
+permalink: /pribhleid-eile-sheorsach/
 categories:
     - gd
 ---

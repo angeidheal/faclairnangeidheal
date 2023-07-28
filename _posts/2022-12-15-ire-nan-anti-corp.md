@@ -5,7 +5,7 @@ date: '2022-12-15T11:08:47+00:00'
 author: 'Crìstean MacMhìcheil'
 layout: post
 guid: 'https://faclair.lgbt/?p=267'
-permalink: /ire-nan-anti%e2%80%91corp/
+permalink: /ire-nan-anti-corp/
 categories:
     - gd
 ---

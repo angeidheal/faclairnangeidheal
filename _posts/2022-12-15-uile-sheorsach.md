@@ -5,7 +5,7 @@ date: '2022-12-15T16:00:51+00:00'
 author: 'Crìstean MacMhìcheil'
 layout: post
 guid: 'https://faclair.lgbt/?p=426'
-permalink: /uile%e2%80%91sheorsach/
+permalink: /uile-sheorsach/
 categories:
     - gd
 ---

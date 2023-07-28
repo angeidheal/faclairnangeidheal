@@ -5,7 +5,7 @@ date: '2022-12-15T11:06:21+00:00'
 author: 'Crìstean MacMhìcheil'
 layout: post
 guid: 'https://faclair.lgbt/?p=249'
-permalink: /grain-da%e2%80%91sheorsachd/
+permalink: /grain-da-sheorsachd/
 categories:
     - gd
 ---

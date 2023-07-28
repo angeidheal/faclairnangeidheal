@@ -5,7 +5,7 @@ date: '2022-12-15T10:55:33+00:00'
 author: 'Crìstean MacMhìcheil'
 layout: post
 guid: 'https://faclair.lgbt/?p=175'
-permalink: /co%e2%80%91ionannachd-posaidh/
+permalink: /co-ionannachd-posaidh/
 categories:
     - gd
 ---
