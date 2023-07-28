@@ -2,31 +2,27 @@
 
 layout: post
 
-title: leasbach
+title: leasbachd
 
 date: 2022-12-14 05:29:01
 
 author: Crìstean MacMhìcheil
 
-permalink: /leasbach/
+permalink: /leasbachd/
 
 categories: [gd]
 
 ---
 
-1. fir. gin. ⁊ iol. -aich
-
-2. bua. coi. -aiche
-
 ## Mìneachadh
 
-Boireannach aig a bheil tàladh romansach no feiseil air boireannaich eile.
+Tàladh romansach no feiseil eadar boireannaich.
 
 ## Eadar-theangachaidhean
 
-&#x1f1ee;&#x1f1ea; leispiach
+&#x1f1ee;&#x1f1ea; leispiachas
 
-&#x1f3f4;&#xe0067;&#xe0062;&#xe0065;&#xe006e;&#xe0067;&#xe007f;  lesbian
+&#x1f3f4;&#xe0067;&#xe0062;&#xe0065;&#xe006e;&#xe0067;&#xe007f;  lesbianism
 
 ## Làithean Mothachaidh
 
@@ -40,7 +36,7 @@ Thathar a' comharrachadh Latha Faicsinneachd nan Leasbach 26mh den Ghiblean gach
 
 [gèidh](https://faclair.lgbt/geidh/)
 
-[leasbachd](https://faclair.lgbt/leasbachd/)
+[leasbach](https://faclair.lgbt/leasbach/)
 
 [lgdt](https://faclair.lgbt/lgdt/)
 
