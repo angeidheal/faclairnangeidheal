@@ -3,9 +3,10 @@
 layout: post
 
 title: "neo-sheòrsach"
+
 date: 2022-12-15 14:25:22
 
-author:'Crìstean MacMhìcheil
+author: Crìstean MacMhìcheil
 
 permalink: /neo-sheorsach/
 
