@@ -117,8 +117,8 @@
   gv:
   en: hormone
 
-- title: brodag nan clach / teisteostaron
-  url: /brodag-nan-clach-teisteostaron/
+- title: brodag nan clach
+  url: /brodag-nan-clach/
   def:
   ga: téististéarón
   gv:
@@ -159,12 +159,19 @@
   gv:
   en: Human Immunodeficiency Virus / HIV
 
-- title: caidreabhach / caraid
-  url: /caidreabhach-caraid/
+- title: caidreabhach
+  url: /caidreabhach/
   def:
-  ga: comhghuaill(í)
+  ga: comhghuaill
   gv:
-  en: ally(s)
+  en: ally
+  
+- title: caraid
+  url: /caraid/
+  def:
+  ga: comhghuaill
+  gv:
+  en: ally
 
 - title: caismeachd pròise
   url: /caismeachd-proise/
@@ -330,457 +337,478 @@
 - title: eadar-ghluasad laghail
   url: /eadar-ghluasad-laghail/
   def:
-  ga:
+  ga: trasdul dhlíthiúil
   gv:
-  en:
+  en: legal transition
 
 - title: eadar-ghluasad meadaigeach
   url: /eadar-ghluasad-meadaigeach/
   def:
-  ga:
+  ga: trasdul leighis
   gv:
-  en:
+  en: medical transition
 
 - title: eadar-ghluasad sòisealta
   url: /eadar-ghluasad-soisealta/
   def:
-  ga:
+  ga: trasdul shóisialta
   gv:
-  en:
+  en: social transition
 
 - title: eadar-ghnèitheach
   url: /eadar-ghneitheach/
   def:
-  ga:
+  ga: idir-inscneach
   gv:
-  en:
+  en: intergender
 
 - title: eadar-sheòrsach
   url: /eadar-sheorsach/
   def:
-  ga:
+  ga: idirghnéas
   gv:
-  en:
+  en: intersex
 
 - title: earotaigeachd cho-sheòrsach
   url: /earotaigeachd-cho-sheorsach/
   def:
-  ga:
+  ga: homa-earótachas
   gv:
-  en:
+  en: homoeroticism
 
 - title: eastraigin
   url: /eastraigin/
   def:
-  ga:
+  ga: éastraigin
   gv:
-  en:
+  en: oestrogen
 
 - title: eile-sheòrsach
   url: /eile-sheorsach/
   def:
-  ga:
+  ga: heitrighnéasach
   gv:
-  en:
+  en: heterosexual
 
 - title: far-ghnèitheach
   url: /far-ghneitheach/
   def:
-  ga:
+  ga: inscne-aiteach
   gv:
-  en:
+  en: genderqueer
 
 - title: fear-gèidh
   url: /fear-geidh/
   def:
-  ga:
+  ga: fear aerach
   gv:
-  en:
+  en: a gay man
 
 - title: feartan-gnè
   url: /feartan-gne/
   def:
-  ga:
+  ga: tréithe gnéis
   gv:
-  en:
+  en: sex characteristics
 
 - title: feisealachd
   url: /feisealachd/
   def:
-  ga:
+  ga: gnéasacht
   gv:
-  en:
+  en: sexuality
 
 - title: fireann gu boireann
   url: /fireann-gu-boireann/
   def:
-  ga:
+  ga: fireann gu baineann
   gv:
-  en:
+  en: male to female (MTF)
 
 - title: fireann-sealltainn
   url: /fireann-sealltainn/
   def:
-  ga:
+  ga: léiriú fireann
   gv:
-  en:
+  en: masculine-presenting
 
 - title: fireannaich a bhios ri feise le fireannaich
   url: /fireannaich-a-bhios-ri-feise-le-fireannaich/
   def:
-  ga:
+  ga: fir a mbíonn gnéas acu le fir
   gv:
-  en:
+  en: men who have sex with men
 
 - title: fèis-pròise
   url: /feis-proise/
   def:
-  ga:
+  ga: féile bhròid
   gv:
-  en:
+  en: pride - march, event, celebration etc.
 
 - title: féin-riaghladh na bodhaige
   url: /fein-riaghladh-na-bodhaige/
   def:
-  ga:
+  ga: féinriail coirp
   gv:
-  en:
+  en: bodily autonomy
 
 - title: gnè-nòrmadach
   url: /gne-normadach/
   def:
-  ga:
+  ga: gnáthach ó thaobh na hinscne de
   gv:
-  en:
+  en: gender normative
 
 - title: gnè-nòrmadachd
   url: /gne-normadachd/
   def:
-  ga:
+  ga: normatacht inscne
   gv:
-  en:
+  en: gender normativity
 
 - title: gnè-shùbailte
   url: /gne-shubailte/
   def:
-  ga:
+  ga: inscne-sholúbtha
   gv:
-  en:
+  en: gender fluid
 
 - title: gnèitheachas eile-sheòrsach
   url: /gneitheachas-eile-sheorsach/
   def:
-  ga:
+  ga: heitrighnéasachas
   gv:
-  en:
+  en: heterosexism
 
 - title: gràin co-sheòrsachd
   url: /grain-co-sheorsachd/
   def:
-  ga:
+  ga: homafóibe
   gv:
-  en:
+  en: homophobia
 
 - title: gràin dà-sheòrsachd
   url: /grain-da-sheorsachd/
   def:
-  ga:
+  ga: dáfoibe
   gv:
-  en:
+  en: biphobia
 
 - title: gràin-tar-ghnèitheachd
   url: /grain-tar-ghneitheachd/
   def:
-  ga:
+  ga: uamhan tras
   gv:
-  en:
+  en: transphobia
 
 - title: gun obair-lannsa
   url: /gun-obair-lannsa/
   def:
-  ga:
+  ga: gan obráid
   gv:
-  en:
+  en: non-op
 
 - title: gèidh
   url: /geidh/
   def:
-  ga:
+  ga: aerach
   gv:
-  en:
+  en: gay
 
 - title: Gèidheal
   url: /geidheal/
   def:
-  ga:
+  ga: Gaylgeoir
   gv:
-  en:
+  en: Gay Gael
+
+- title: gille-tòine
+  url: /gille-toine/
+  def:
+  ga: gúngaire
+  gv:
+  en: faggot
 
 - title: gònad
   url: /gonad/
   def:
-  ga:
+  ga: gónad
   gv:
-  en:
+  en: gonad
+
+-title: homafòbach
+  url: /homafòbach/
+  def:
+  ga: homafóbach
+  gv:
+  en: homophobic
 
 - title: iol-ghnèitheach
   url: /iol-ghneitheach/
   def:
   ga:
   gv:
-  en:
+  en: heterogender
 
 - title: iol-sheòrsach
   url: /iol-sheorsach/
   def:
-  ga:
+  ga: heitrighnéasach
   gv:
-  en:
+  en: heterosexual
 
 - title: ioma-ghnèitheach
   url: /ioma-ghneitheach/
   def:
-  ga:
+  ga: il-inscnéach
   gv:
-  en:
+  en: multigender
 
 - title: ioma-leannanach
   url: /ioma-leannanach/
   def:
-  ga:
+  ga: il-leannánach
   gv:
-  en:
+  en: polyamorous
 
 - title: ioma-leannanachd
   url: /ioma-leannanachd/
   def:
-  ga:
+  ga: il-leannánacht
   gv:
-  en:
+  en: polyamory
 
 - title: ioma-sheòrsach
   url: /ioma-sheorsach/
   def:
-  ga:
+  ga: ilghnéasach
   gv:
-  en:
+  en: polysexual
 
 - title: ìre nan anti-corp
   url: /ire-nan-anti-corp/
   def:
-  ga:
+  ga: stádas antasubstainte
   gv:
-  en:
+  en: antibody status
 
 - title: leasbach
   url: /leasbach/
   def:
+  ga: leispiach
+  gv:
+  en: lesbian
+
+- title: leasbach dhatha-bhilean
+  url: /leasbach-dhatha-bhilean/
+  def:
   ga:
   gv:
-  en:
+  en: lipstick lesbian
 
 - title: leasbachd
   url: /leasbachd/
   def:
-  ga:
+  ga: leispiachas
   gv:
-  en:
+  en: lesbianism
 
 - title: Leigheas Ro-chasgach Iar-ghabhalach
   url: /leigheas-ro-chasgach-iar-ghabhalach/
   def:
-  ga:
+  ga: Próifiolacsas Tar Éis an Nochtaidh
   gv:
-  en:
+  en: Post-Exposure Prophylaxis (PEP)
 
 - title: Leigheas Ro-chasgach Ro-ghabhalach
   url: /leigheas-ro-chasgach-ro-ghabhalach/
   def:
-  ga:
+  ga: Próifiolacsas Roimh an Nochtaidh
   gv:
-  en:
+  en: Pre-Exposure Prophylaxis (PrEP)
 
 - title: leigheas torrachais
   url: /leigheas-torrachais/
   def:
-  ga:
+  ga: cóir leighis torthúlachta / cóireáil torthúlachta
   gv:
-  en:
+  en: fertility treatment
 
 - title: leth-bhreith
   url: /leth-bhreith/
   def:
-  ga:
+  ga: leithcheal
   gv:
-  en:
+  en: discrimination
 
 - title: leth-bhreith a thaobh gnè
   url: /leth-bhreith-a-thaobh-gne/
   def:
-  ga:
+  ga: idirdhealú ar bhonn inscne
   gv:
-  en:
+  en: gender discrimination
 
 - title: leth-ghnèitheach
   url: /leth-ghneitheach/
   def:
-  ga:
+  ga: leath-inscneach
   gv:
-  en:
+  en: demigender
 
 - title: leth-romansach
   url: /leth-romansach/
   def:
-  ga:
+  ga: leath-rómánsach
   gv:
-  en:
+  en: demiromantic
 
 - title: leth-sheòrsach
   url: /leth-sheorsach/
   def:
-  ga:
+  ga: leath-ghnéasach
   gv:
-  en:
+  en: demisexual
 
 - title: LGDT+
   url: /lgdt/
   def:
-  ga:
+  ga: LADT+ (Leispiach, Aerach, Déghnéasach agus Trasinscneach+)
   gv:
-  en:
+  en: LGBT+ (Lesbian, Gay, Bisexual and Transgender+)
 
 - title: LGDTC+
   url: /lgdtc/
   def:
-  ga:
+  ga: LADTA+ (Leispiach, Aerach, Déghnéasach, Trasinscneach agus Aiteach)
   gv:
-  en:
+  en: LGBTQ+ (Lesbian, Gay, Bisexual, Transgender and Queer+)
 
 - title: LGDTCEN+
   url: /lgdtcen/
   def:
-  ga:
+  ga: LADTAIG+ (Leispiach, Aerach, Déghnéasach, Trasinscneach, Aiteach, Idirghnéas agus Gan-ghnéasach+)
   gv:
-  en:
+  en: LGBTQIA+ (Lesbian, Gay, Bisexual, Transgender, Queer, Intersex and Asexual+)
 
 - title: luchd-gèidh
   url: /luchd-geidh/
   def:
-  ga:
+  ga: daoine aeracha
   gv:
-  en:
+  en: gay people
 
 - title: mion-chuid
   url: /mion-chuid/
   def:
-  ga:
+  ga: mionlach
   gv:
-  en:
+  en: minority
 
 - title: màthair-ionaid
   url: /mathair-ionaid/
   def:
-  ga:
+  ga: máthair ionaid
   gv:
-  en:
+  en: surrogate mother
 
 - title: mì-ainmeachadh
   url: /mi-ainmeachadh/
   def:
-  ga:
+  ga: mí-ainmnigh
   gv:
-  en:
+  en: deadnaming
 
 - title: mì-ghnèitheachadh
   url: /mi-ghneitheachadh/
   def:
-  ga:
+  ga: mí-inscnig
   gv:
-  en:
+  en: misgendering
 
 - title: mì-rian dearbh-aithne gnè
   url: /mi-rian-dearbh-aithne-gne/
   def:
-  ga:
+  ga: neamhord fhéiniúlacht inscne
   gv:
-  en:
+  en: gender identity disorder
 
 - title: neach-gèidh
   url: /neach-geidh/
   def:
-  ga:
+  ga: duine aerach
   gv:
-  en:
+  en: a gay person
 
 - title: neach-ionaid
   url: /neach-ionaid/
   def:
-  ga:
+  ga: ionaid
   gv:
-  en:
+  en: a surrogate
 
 - title: neo-bhìnearaidh
   url: /neo-bhinearaidh/
   def:
-  ga:
+  ga: neamh-dhénártha
   gv:
-  en:
+  en: non-binary
 
 - title: neo-ghnèitheach
   url: /neo-ghneitheach/
   def:
-  ga:
+  ga: gan inscne
   gv:
-  en:
+  en: agender
 
 - title: neo-romansach
   url: /neo-romansach/
   def:
-  ga:
+  ga: gan-rómánsach
   gv:
-  en:
+  en: aromantic
 
 - title: neo-rèireach a-thaobh gnè
   url: /neo-reireach-a-thaobh-gne/
   def:
-  ga:
+  ga: neamh-chomhréireach ó thaobh inscne de
   gv:
-  en:
+  en: gender non-conforming
 
 - title: neo-sheòrsach
   url: /neo-sheorsach/
   def:
-  ga:
+  ga: gan-ghnéasach
   gv:
-  en:
+  en: asexual
 
 - title: neo-shàstachd gnè
   url: /neo-shastachd-gne/
   def:
-  ga:
+  ga: diosfóiria Inscne
   gv:
-  en:
+  en: gender dysphoria
 
 - title: neodroiseach
   url: /neodroiseach/
   def:
-  ga:
+  ga: neodrasach
   gv:
-  en:
+  en: neutrois
 
 - title: nochdadh gnè
   url: /nochdadh-gne/
   def:
-  ga:
+  ga: nochtadh inscne
   gv:
-  en:
+  en: gender expression
 
 - title: nàrachadh
   url: /narachadh/
   def:
-  ga:
+  ga: náiriú
   gv:
-  en:
+  en: shaming
 
 - title: nòrmadachd na h-eile-sheòrsachd
   url: 
@@ -792,356 +820,356 @@
 - title: obair-lannsa
   url: /obair-lannsa/
   def:
-  ga:
+  ga: máinliacht
   gv:
-  en:
+  en: surgery
 
 - title: obair-lannsa bràigh na bodhaige
   url: /obair-lannsa-braigh-na-bodhaige/
   def:
-  ga:
+  ga: barrmháinliacht
   gv:
-  en:
+  en: top surgery
 
 - title: obair-lannsa bun na bodhaige
   url: /obair-lannsa-bun-na-bodhaige/
   def:
-  ga:
+  ga: bunmháinliacht
   gv:
-  en:
+  en: bottom surgery
 
 - title: obair-lannsa daingneachadh gnè
   url: /obair-lannsa-daingneachadh-gne/
   def:
-  ga:
+  ga: máinliacht dhaingniú inscne
   gv:
-  en:
+  en: gender confirmation surgery
 
 - title: oidheim gnè
   url: /oidheim-gne/
   def:
-  ga:
+  ga: leideanna inscne
   gv:
-  en:
+  en: gender cues
 
 - title: oillt cho-sheòrsach
   url: /oillt-cho-sheorsach/
   def:
-  ga:
+  ga: homafóibe
   gv:
-  en:
+  en: homophobia
 
 - title: oillt dhà-sheòrsach
   url: /oillt-dha-sheorsach/
   def:
-  ga:
+  ga: dáfoibé
   gv:
-  en:
+  en: biphobia
 
 - title: oillt thar-ghnèitheach
   url: /oillt-thar-ghneitheach/
   def:
-  ga:
+  ga: uamhan tras
   gv:
-  en:
+  en: transphobia
 
 - title: Os-fhàs Co-ghrùthanach Co-bhreitheach
   url: /os-fhas-co-ghruthanach-co-bhreitheach/
   def:
-  ga:
+  ga: Hipearpláise Aidréineach Comhbheirthe
   gv:
-  en:
+  en: Congenital Adrenal Hyperplasia
 
 - title: pan-sheòrsach
   url: /pan-sheorsach/
   def:
-  ga:
+  ga: il-ghnéasach
   gv:
-  en:
+  en: pansexual
 
 - title: pasaigeadh
   url: /pasaigeadh/
   def:
-  ga:
+  ga: saorchead
   gv:
-  en:
+  en: passing
 
 - title: pribhleid eile-sheòrsach
   url: /pribhleid-eile-sheorsach/
   def:
-  ga:
+  ga: pribhléid heitrea-ghnéasach
   gv:
-  en:
+  en: heterosexual privilege
 
 - title: pròis
   url: /prois/
   def:
-  ga:
+  ga: bròd
   gv:
-  en:
+  en: pride
 
 - title: pròis ghèidh
   url: /prois-gheidh/
   def:
-  ga:
+  ga: bród aerach
   gv:
-  en:
+  en: gay pride
 
 - title: pròiseil
   url: /proiseil/
   def:
-  ga:
+  ga: bródúil
   gv:
-  en:
+  en: proud
 
 - title: pàtran chròmosoman
   url: /patran-chromosoman/
   def:
-  ga:
+  ga: leagan amach na gcrómósóm
   gv:
-  en:
+  en: chromosome pattern
 
 - title: pòsadh aon-sheòrsach
   url: /posadh-aon-sheorsach/
   def:
-  ga:
+  ga: pósadh comhghnéis
   gv:
-  en:
+  en: same-sex marriage
 
 - title: riochdair
   url: /riochdair/
   def:
-  ga:
+  ga: forainm(neacha)
   gv:
-  en:
+  en: pronoun(s)
 
 - title: riochdairean ròghnaichte
   url: /riochdairean-roghnaichte/
   def:
-  ga:
+  ga: forainmneacha roghnaithe
   gv:
-  en:
+  en: preferred / chosen pronouns
 
 - title: riochdairean Spivak
   url: /riochdairean-spivak/
   def:
-  ga:
+  ga: forainmneacha Spivikian
   gv:
-  en:
+  en: Spivakian pronouns
 
 - title: ro obair-lannsa
   url: /ro-obair-lannsa/
   def:
-  ga:
+  ga: réamh-obráid
   gv:
-  en:
+  en: pre-op
 
 - title: rìgh draga
   url: /righ-draga/
   def:
-  ga:
+  ga: rí draig
   gv:
-  en:
+  en: drag king
 
 - title: sa chlòsaid
   url: /sa-chlosaid/
   def:
-  ga:
+  ga: faoi choim
   gv:
-  en:
+  en: closeted / in the closet
 
 - title: seachranachd gnè
   url: /seachranachd-gne/
   def:
-  ga:
+  ga: inscne-mhalartach
   gv:
-  en:
+  en: gender variant
 
 - title: Sionndram Easbhaidh Ion-dhìon Togte
   url: /sionndram-easbhaidh-ion-dhion-togte/
   def:
-  ga:
+  ga: Siondróm Easpa Imdhionachta Faighte
   gv:
-  en:
+  en: Acquired Immunodeficiency Syndrome / AIDS
 
 - title: Sionndram Neo-mhothalachd nan Gineachan Fireann
   url: /sionndram-neo-mhothalachd-nan-gineachan-fireann/
   def:
-  ga:
+  ga: Siondróm Neamhmhothálach Andraigín
   gv:
-  en:
+  en: Androgyn Insensitivity Syndrome
 
 - title: speactram gnè
   url: /speactram-gne/
   def:
-  ga:
+  ga: speictream inscne
   gv:
-  en:
+  en: gender spectrum
 
 - title: sìolachadh fuadain
   url: /siolachadh-fuadain/
   def:
-  ga:
+  ga: inseamhnú saorga
   gv:
-  en:
+  en: artificial insemination
 
 - title: sùbailteachd
   url: /subailteachd/
   def:
-  ga:
+  ga: solúbhthacht
   gv:
-  en:
+  en: fluidity
 
 - title: sùbailteachd-gnè
   url: /subailteachd-gne/
   def:
-  ga:
+  ga: solúbhthacht inscne
   gv:
-  en:
+  en: gender fluidity
 
 - title: taisbeantas gnè
   url: /taisbeantas-gne/
   def:
-  ga:
+  ga: léiriú insce
   gv:
-  en:
+  en: gender performance
 
 - title: taobhadh measgaichte
   url: /taobhadh-measgaichte/
   def:
-  ga:
+  ga: claonadh measctha
   gv:
-  en:
+  en: crossed/mixed orientation
 
 - title: taobhadh romansach
   url: /taobhadh-romansach/
   def:
-  ga:
+  ga: claonadh rómánsach
   gv:
-  en:
+  en: romantic orientation
 
 - title: taobhadh-feise
   url: /taobhadh-feise/
   def:
-  ga:
+  ga: gnéaschlaonadh / claonadh gnéis
   gv:
-  en:
+  en: sexual orientation
 
 - title: tar-bhoireann
   url: /tar-bhoireann/
   def:
-  ga:
+  ga: trasbhaineann
   gv:
-  en:
+  en: transfeminine
 
 - title: tar-bhoireannach
   url: /tar-bhoireannach/
   def:
-  ga:
+  ga: bean thras
   gv:
-  en:
+  en: a trans woman
 
 - title: tar-dhuine
   url: /tar-dhuine/
   def:
-  ga:
+  ga: fear tras
   gv:
-  en:
+  en: a trans man
 
 - title: tar-fhireann
   url: /tar-fhireann/
   def:
-  ga:
+  ga: trasfhireann
   gv:
-  en:
+  en: transmasculine
 
 - title: tar-fhireannach
   url: /tar-fhireannach/
   def:
-  ga:
+  ga: fear tras
   gv:
-  en:
+  en: a trans man
 
 - title: tar-ghnèitheach
   url: /tar-ghneitheach/
   def:
-  ga:
+  ga: trasinscneach
   gv:
-  en:
+  en: transgender
 
 - title: tar-neach
   url: /tar-neach/
   def:
-  ga:
+  ga: duine tras
   gv:
-  en:
+  en: a trans person
 
 - title: tar-sheòrsach
   url: /tar-sheorsach/
   def:
-  ga:
+  ga: trasghnéasach
   gv:
-  en:
+  en: transexual
 
 - title: tar-éidiche
   url: /tar-eidiche/
   def:
-  ga:
+  ga: trasfheisteoir
   gv:
-  en:
+  en: a transvestite
 
 - title: teiripe iompachaidh
   url: /teiripe-iompachaidh/
   def:
-  ga:
+  ga: teiripe iompaithe
   gv:
-  en:
+  en: conversion therapy
 
 - title: Teiripe Ionadachadh Bhrodagan
   url: /teiripe-ionadachadh-bhrodagan/
   def:
-  ga:
+  ga: Teiripe Athsholáthair Hormón
   gv:
-  en:
+  en: Hormone Replacement Therapy (HRT)
 
 - title: Teisteanas Aithneachadh Gnè
   url: /teisteanas-aithneachadh-gne/
   def:
-  ga:
+  ga: Deimhniú Aitheantais Inscne
   gv:
-  en:
+  en: Gender Recognition Certificate
 
-- title: teisteostaron / brodag nan clach
+- title: teisteostaron
   url: /teisteostaron-brodag-nan-clach/
   def:
-  ga:
+  ga: téististéarón
   gv:
-  en:
+  en: testosterone
 
 - title: thar-bhith-beò
   url: /thar-bhith-beo/
   def:
-  ga:
+  ga: trasbheomhar
   gv:
-  en:
+  en: cross-living
 
 - title: tighinn a-mach
   url: /tighinn-a-mach/
   def:
-  ga:
+  ga: teacht amach
   gv:
-  en:
+  en: coming out
 
 - title: uile-ghnèitheach
   url: /uile-ghneitheach/
   def:
   ga:
   gv:
-  en:
+  en: unigender
 
 - title: uile-sheòrsach
   url: /uile-sheorsach/
   def:
   ga:
   gv:
-  en:
+  en: unisex
