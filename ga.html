@@ -5,11 +5,6 @@ title: Gailege
 
 <p>Seo liosta de na focail Ghaeilge ar fad in Foclóir na nGaylgeoirí.<p>
 
-<!--{% for facal in site.data.faclair | sort %}
-	<p><a href="{{ site.baseurl }}{{ facal.url }}">{{ facal.ga }}</a></p>
-{% endfor %}-->
-
-{% assign focloir = site.data.faclair | group by: "ga" %}
-{% for focal in focloir %}
+{% for facal in site.data.faclair | sort %}
 	<p><a href="{{ site.baseurl }}{{ facal.url }}">{{ facal.ga }}</a></p>
 {% endfor %}
