@@ -1,4 +1,9 @@
-
+- title: "Achd Aithneachadh Gnè (2004)"
+  url: "/achd-aithneachadh-gne-2004/"
+  def: ""
+  ga: "An tAcht um Inscne a Aithint (2004)"
+  gv: ""
+  en: "Gender Recognition Act (2004)"
 
 - title: "Achd nan Eucoirean Feise Eachdraidheil (Mathanas agus Dearmadan) 2018"
   url: "/achd-nan-eucoirean-feise-eachdraidheil-mathanas-agus-dearmadan-2018/"
@@ -532,7 +537,7 @@
   gv: ""
   en: "gonad"
 
--title: "homafòbach"
+- title: "homafòbach"
   url: "/homafòbach/"
   def: ""
   ga: "homafóbach"
