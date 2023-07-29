@@ -10,5 +10,6 @@ title: Gailege
 {% endfor %}-->
 
 {% assign focloir = site.data.faclair | group by: "ga" %}
+{% for focal in focloir %}
 	<p><a href="{{ site.baseurl }}{{ facal.url }}">{{ facal.ga }}</a></p>
 {% endfor %}
