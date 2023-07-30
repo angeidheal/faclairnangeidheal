@@ -1,7 +1,7 @@
 ---
 id: 207
 title: eadar-ghnèitheach
-date: '2022-12-15T10:59:58+00:00'
+date: 2009-08-28 09:08:28
 author: 'Crìstean MacMhìcheil'
 layout: post
 guid: 'https://faclair.lgbt/?p=207'

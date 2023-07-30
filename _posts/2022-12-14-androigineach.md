@@ -1,13 +1,15 @@
 ---
-id: 52
-title: androigineach
-date: '2022-12-14T08:30:55+00:00'
-author: 'Crìstean MacMhìcheil'
+
 layout: post
-guid: 'https://macmhicheil.scot/faclair-nan-geidheal/?p=52'
+
+title: "androigineach"
+
+date: 2009-08-28 09:08:28
+
 permalink: /androigineach/
-categories:
-    - gd
+
+categories: [gd]
+
 ---
 
 ## Mìneachadh

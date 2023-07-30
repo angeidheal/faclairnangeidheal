@@ -1,16 +1,20 @@
 ---
-id: 42
-title: 'aintighearnas institiuideach'
-date: '2022-12-14T07:51:22+00:00'
-author: 'Crìstean MacMhìcheil'
+
 layout: post
-guid: 'https://macmhicheil.scot/faclair-nan-geidheal/?p=42'
+
+title: "aintighearnas institiuideach"
+
+date: 2009-08-28 09:08:28
+
 permalink: /aintighearnas-institiuideach/
-categories:
-    - gd
+
+categories: [gd]
+
 ---
 
 ## Mìneachadh
+
+Ri thighinn
 
 ## Eadar-theangachaidhean
 

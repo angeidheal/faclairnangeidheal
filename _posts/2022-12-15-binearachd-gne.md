@@ -1,13 +1,15 @@
 ---
-id: 136
-title: 'bìnearachd gnè'
-date: '2022-12-15T10:47:14+00:00'
-author: 'Crìstean MacMhìcheil'
+
 layout: post
-guid: 'https://faclair.lgbt/?p=136'
+
+title: "bìnearachd gnè"
+
+date: 2009-08-28 09:08:28
+
 permalink: /binearachd-gne/
-categories:
-    - gd
+
+categories: [gd]
+
 ---
 
 ## Mìneachadh

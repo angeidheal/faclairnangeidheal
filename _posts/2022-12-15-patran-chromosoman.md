@@ -2,7 +2,7 @@
 
 layout: post
 
-title: "pàtran chròmosoman"
+date: 2009-08-28 09:08:28
 
 date: 2022-12-15 14:29:20
 

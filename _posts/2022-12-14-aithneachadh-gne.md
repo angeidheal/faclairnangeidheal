@@ -1,16 +1,20 @@
 ---
-id: 44
-title: 'aithneachadh gnè'
-date: '2022-12-14T07:51:42+00:00'
-author: 'Crìstean MacMhìcheil'
+
 layout: post
-guid: 'https://macmhicheil.scot/faclair-nan-geidheal/?p=44'
+
+title: "aithneachadh gnè"
+
+date: 2009-08-28 09:08:28
+
 permalink: /aithneachadh-gne/
-categories:
-    - gd
+
+categories: [gd]
+
 ---
 
 ## Mìneachadh
+
+Ri thighinn
 
 ## Eadar-theangachaidhean
 

@@ -1,7 +1,7 @@
 ---
 id: 302
 title: 'mì-rian dearbh-aithne gnè'
-date: '2022-12-15T14:18:43+00:00'
+date: 2009-08-28 09:08:28
 author: 'Crìstean MacMhìcheil'
 layout: post
 guid: 'https://faclair.lgbt/?p=302'

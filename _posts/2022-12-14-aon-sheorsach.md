@@ -1,13 +1,15 @@
 ---
-id: 60
-title: aon-sheòrsach
-date: '2022-12-14T09:48:53+00:00'
-author: 'Crìstean MacMhìcheil'
+
 layout: post
-guid: 'https://macmhicheil.scot/faclair-nan-geidheal/?p=60'
+
+title: "aon-sheòrsach"
+
+date: 2009-08-28 09:08:28
+
 permalink: /aon-sheorsach/
-categories:
-    - gd
+
+categories: [gd]
+
 ---
 
 ## Mìneachadh

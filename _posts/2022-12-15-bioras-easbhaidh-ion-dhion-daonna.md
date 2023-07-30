@@ -1,13 +1,15 @@
 ---
-id: 138
-title: 'Bìoras Easbhaidh Ion-dhìon Daonna'
-date: '2022-12-15T10:47:28+00:00'
-author: 'Crìstean MacMhìcheil'
+
 layout: post
-guid: 'https://faclair.lgbt/?p=138'
+
+title: "Bìoras Easbhaidh Ion-dhìon Daonna"
+
+date: 2009-08-28 09:08:28
+
 permalink: /bioras-easbhaidh-ion-dhion-daonna/
-categories:
-    - gd
+
+categories: [gd]
+
 ---
 
 ## Mìneachadh

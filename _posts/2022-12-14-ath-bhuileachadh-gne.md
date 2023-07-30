@@ -1,13 +1,15 @@
 ---
-id: 62
-title: 'ath-bhuileachadh gnè'
-date: '2022-12-14T09:54:19+00:00'
-author: 'Crìstean MacMhìcheil'
+
 layout: post
-guid: 'https://macmhicheil.scot/faclair-nan-geidheal/?p=62'
+
+title: "ath-bhuileachadh gnè"
+
+date: 2009-08-28 09:08:28
+
 permalink: /ath-bhuileachadh-gne/
-categories:
-    - gd
+
+categories: [gd]
+
 ---
 
 ## Mìneachadh

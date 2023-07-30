@@ -1,7 +1,7 @@
 ---
 id: 284
 title: 'leth-bhreith a thaobh gnè'
-date: '2022-12-15T11:11:00+00:00'
+date: 2009-08-28 09:08:28
 author: 'Crìstean MacMhìcheil'
 layout: post
 guid: 'https://faclair.lgbt/?p=284'

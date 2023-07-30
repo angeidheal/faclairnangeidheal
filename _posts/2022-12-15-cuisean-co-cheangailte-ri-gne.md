@@ -1,7 +1,7 @@
 ---
 id: 189
 title: 'cùisean co-cheangailte ri gnè'
-date: '2022-12-15T10:57:45+00:00'
+date: 2009-08-28 09:08:28
 author: 'Crìstean MacMhìcheil'
 layout: post
 guid: 'https://faclair.lgbt/?p=189'

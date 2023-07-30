@@ -1,7 +1,7 @@
 ---
 id: 201
 title: 'eadar-ghluasad laghail'
-date: '2022-12-15T10:59:13+00:00'
+date: 2009-08-28 09:08:28
 author: 'Crìstean MacMhìcheil'
 layout: post
 guid: 'https://faclair.lgbt/?p=201'

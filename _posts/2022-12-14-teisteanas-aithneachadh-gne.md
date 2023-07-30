@@ -1,13 +1,15 @@
 ---
-id: 46
-title: 'Teisteanas Aithneachadh Gnè'
-date: '2022-12-14T07:52:16+00:00'
-author: 'Crìstean MacMhìcheil'
+
 layout: post
-guid: 'https://macmhicheil.scot/faclair-nan-geidheal/?p=46'
+
+title: "Teisteanas Aithneachadh Gnè"
+
+date: 2009-08-28 09:08:28
+
 permalink: /teisteanas-aithneachadh-gne/
-categories:
-    - gd
+
+categories: [gd]
+
 ---
 
 ## Mìneachadh

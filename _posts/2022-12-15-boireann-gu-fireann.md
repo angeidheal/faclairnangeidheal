@@ -1,13 +1,15 @@
 ---
-id: 140
-title: 'boireann gu fireann'
-date: '2022-12-15T10:47:44+00:00'
-author: 'Crìstean MacMhìcheil'
+
 layout: post
-guid: 'https://faclair.lgbt/?p=140'
+
+title: "boireann gu fireann"
+
+date: 2009-08-28 09:08:28
+
 permalink: /boireann-gu-fireann/
-categories:
-    - gd
+
+categories: [gd]
+
 ---
 
 ## Mìneachadh

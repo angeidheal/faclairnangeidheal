@@ -1,13 +1,15 @@
 ---
-id: 142
-title: boireann-sealltainn
-date: '2022-12-15T10:48:00+00:00'
-author: 'Crìstean MacMhìcheil'
+
 layout: post
-guid: 'https://faclair.lgbt/?p=142'
+
+title: boireann-sealltainn
+
+date: 2009-08-28 09:08:28
+
 permalink: /boireann-sealltainn/
-categories:
-    - gd
+
+categories: [gd]
+
 ---
 
 ## Mìneachadh

@@ -1,13 +1,15 @@
 ---
-id: 54
-title: 'annas dhen dà-sheòrsachd'
-date: '2022-12-14T08:31:16+00:00'
-author: 'Crìstean MacMhìcheil'
+
 layout: post
-guid: 'https://macmhicheil.scot/faclair-nan-geidheal/?p=54'
+
+title: "annas dhen dà-sheòrsachd"
+
+date: 2009-08-28 09:08:28
+
 permalink: /annas-dhen-da-sheorsachd/
-categories:
-    - gd
+
+categories: [gd]
+
 ---
 
 ## Mìneachadh

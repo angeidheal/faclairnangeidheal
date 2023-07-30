@@ -1,13 +1,15 @@
 ---
-id: 134
-title: 'bànrigh draga'
-date: '2022-12-15T10:46:59+00:00'
-author: 'Crìstean MacMhìcheil'
+
 layout: post
-guid: 'https://faclair.lgbt/?p=134'
+
+title: "bànrigh draga"
+
+date: 2009-08-28 09:08:28
+
 permalink: /banrigh-draga/
-categories:
-    - gd
+
+categories: [gd]
+
 ---
 
 ## Mìneachadh

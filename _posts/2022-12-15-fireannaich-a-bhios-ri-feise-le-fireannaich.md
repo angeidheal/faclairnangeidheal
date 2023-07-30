@@ -1,7 +1,7 @@
 ---
 id: 233
 title: 'fireannaich a bhios ri feise le fireannaich'
-date: '2022-12-15T11:03:51+00:00'
+date: 2009-08-28 09:08:28
 author: 'Crìstean MacMhìcheil'
 layout: post
 guid: 'https://faclair.lgbt/?p=233'
