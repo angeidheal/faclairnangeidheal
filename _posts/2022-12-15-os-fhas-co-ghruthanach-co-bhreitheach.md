@@ -10,7 +10,9 @@ categories:
     - gd
 ---
 
-&#x1f3f4;&#xe0067;&#xe0062;&#xe0073;&#xe0063;&#xe0074;&#xe007f; Os-fhàs Co-ghrùthanach Co-bhreitheach
+## Mìneachadh
+
+## Eadar-theangachaidhean
 
 &#x1f1ee;&#x1f1ea; Hipearpláise Aidréineach Comhbheirthe
 

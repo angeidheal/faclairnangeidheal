@@ -10,7 +10,9 @@ categories:
     - gd
 ---
 
-&#x1f3f4;&#xe0067;&#xe0062;&#xe0073;&#xe0063;&#xe0074;&#xe007f; fireannaich a bhios ri feise le fireannaich
+## Mìneachadh
+
+## Eadar-theangachaidhean
 
 &#x1f1ee;&#x1f1ea; fir a mbíonn gnéas acu le fir
 

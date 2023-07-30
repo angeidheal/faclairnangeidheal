@@ -10,8 +10,9 @@ categories:
     - gd
 ---
 
+## Mìneachadh
 
-&#x1f3f4;&#xe0067;&#xe0062;&#xe0073;&#xe0063;&#xe0074;&#xe007f; nàrachadh
+## Eadar-theangachaidhean
 
 &#x1f1ee;&#x1f1ea; náiriú
 
