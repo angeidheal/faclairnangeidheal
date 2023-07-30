@@ -1,16 +1,20 @@
 ---
-id: 149
-title: brodag-gnè
-date: 2009-08-28 09:08:28
-author: 'Crìstean MacMhìcheil'
+
 layout: post
-guid: 'https://faclair.lgbt/?p=149'
+
+title: "brodag-gnè"
+
+date: 2009-08-28 09:08:28
+
 permalink: /brodag-gne/
-categories:
-    - gd
+
+categories: [gd]
+
 ---
 
 ## Mìneachadh
+
+Ri thighinn
 
 ## Eadar-theangachaidhean
 

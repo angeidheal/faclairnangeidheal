@@ -1,16 +1,20 @@
 ---
-id: 144
-title: 'boireannaich a bhios ri feise le boireannaich'
-date: 2009-08-28 09:08:28
-author: 'Crìstean MacMhìcheil'
+
 layout: post
-guid: 'https://faclair.lgbt/?p=144'
+
+title: "boireannaich a bhios ri feise le boireannaich"
+
+date: 2009-08-28 09:08:28
+
 permalink: /boireannaich-a-bhios-ri-feise-le-boireannaich/
-categories:
-    - gd
+
+categories: [gd]
+
 ---
 
 ## Mìneachadh
+
+Ri thighinn
 
 ## Eadar-theangachaidhean
 

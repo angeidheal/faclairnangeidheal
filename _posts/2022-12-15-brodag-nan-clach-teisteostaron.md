@@ -1,16 +1,20 @@
 ---
-id: 151
-title: 'brodag nan clach / teisteostaron'
-date: 2009-08-28 09:08:28
-author: 'Crìstean MacMhìcheil'
+
 layout: post
-guid: 'https://faclair.lgbt/?p=151'
-permalink: /brodag-nan-clach-teisteostaron/
-categories:
-    - gd
+
+title: "brodag nan clach"
+
+date: 2009-08-28 09:08:28
+
+permalink: /brodag-nan-clach/
+
+categories: [gd]
+
 ---
 
 ## Mìneachadh
+
+Ri thighinn
 
 ## Eadar-theangachaidhean
 

@@ -2,7 +2,7 @@
 
 layout: post
 
-title: boireann-sealltainn
+title: "boireann-sealltainn"
 
 date: 2009-08-28 09:08:28
 
@@ -13,6 +13,8 @@ categories: [gd]
 ---
 
 ## Mìneachadh
+
+Ri thighinn
 
 ## Eadar-theangachaidhean
 
