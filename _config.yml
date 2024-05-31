@@ -6,12 +6,14 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: An Gèidheal Ùr
+title: Faclair nan Gèidheal
 description: > # this means to ignore newlines until "baseurl:"
-  A' toirt thugaibh na naidheachdan LGBTQIA+ as ùire
+  Faclair de bhriathrachas LGDTC+ Gàidhlig
 
 #baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://faclair.lgbt" # the base hostname & protocol for your site
+url: "https://faclair.scot" # the base hostname & protocol for your site
+
+excerpt_separator: <!--more-->
 
 #footer
 author-name: Crìstean MacMhìcheil
@@ -23,11 +25,13 @@ permalink: /:year-:month-:day-:title/
 paginate: 12
 paginate_path: /duilleag-:num/
 
+collections:
+  faclair:
+    output: true
+    permalink: /:path/
+
 #social
-mastodon: https://www.mastodon.scot/@angeidheal
-twitter:
-instagram: https://www.instagram.com/angeidheal
-facebook:
+mastodon: https://abairthusa.scot/@angeidhealur
 github: https://github.com/angeidheal
 email: fios@angeidhealur.scot
 
@@ -38,3 +42,4 @@ email: fios@angeidhealur.scot
 # Ruby Gems
 plugins:
   - jekyll-paginate
+  - jekyll-feed

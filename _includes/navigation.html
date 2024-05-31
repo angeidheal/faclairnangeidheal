@@ -1,5 +1,5 @@
 <nav class="navbar navbar-expand-lg navbar-dark">
-  <a class="navbar-brand" href="https://angeidhealur.scot/" style="font-family: Lemonada" title="{{ site.title }}">{{ site.title }}</a>
+  <a class="navbar-brand" href={{"/" | relative_url}} style="font-family: Lemonada" title="{{ site.title }}">{{ site.title }}</a>
   <button
     class="navbar-toggler"
     type="button"
@@ -15,8 +15,8 @@
   <div class="collapse navbar-collapse" id="navbarSupportedContent">
     <ul class="navbar-nav ml-auto">
       <!--<li class="nav-item">
-        <a class="nav-link" href="https://angeidhealur.scot/" title="Dhachaigh | Home">Dhachaigh</a>
-      </li>-->
+        <a class="nav-link" href={{"/" | relative_url}} title="Dhachaigh | Home">Dhachaigh</a>
+      </li>
       <li class="nav-item dropdown">
         <a
           class="nav-link dropdown-toggle"
@@ -32,27 +32,27 @@
         </a>
         <div class="dropdown-menu" aria-labelledby="navbarDropdown">
           {% for category in site.data.categories %}
-            <a class="dropdown-item" href="https://angeidhealur.scot{{ category.url }}">{{ category.title }}</a>
+            <a class="dropdown-item" href="{{ category.url }}">{{ category.title }}</a>
           {% endfor %}
         </div>
+      </li>-->
+      <li class="nav-item">
+        <a class="nav-link"  href={{"/faclair/" | relative_url}} title="Faclar | Dictionary">Faclair</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="https://faclair.lgbt" title="Faclair nan Gèidheal | Dictionary">Faclair nan Gèidheal</a>
+        <a class="nav-link" href={{"/dualchas/" | relative_url}} title="Dualchas | Heritage">Dualchas</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="https://angeidhealur.scot/dualchas/" title="Dualchas | Heritage">Dualchas</a>
+        <a class="nav-link" href={{"/ceanglaichean/" | relative_url}} title="Ceanglaichean | Links">Ceanglaichean</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="https://angeidhealur.scot/ceanglaichean/" title="Ceanglaichean | Links">Ceanglaichean</a>
+        <a class="nav-link" href={{"/mu-ar-deidhinn/" | relative_url}} title="Mu ar deidhinn | About Us">Mu ar deidhinn</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href={{"/lorg/" | relative_url}} title="Lorg | Search">Lorg</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="https://angeidhealur.myspreadshop.co.uk/" target="_blank" title="Bùth-bhathair | Merch Store">Bùth-bhathair</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="https://angeidhealur.scot/mu-ar-deidhinn/" title="Mu ar deidhinn | About Us">Mu ar deidhinn</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="https://angeidhealur.scot/lorg/" title="Lorg | Search">Lorg</a>
       </li>
     </ul>
   </div>

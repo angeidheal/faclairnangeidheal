@@ -2,16 +2,15 @@
 
 layout: post
 
-date: 2022
+date: 2024
 
-title: 
+title: ""
 
 image: /images/posts/
 
 author: Crìstean MacMhìcheil
 
-categories:
-  - 
+categories: [""]
   
 ---
 
