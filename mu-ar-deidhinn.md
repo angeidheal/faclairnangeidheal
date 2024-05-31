@@ -4,42 +4,15 @@ layout: page
 
 title: Mu ar deidhinn
 
-image: /images/icons/Substack_Social_Preview.png
-
 permalink: /mu-ar-deidhinn/
 
 ---
 
-<img class="avatar" src="/images/icons/AGU_Logo_2023.jpg" />
-
-Bidh An Gèidheal Ùr a’ toirt thugaibh na naidheachdan LGDTCEN+ as ùire.
-
-Chaidh a stèidheachadh (mar Naidheachdan Pinc) ann an 2008 le Crìstean MacMhìcheil nuair a bha e na oileanach aig Sabhal Mòr Ostaig.
-
-‘S e na prìomh-amasan againn a bhith:
-
-- a’ tabhann seirbheis naidheachd do Ghàidheil LGDTCEN+;
-- a’ brosnachadh cultar, dualchas agus ealain LGDTCEN+ taobh a-staigh coimhearsnachd na Gàidhlig;
-- a’ brosnachadh co-ionnanachd agus iomadachd;
-- a’ lughdachadh iomallachd sa choimhearsnachd LGDTCEN+ Gàidhealach le bhith a’ cruthachadh cheanglaichean brìoghmhor agus luachmhor.
-
-## Fo-sgriobh
-
-**RSS.** [https://angeidhealur.scot/feed](https://angeidhealur.scot/feed.xml)
-
-**Mastodon.** <a rel="me" href="https://abairthusa.scot/@angeidhealur">https://abairthusa.scot/@angeidhealur</a>
-
-**Instagram.** [https://instagram.com/angeidhealur](https://instagram.com/angeidhealur)
-
-**Threads.** [https://threads.net/@angeidhealur](https://threads.net/@angeidhealur)
+'S e a th' ann am Faclair nan Gèidheal liosta de bhriathrachas LGDTC+ Gàidhlig a tha [Crìstean MacMhìcheil](https://abairthusa.scot/@angeidheal) air a bhith a' cruinneachadh fhad 's a tha e air a bhith a' sgrìobhadh a' bhlog naidheachd LGDTC+, [An Gèidheal Ùr](https://angeidhealur.scot). 
 
 ## Cuir fios
 
 **Mastodon.** <a rel="me" href="https://abairthusa.scot/@angeidhealur">https://abairthusa.scot/@angeidhealur</a>
-
-**Instagram.** [https://instagram.com/angeidhealur](https://instagram.com/angeidhealur)
-
-**Threads.** [https://threads.net/@angeidhealur](https://threads.net/@angeidhealur)
 
 **Post-d.** [fios@angeidhealur.scot](mailto:fios@angeidhealur.scot)
 
