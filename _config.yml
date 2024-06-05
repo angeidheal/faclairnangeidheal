@@ -11,13 +11,13 @@ description: > # this means to ignore newlines until "baseurl:"
   Faclair de bhriathrachas LGDTC+ Gàidhlig
 
 #baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://faclair.scot" # the base hostname & protocol for your site
+url: "https://faclair.lgbt" # the base hostname & protocol for your site
 
 excerpt_separator: <!--more-->
 
 #footer
 author-name: Crìstean MacMhìcheil
-author-website: "https://macmhicheil.scot"
+author-website: "https://criomagan.scot"
 
 # Build settings
 markdown: kramdown
@@ -31,7 +31,7 @@ collections:
     permalink: /:path/
 
 #social
-mastodon: https://abairthusa.scot/@angeidhealur
+mastodon: https://abairthusa.scot/@angeidheal
 github: https://github.com/angeidheal
 email: fios@angeidhealur.scot
 
