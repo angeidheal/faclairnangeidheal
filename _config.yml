@@ -3,6 +3,7 @@ title: Faclair nan Gèidheal
 description: Faclair de bhriathrachas LGDTC+ Gàidhlig
 brand: An Gèidheal Ùr
 brand-link: https://angeidhealur.scot/
+brand-tagline: Geàrr-chunntas sgrìobhte de naidheachdan LGDTCEN+ ionadail, nàiseanta ‘s bho air feadh an t-saoghail.
 # baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://faclair.lgbt" # the base hostname & protocol for your site
 excerpt_separator: <!--more-->
