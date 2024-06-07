@@ -12,7 +12,7 @@ permalink: /mu-ar-deidhinn/
 
 ## Cuir fios
 
-**Mastodon.** <a rel="me" href="{{ site.mastodon }}">{{ site.mastodon }}</a>
+**Mastodon.** <a rel="me" href="{{ site.mastodon }}" target="_blank">{{ site.mastodon }}</a>
 
 **Post-d.** [fios@angeidhealur.scot](mailto:fios@angeidhealur.scot)
 
@@ -23,7 +23,7 @@ Tha An Gèidheal Ùr an comain nan daoine a tha a’ toirt taic dhan obair again
 Is urrainn dhuibh ar cuideachadh le bhith:
 
 - a’ sgaoileadh na sgrìobhas sinn air na meadhan-sòisealta agaibh;
-- a’ ceannach rudeigin snasail bhon [a’ bhùth-bhathair againn](https://angeidhealur.myspreadshop.co.uk/);
-- air neo a’ toirt tabhartas fa leth no tabhartas cunbhalach a’ cleachdadh [PayPal](https://www.paypal.com/donate/?hosted_button_id=33K2N9HRBJ4QS).
+- a’ ceannach rudeigin snasail bhon <a href="https://angeidhealur.myspreadshop.co.uk/" target="_blank">a’ bhùth-bhathair againn</a>;
+- air neo a’ toirt tabhartas fa leth no tabhartas cunbhalach a’ cleachdadh <a href="https://www.paypal.com/donate/?hosted_button_id=33K2N9HRBJ4QS" target="_blank">PayPal</a>.
 
 Ceud mìle taing airson ur taic!
