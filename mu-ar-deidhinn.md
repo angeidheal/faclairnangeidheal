@@ -8,11 +8,15 @@ permalink: /mu-ar-deidhinn/
 
 ---
 
-'S e a th' ann am Faclair nan Gèidheal liosta de bhriathrachas LGDTC+ Gàidhlig a tha [Crìstean MacMhìcheil](https://abairthusa.scot/@angeidheal) air a bhith a' cruinneachadh fhad 's a tha e air a bhith a' sgrìobhadh a' bhlog naidheachd LGDTC+, [An Gèidheal Ùr](https://angeidhealur.scot). 
+'S e a th' ann am Faclair nan Gèidheal liosta de bhriathrachas LGDTC+ Gàidhlig a tha <a href="https://abairthusa.scot/@angeidheal" target="_blank">Crìstean MacMhìcheil</a> air a bhith a' cruinneachadh fhad 's a tha e air a bhith a' sgrìobhadh a' bhlog naidheachd LGDTC+, <a href="https://angeidhealur.scot" target="_blank">An Gèidheal Ùr</a>. 
 
 ## Cuir fios
 
 **Mastodon.** <a rel="me" href="{{ site.mastodon }}" target="_blank">{{ site.mastodon }}</a>
+
+**Instagram.** <a rel="me" href="{{ site.instagram }}" target="_blank">{{ site.instagram }}</a>
+
+**Threads.** <a rel="me" href="{{ site.threads }}" target="_blank">{{ site.threads }}</a>
 
 **Post-d.** [fios@angeidhealur.scot](mailto:fios@angeidhealur.scot)
 
