@@ -31,10 +31,9 @@ collections:
     permalink: /:path/
 
 #social
-mastodon: https://abairthusa.scot/@angeidheal
+mastodon: https://abairthusa.scot/@angeidhealur
 instagram: https://www.instagram.com/angeidhealur
 threads: https://www.threads.net/@angeidhealur
-github: https://github.com/angeidheal
 email: fios@angeidhealur.scot
 
 # Sass style
