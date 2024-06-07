@@ -1,11 +1,23 @@
-- title: Dachaigh
-  url: /
-  description:
+- title: Naidheachdan
+  url: https://angeidhealùr.scot/
+  description: Postaichean as ùire | Latest posts
 
-- title: Blog Chrìstein
-  url: /blog
-  description: Blog Chrìstein
+- title: Dualchas
+  url: https://angeidhealùr.scot/dualchas
+  description: Dualchas | Heritage
 
-- title: Mu mo dheidhinn
-  url: /mu-mo-dheidhinn
-  description: Mu mo dheidhinn
+- title: Faclair nan Gèidheal
+  url: https://faclair.lgbt/
+  description: Faclair nan Gèidheal | Gaelic LGBTQ+ Dictionary
+
+- title: Ceanglaichean
+  url: https://angeidhealùr.scot/ceanglaichean
+  description: Ceanglaichean | Links
+
+- title: Mu ar dheidhinn
+  url: https://angeidhealùr.scot/mu-ar-dheidhinn
+  description: Mu mo dheidhinn | About Us
+
+- title: Bùth
+  url: https://angeidhealur.myspreadshop.co.uk/
+  description: Bùth-bhathair | Merch store
