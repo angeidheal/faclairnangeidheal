@@ -1,34 +1,13 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
-
 # Site settings
 title: Faclair nan Gèidheal
-description: > # this means to ignore newlines until "baseurl:"
-  Faclair de bhriathrachas LGDTC+ Gàidhlig
-
-#baseurl: "/" # the subpath of your site, e.g. /blog
+description: Faclair de bhriathrachas LGDTC+ Gàidhlig
+# baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://faclair.lgbt" # the base hostname & protocol for your site
-
 excerpt_separator: <!--more-->
 
 #footer
 author-name: Crìstean MacMhìcheil
 author-website: "https://criomagan.scot"
-
-# Build settings
-markdown: kramdown
-permalink: /:year-:month-:day-:title/
-paginate: 12
-paginate_path: /duilleag-:num/
-
-collections:
-  faclair:
-    output: true
-    permalink: /:path/
 
 #social
 mastodon: https://abairthusa.scot/@angeidhealur
@@ -36,11 +15,18 @@ instagram: https://www.instagram.com/angeidhealur
 threads: https://www.threads.net/@angeidhealur
 email: fios@angeidhealur.scot
 
-# Sass style
-# sass:
-#  style: compressed
+# Build settings
+markdown: kramdown
+permalink: /:year-:month-:day-:title/
+paginate: 12
+paginate_path: /duilleag-:num/
 
 # Ruby Gems
 plugins:
   - jekyll-paginate
   - jekyll-feed
+
+collections:
+  faclair:
+    output: true
+    permalink: /:path/

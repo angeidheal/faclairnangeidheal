@@ -4,22 +4,24 @@ layout: compress
 
 <!DOCTYPE html>
 <html>
-  {% include head.html %}
-
-  <body>
-    {% include navigation.html %}
-
-    <div class="container content-area">
-      <div class="row">
-        <div class="col-md-6 offset-md-3">
-          {{ content }}
-        </div>
-      </div>
-    </div>
-
-    {% include footer.html %}
-
-    <!-- JS, and jQuery -->
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+  
+    {% if page.title %}
+      <title>{{ page.title }} - {{ site.title }}</title>
+    {% else %}
+      <title>{{ site.title }}</title>
+    {% endif %}
+  
+    <meta name="description" content="{{ site.description }}" />
+  
+    <!--CSS-->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="{{ site.baseurl }}/css/main.css" />
+  
+    <!--Scripts-->
     <script
       src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
       integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
@@ -30,5 +32,65 @@ layout: compress
       integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI"
       crossorigin="anonymous">
     </script>
+    <script
+      src="https://kit.fontawesome.com/3bcb25d86b.js"
+      crossorigin="anonymous">
+    </script>
+  
+    <!--Google Fonts-->
+    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Lemonada:300,400,500,600,700" /><!--Site Name-->
+    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Outfit:Thin,ExtraLight,Light,Regular,Medium,SemiBold,Bold,ExtraBold,Black" /><!--Body-->
+    
+    <!--RSS Feed-->
+    <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ site.baseurl }}/feed.xml" />
+  
+    <!--Mastodon Verification-->
+    <link rel="me" href="{{ site.mastodon }}">
+  </head>
+  
+
+  <body>
+    <nav class="navbar navbar-expand-lg navbar-dark">
+      <a class="navbar-brand" href={{"/" | relative_url}} style="font-family: Lemonada" title="{{ site.description }}">{{ site.title }}</a>
+      <button
+        class="navbar-toggler"
+        type="button"
+        data-toggle="collapse"
+        data-target="#navbarSupportedContent"
+        aria-controls="navbarSupportedContent"
+        aria-expanded="false"
+        aria-label="Toggle navigation"
+      >
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav ml-auto">
+          {% for item in site.data.navbar %}
+            <li class="nav-item">
+              <a class="nav-link" href="{{ item.url }}" title="{{ item.description }}">{{ item.title }}</a>
+            </li>
+          {% endfor %}
+        </ul>
+      </div>
+    </nav>    
+
+    <div class="container content-area">
+      <div class="row">
+        <div class="col-md-6 offset-md-3">
+          {{ content }}
+        </div>
+      </div>
+    </div>
+
+    <footer>
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12 text-center">
+            <p>Dèanta le <i class="fas fa-heart"></i> le <a target="_blank" href="{{ site.author-website}}">{{ site.author-name }}</a>.</p>
+            <p>Le cumhachd <a target="_blank" href="https://jekyllrb.com" target="_blank">Jekyll</a>.</p>
+          </div>
+        </div>
+      </div>
+    </footer>
   </body>
 </html>
