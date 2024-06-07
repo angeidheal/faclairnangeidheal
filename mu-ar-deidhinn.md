@@ -12,13 +12,21 @@ permalink: /mu-ar-deidhinn/
 
 ## Cuir fios
 
+{% if site.mastodon %}
 **Mastodon.** <a rel="me" href="{{ site.mastodon }}" target="_blank">{{ site.mastodon }}</a>
+{% endif %}
 
+{% if site.instagram %}
 **Instagram.** <a rel="me" href="{{ site.instagram }}" target="_blank">{{ site.instagram }}</a>
+{% endif %}
 
+{% if site.threads %}
 **Threads.** <a rel="me" href="{{ site.threads }}" target="_blank">{{ site.threads }}</a>
+{% endif %}
 
-**Post-d.** [fios@angeidhealur.scot](mailto:fios@angeidhealur.scot)
+{% if site.email %}
+**Post-d.** <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+{% endif %}
 
 ## Cuir taic
 
