@@ -16,4 +16,4 @@ Ri thighinn
 
 ## Faclan co-cheangailte
 
-[gnè-chriotaigeach]()
+[gnè-chriotaigeach](https://faclair.lgbt/gne-chriotaigeach)
