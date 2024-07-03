@@ -1,6 +1,6 @@
 ---
 layout: faclair
-title: obair-lannsa
+title: 'obair-lannsa'
 permalink: /obair-lannsa/
 ---
 
