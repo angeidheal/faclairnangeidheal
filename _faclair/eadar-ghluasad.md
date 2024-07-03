@@ -27,3 +27,7 @@ Chan eil dòigh ceart no ceàrr ann eadar-ghluasad a dhèanamh - 's e rud air le
 [eadar-ghluasad meadaigeach](https://faclair.lgbt/eadar-ghluasad-meadaigeach)
 
 [eadar-ghluasad sòisealta](https://faclair.lgbt/eadar-ghluasad-soisealta)
+
+## Ceanglaichean a-muigh
+
+Wikipedia: [Gender transition](https://en.wikipedia.org/wiki/Gender_transition)
