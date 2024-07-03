@@ -10,7 +10,7 @@ permalink: /achd-aithneachadh-gne-2004/
 
 Chaidh a chur an gnìomh air feadh na Rìoghachd Aonaichte 4 An Giblean 2005.
 
-Tha i a' leigeil le inbheach tar-ghnèitheach iarrtas a chur a-steach gus [Teisteanas Aithneachadh Gnè](https://faclair.lgbt/teisteanas-aithneachadh-gne) agus teisteanas-breithe ùr fhaighinn.
+Tha e a' leigeil le inbheach tar-ghnèitheach iarrtas a chur a-steach gus [Teisteanas Aithneachadh Gnè](https://faclair.lgbt/teisteanas-aithneachadh-gne) agus teisteanas-breithe ùr fhaighinn.
 
 ## Eadar-theangachaidhean
 
