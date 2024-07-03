@@ -6,9 +6,9 @@ permalink: /sa-chlosaid/
 
 ## Mìneachadh
 
-Canar gu bheil neach sa chlosaid nuair nach eil iad air innse do dhaoine eile gu bheil iad LGDTC+.
+Canar gu bheil neach sa chlòsaid nuair nach eil iad air innse do dhaoine eile gu bheil iad LGDTC+.
 
-Tha e comasach, agus cumanta a bhith an dà chuid sa chlosaid agus a-mach às a chlosaid ann an diofar shuidheachaidhean - mar eisimpleir dh'fhaodadh neach tighinn a-mach do charaid ach fuireach sa chlosaid aig an sgoil no san àite-obrach.
+Tha e comasach, agus cumanta a bhith an dà chuid sa chlòsaid agus a-mach às a chlòsaid ann an diofar shuidheachaidhean - mar eisimpleir dh'fhaodadh neach tighinn a-mach do charaid ach fuireach sa chlòsaid aig an sgoil no san àite-obrach.
 
 ## Eadar-theangachaidhean
 
