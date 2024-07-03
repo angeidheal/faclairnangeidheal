@@ -6,7 +6,7 @@ permalink: /bile-ath-leasachadh-aithneachadh-gne-alba/
 
 ## Mìneachadh
 
-B' e reachdas Pàrlamaid na h-Alba a bh' ann an Bile Ath-leasachadh Aithneachadh Gnè (Alba) a dh'atharraicheadh Achd Aithneachadh Gnè 2004 gus a dhèanamh nas fhasa don fheadhainn a tha ag iarraidh Teisteanas Aithneachadh Gnè.
+B' e reachdas Pàrlamaid na h-Alba a bh' ann an Bile Ath-leasachadh Aithneachadh Gnè (Alba) a dh'atharraicheadh [Achd Aithneachadh Gnè (2004)](https://faclair.lgbt/achd-aithneachadh-gne-2004) gus a dhèanamh nas fhasa don fheadhainn a tha ag iarraidh Teisteanas Aithneachadh Gnè.
 
 B' e prìomh amasan a' bhile:-
 
