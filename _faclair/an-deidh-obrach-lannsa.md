@@ -1,6 +1,6 @@
 ---
 layout: faclair
-title: "an déidh obrach-lannsa"
+title: "an dèidh obrach-lannsa"
 permalink: /an-deidh-obrach-lannsa/
 ---
 
