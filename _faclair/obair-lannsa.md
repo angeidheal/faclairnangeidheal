@@ -16,6 +16,10 @@ permalink: /obair-lannsa/
 
 [an dèidh obrach-lannsa](https://faclair.lgbt/an-deidh-obrach-lannsa)
 
+[ath-bhuileachadh gnè](https://faclair.lgbt/ath-bhuileachadh-gne)
+
+[obair-lannsa ath-bhuileachadh gnè](https://faclair.lgbt/obair-lannsa-ath-bhuileachadh-gne)
+
 [obair-lannsa boireannachaidh](https://faclair.lgbt/obair-lannsa-boireannachaidh)
 
 [obair-lannsa bràigh na bodhaige](https://faclair.lgbt/obair-lannsa-braigh-na-bodhaige)
