@@ -1,7 +1,7 @@
 ---
 layout: faclair
 title: "fear foidhe"
-permalink: /neach-foidhe/
+permalink: /fear-foidhe/
 ---
 
 ## Mìneachadh
