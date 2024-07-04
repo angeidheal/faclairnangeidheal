@@ -27,3 +27,7 @@ permalink: /obair-lannsa-boireannachaidh/
 [obair-lannsa fireannachaidh](https://faclair.lgbt/obair-lannsa-fireannachaidh)
 
 [ro obair-lannsa](https://faclair.lgbt/ro-obair-lannsa)
+
+[teiripe brodagan boireannachaidh](https://faclair.lgbt/teiripe-brodagan-boireannachaidh)
+
+[teiripe brodagan fireannachaidh](https://faclair.lgbt/teiripe-brodagan-fireannachaidh)
