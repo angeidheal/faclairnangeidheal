@@ -6,7 +6,7 @@ permalink: /an-deidh-obrach-lannsa/
 
 ## Mìneachadh
 
-Ri thighinn
+Abairt a tha a' tarraing air neach tar-ghnèitheach a tha air a dhol fo obair-lannsa daingneachadh gnè.
 
 ## Eadar-theangachaidhean
 
