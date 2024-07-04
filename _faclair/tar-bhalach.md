@@ -6,7 +6,7 @@ permalink: /tar-bhalach/
 
 ## Mìneachadh
 
-Balach tar-gnèitheach (balach a bha air a bhreith na caileag)
+Balach tar-ghnèitheach (balach a chaidh a bhuileachadh boireann aig àm am breith).
 
 ## Eadar-theangachaidhean
 

@@ -6,7 +6,7 @@ permalink: /tar-neach/
 
 ## Mìneachadh
 
-Ri thighinn
+Neach aig a bheil dearbh-aithne gnè a tha eadar-dhealaichte bhon a' ghnè a chaidh a bhuileachadh orra aig àm a bhreith.
 
 ## Eadar-theangachaidhean
 

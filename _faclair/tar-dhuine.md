@@ -6,7 +6,7 @@ permalink: /tar-dhuine/
 
 ## Mìneachadh
 
-Ri thighinn
+Fireannach tar-ghnèitheach (fireannach a chaidh a bhuileachadh boireann aig àm am breith).
 
 ## Eadar-theangachaidhean
 

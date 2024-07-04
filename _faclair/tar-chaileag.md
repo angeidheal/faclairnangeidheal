@@ -6,7 +6,7 @@ permalink: /tar-chaileag/
 
 ## Mìneachadh
 
-Caileag thar-ghnèitheach (caileag a bha air a bhreith na bhalach)
+Caileag thar-ghnèitheach (caileag a chaidh a bhuileachadh fireann aig àm am breith).
 
 ## Eadar-theangachaidhean
 

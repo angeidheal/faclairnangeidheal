@@ -6,7 +6,7 @@ permalink: /tar-bhoireannach/
 
 ## Mìneachadh
 
-Ri thighinn
+Boireannach tar-ghnèitheach (boireannach a chaidh a bhuileachadh fireann aig àm am breith).
 
 ## Eadar-theangachaidhean
 

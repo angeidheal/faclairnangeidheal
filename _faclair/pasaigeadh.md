@@ -6,7 +6,7 @@ permalink: /pasaigeadh/
 
 ## Mìneachadh
 
-Ri thighinn
+Canar gu bheil cuideigin a' pasaigeadh nuair nach eil e follaiseach gu bheil iad gèidh no tar-ghnèitheach.
 
 ## Eadar-theangachaidhean
 
