@@ -1,7 +1,7 @@
 ---
 layout: faclair
-title: "draga"
-permalink: /draga/
+title: "bànrigh draga"
+permalink: /banrigh-draga/
 ---
 
 ## Mìneachadh
