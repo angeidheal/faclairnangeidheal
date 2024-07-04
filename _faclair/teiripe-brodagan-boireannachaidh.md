@@ -22,6 +22,8 @@ Ri thighinn
 
 [brodag nan clach](https://faclair.lgbt/brodag-nan-clach/)
 
+[casg-inbheachd](https://faclair.lgbt/casg-inbheachd)
+
 [eastraigin](https://faclair.lgbt/eastraigin/)
 
 [obair-lannsa boireannachaidh](https://faclair.lgbt/obair-lannsa-boireannachaidh)
