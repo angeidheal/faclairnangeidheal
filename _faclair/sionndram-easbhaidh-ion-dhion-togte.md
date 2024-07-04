@@ -6,6 +6,8 @@ permalink: /sionndram-easbhaidh-ion-dhion-togte/
 
 ## Mìneachadh
 
+Ri thighinn
+
 ## Eadar-theangachaidhean
 
 &#x1f1ee;&#x1f1ea; Siondróm Easpa Imdhionachta Faighte

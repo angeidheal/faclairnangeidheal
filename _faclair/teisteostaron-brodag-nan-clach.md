@@ -6,6 +6,8 @@ permalink: /teisteostaron-brodag-nan-clach/
 
 ## Mìneachadh
 
+Ri thighinn
+
 ## Eadar-theangachaidhean
 
 &#x1f1ee;&#x1f1ea; téististéarón

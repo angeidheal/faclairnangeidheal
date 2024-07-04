@@ -6,6 +6,8 @@ permalink: /ioma-sheorsach/
 
 ## Mìneachadh
 
+Ri thighinn
+
 ## Eadar-theangachaidhean
 
 &#x1f1ee;&#x1f1ea; ilghnéasach

@@ -8,6 +8,8 @@ permalink: /pan-sheorsach/
 
 ## Mìneachadh
 
+Ri thighinn
+
 ## Eadar-theangaichean
 
 &#x1f1ee;&#x1f1ea; il-ghnéasach

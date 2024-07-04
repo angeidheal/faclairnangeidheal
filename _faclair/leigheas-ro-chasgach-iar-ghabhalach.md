@@ -6,6 +6,8 @@ permalink: /leigheas-ro-chasgach-iar-ghabhalach/
 
 ## Mìneachadh
 
+Ri thighinn
+
 ## Eadar-theangachaidhean
 
 &#x1f1ee;&#x1f1ea; Próifiolacsas Tar Éis an Nochtaidh

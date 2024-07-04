@@ -6,6 +6,8 @@ permalink: /luchd-geidh/
 
 ## Mìneachadh
 
+Ri thighinn
+
 ## Eadar-theangachaidhean
 
 &#x1f1ee;&#x1f1ea; daoine aeracha

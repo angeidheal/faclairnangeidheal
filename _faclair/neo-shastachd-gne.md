@@ -6,6 +6,8 @@ permalink: /neo-shastachd-gne/
 
 ## Mìneachadh
 
+Ri thighinn
+
 ## Eadar-theangachaidhean
 
 &#x1f1ee;&#x1f1ea; diosfóiria Inscne

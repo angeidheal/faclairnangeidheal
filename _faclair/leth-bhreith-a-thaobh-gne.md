@@ -6,6 +6,8 @@ permalink: /leth-bhreith-a-thaobh-gne/
 
 ## Mìneachadh
 
+Ri thighinn
+
 ## Eadar-theangachaidhean
 
 &#x1f1ee;&#x1f1ea; idirdhealú ar bhonn inscne

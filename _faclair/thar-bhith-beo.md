@@ -6,6 +6,8 @@ permalink: /thar-bhith-beo/
 
 ## Mìneachadh
 
+Ri thighinn
+
 ## Eadar-theangachaidhean
 
 &#x1f1ee;&#x1f1ea; trasbheomhar

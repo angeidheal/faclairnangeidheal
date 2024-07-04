@@ -6,6 +6,8 @@ permalink: /oillt-thar-ghneitheach/
 
 ## Mìneachadh
 
+Ri thighinn
+
 ## Eadar-theangachaidhean
 
 &#x1f1ee;&#x1f1ea; uamhan tras

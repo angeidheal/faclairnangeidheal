@@ -6,6 +6,8 @@ permalink: /normadachd-na-h-eile-sheorsachd/
 
 ## Mìneachadh
 
+Ri thighinn
+
 ## Eadar-theangachaidhean
 
 &#x1f1ee;&#x1f1ea; heitreanormatacht

@@ -6,6 +6,8 @@ permalink: /fireannaich-a-bhios-ri-feise-le-fireannaich/
 
 ## Mìneachadh
 
+Ri thighinn
+
 ## Eadar-theangachaidhean
 
 &#x1f1ee;&#x1f1ea; fir a mbíonn gnéas acu le fir

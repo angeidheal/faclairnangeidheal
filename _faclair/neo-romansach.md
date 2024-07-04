@@ -6,6 +6,8 @@ permalink: /neo-romansach/
 
 ## Mìneachadh
 
+Ri thighinn
+
 ## Eadar-theangachaidhean
 
 &#x1f1ee;&#x1f1ea; gan-rómánsach

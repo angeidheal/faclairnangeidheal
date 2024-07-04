@@ -6,6 +6,8 @@ permalink: /sionndram-neo-mhothalachd-nan-gineachan-fireann/
 
 ## Mìneachadh
 
+Ri thighinn
+
 ## Eadar-theangachaidhean
 
 &#x1f1ee;&#x1f1ea; Siondróm Neamhmhothálach Andraigín

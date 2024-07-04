@@ -6,6 +6,8 @@ permalink: /eadar-ghluasad-meadaigeach/
 
 ## Mìneachadh
 
+Ri thighinn
+
 ## Eadar-theangachaidhean
 
 &#x1f1ee;&#x1f1ea; trasdul leighis

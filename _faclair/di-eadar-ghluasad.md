@@ -6,6 +6,8 @@ permalink: /di-eadar-ghluasad/
 
 ## Mìneachadh
 
+Ri thighinn
+
 ## Eadar-theangachaidhean
 
 &#x1f1ee;&#x1f1ea; díthrasdul

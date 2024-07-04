@@ -6,6 +6,8 @@ permalink: /gne-normadach/
 
 ## Mìneachadh
 
+Ri thighinn
+
 ## Eadar-theangachaidhean
 
 &#x1f1ee;&#x1f1ea; gnáthach ó thaobh na hinscne de

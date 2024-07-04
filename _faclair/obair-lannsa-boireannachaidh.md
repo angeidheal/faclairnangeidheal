@@ -6,6 +6,8 @@ permalink: /obair-lannsa-boireannachaidh/
 
 ## Mìneachadh
 
+Ri thighinn
+
 ## Eadar-theangachaidhean
 
 &#x1f1ee;&#x1f1ea; 

@@ -6,6 +6,8 @@ permalink: /fein-riaghladh-na-bodhaige/
 
 ## Mìneachadh
 
+Ri thighinn
+
 ## Eadar-theangachaidhean
 
 &#x1f1ee;&#x1f1ea; féinriail coirp

@@ -6,6 +6,8 @@ permalink: /grain-da-sheorsachd/
 
 ## Mìneachadh
 
+Ri thighinn
+
 ## Eadar-theangachaidhean
 
 &#x1f1ee;&#x1f1ea; dáfoibe

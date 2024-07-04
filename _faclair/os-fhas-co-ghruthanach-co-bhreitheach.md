@@ -6,6 +6,8 @@ permalink: /os-fhas-co-ghruthanach-co-bhreitheach/
 
 ## Mìneachadh
 
+Ri thighinn
+
 ## Eadar-theangachaidhean
 
 &#x1f1ee;&#x1f1ea; Hipearpláise Aidréineach Comhbheirthe

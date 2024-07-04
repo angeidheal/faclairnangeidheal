@@ -6,6 +6,8 @@ permalink: /cios-ghneitheach/
 
 ## Mìneachadh
 
+Ri thighinn
+
 ## Eadar-theangachaidhean
 
 &#x1f1ee;&#x1f1ea; cis-inscneach

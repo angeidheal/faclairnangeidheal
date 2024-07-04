@@ -6,6 +6,8 @@ permalink: /coraichean-geidhe-agus-leasbach/
 
 ## Mìneachadh
 
+Ri thighinn
+
 ## Eadar-theangachaidhean
 
 &#x1f1ee;&#x1f1ea; cearta daoine aeracha agus leispiacha

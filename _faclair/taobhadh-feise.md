@@ -6,6 +6,8 @@ permalink: /taobhadh-feise/
 
 ## Mìneachadh
 
+Ri thighinn
+
 ## Eadar-theangachaidhean
 
 &#x1f1ee;&#x1f1ea; gnéaschlaonadh / claonadh gnéis

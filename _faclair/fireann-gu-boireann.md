@@ -6,6 +6,8 @@ permalink: /fireann-gu-boireann/
 
 ## Mìneachadh
 
+Ri thighinn
+
 ## Eadar-theangachaidhean
 
 &#x1f1ee;&#x1f1ea; baineann gu fireann

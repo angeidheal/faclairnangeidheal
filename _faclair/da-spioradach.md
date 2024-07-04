@@ -6,6 +6,8 @@ permalink: /da-spioradach/
 
 ## Mìneachadh
 
+Ri thighinn
+
 ## Eadar-theangachaidhean
 
 &#x1f1ee;&#x1f1ea; dé-anamúil / duine a bhfuil dhà spiorad ann/inti/iontu

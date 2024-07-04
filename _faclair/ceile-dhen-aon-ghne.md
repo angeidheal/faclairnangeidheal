@@ -6,6 +6,8 @@ permalink: /ceile-dhen-aon-ghne/
 
 ## Mìneachadh
 
+Ri thighinn
+
 ## Eadar-theangachaidhean
 
 &#x1f1ee;&#x1f1ea; páirtnéir comhghnéis
