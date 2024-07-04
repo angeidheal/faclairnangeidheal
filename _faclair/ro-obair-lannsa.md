@@ -6,7 +6,7 @@ permalink: /ro-obair-lannsa/
 
 ## Mìneachadh
 
-Ri thighinn
+Abairt a tha a' tarraing air neach tar-ghnèitheach nach eil air a dhol fo obair-lannsa daingneachadh gnè fhathast.
 
 ## Eadar-theangachaidhean
 

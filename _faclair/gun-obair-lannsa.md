@@ -6,7 +6,7 @@ permalink: /gun-obair-lannsa/
 
 ## Mìneachadh
 
-Ri thighinn
+Abairt a tha a' tarraing air neach tar-ghnèitheach nach eil airson dol fo obair-lannsa daingneachadh gnè.
 
 ## Eadar-theangachaidhean
 
