@@ -22,4 +22,6 @@ Neach aig a bheil tàladh romansach no feiseil air còrr 's aon ghnè.
 
 ## Faclan co-cheangailte
 
+[annas dhen dà-sheòrsachd](https://faclair.lgbt/annas-dhen-da-sheorsachd/)
+
 [pan-sheòrsach](https://faclair.lgbt/pan-sheorsach/)
