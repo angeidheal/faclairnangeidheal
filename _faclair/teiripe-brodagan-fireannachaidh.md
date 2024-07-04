@@ -16,10 +16,20 @@ Ri thighinn
 
 ## Faclan co-cheangailte
 
+[brodag](https://faclair.lgbt/brodag/)
+
+[brodag gnè](https://faclair.lgbt/brodag-gne/)
+
+[brodag nan clach](https://faclair.lgbt/brodag-nan-clach/)
+
+[eastraigin](https://faclair.lgbt/eastraigin/)
+
 [obair-lannsa boireannachaidh](https://faclair.lgbt/obair-lannsa-boireannachaidh)
 
 [obair-lannsa fireannachaidh](https://faclair.lgbt/obair-lannsa-fireannachaidh)
 
-[teiripe brodagan boireannachaidh](https://faclair.lgbt/teiripe-brodagan-boireannachaidh)
+[teiripe brodagan boireannachaidh](https://faclair.lgbt/teiripe-brodagan-boireannachaidh/)
 
-[teiripe ionadachadh bhrodagan](https://faclair.lgbt/teiripe-ionadachadh-bhrodagan)
+[Teiripe Ionadachadh Bhrodagan](https://faclair.lgbt/teiripe-ionadachadh-bhrodagan/)
+
+[teisteostaron](https://faclair.lgbt/teisteostaron/)

@@ -1,7 +1,7 @@
 ---
 layout: faclair
-title: 'Teiripe Ionadachadh Bhrodagan'
-permalink: /teiripe-ionadachadh-bhrodagan/
+title: 'teisteostaron'
+permalink: /teisteostaron/
 ---
 
 ## Mìneachadh
@@ -10,13 +10,13 @@ Ri thighinn
 
 ## Eadar-theangachaidhean
 
-&#x1f1ee;&#x1f1ea; Teiripe Athsholáthair Hormón
+&#x1f1ee;&#x1f1ea; téististéarón
 
-&#x1f3f4;&#xe0067;&#xe0062;&#xe0065;&#xe006e;&#xe0067;&#xe007f; Hormone Replacement Therapy (HRT)
+&#x1f3f4;&#xe0067;&#xe0062;&#xe0065;&#xe006e;&#xe0067;&#xe007f; testosterone
 
 ## Faclan co-cheangailte
 
-[brodag](https://faclair.lgbt/brodag)
+[brodag](https://faclair.lgbt/brodag/)
 
 [brodag gnè](https://faclair.lgbt/brodag-gne/)
 
@@ -28,4 +28,4 @@ Ri thighinn
 
 [teiripe brodagan fireannachaidh](https://faclair.lgbt/teiripe-brodagan-fireannachaidh/)
 
-[teisteostaron](https://faclair.lgbt/teisteostaron/)
+[Teiripe Ionadachadh Bhrodagan](https://faclair.lgbt/teiripe-ionadachadh-bhrodagan/)
