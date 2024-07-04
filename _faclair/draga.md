@@ -16,6 +16,6 @@ Ri thighinn
 
 ## Faclan co-cheangailte
 
-[draga](https://faclair.lgbt/draga)
+[bànrigh draga](https://faclair.lgbt/banrigh-draga)
 
 [rìgh draga](https://faclair.lgbt/righ-draga)
