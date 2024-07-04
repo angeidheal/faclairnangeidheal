@@ -1,6 +1,6 @@
 ---
 layout: faclair
-title: neo-bhìnearaidh
+title: "neo-bhìnearaidh"
 permalink: /neo-bhinearaidh/
 ---
 
