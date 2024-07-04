@@ -20,7 +20,7 @@ Tè aig a bheil ròl neo-gnìomhach rè feise.
 
 [fear os a chionn](https://faclair.lgbt/fear-os-a-chionn)
 
-[neachd foidhe](https://faclair.lgbt/neach-foidhe)
+[neach foidhe](https://faclair.lgbt/neach-foidhe)
 
 [neach os a chionn](https://faclair.lgbt/neach-os-a-chionn)
 
