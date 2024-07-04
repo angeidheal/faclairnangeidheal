@@ -16,6 +16,8 @@ Balach tar-gnèitheach (balach a bha air a bhreith na caileag)
 
 ## Faclan co-cheangailte
 
+[neo-bhìnearaidh](https://faclair.lgbt/neo-bhinearaidh)
+
 [tar-bhoirean](https://faclair.lgbt/tar-bhoireann)
 
 [tar-bhoireannach](https://faclair.lgbt/tar-bhoireannach)
@@ -32,4 +34,4 @@ Balach tar-gnèitheach (balach a bha air a bhreith na caileag)
 
 [tar-neach](https://faclair.lgbt/tar-neach)
 
-[tar-sheòrsach](https://faclair.lgbt/tar-sheòrsach)
+[tar-sheòrsach](https://faclair.lgbt/tar-sheorsach)

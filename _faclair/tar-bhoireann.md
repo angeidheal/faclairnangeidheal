@@ -14,6 +14,8 @@ permalink: /tar-bhoireann/
 
 ## Faclan co-cheangailte
 
+[neo-bhìnearaidh](https://faclair.lgbt/neo-bhinearaidh)
+
 [tar-bhalach](https://faclair.lgbt/tar-bhalach)
 
 [tar-bhoireannach](https://faclair.lgbt/tar-bhoireannach)
@@ -30,4 +32,4 @@ permalink: /tar-bhoireann/
 
 [tar-neach](https://faclair.lgbt/tar-neach)
 
-[tar-sheòrsach](https://faclair.lgbt/tar-sheòrsach)
+[tar-sheòrsach](https://faclair.lgbt/tar-sheorsach)

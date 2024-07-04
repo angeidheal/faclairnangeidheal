@@ -14,6 +14,8 @@ permalink: /tar-sheorsach/
 
 ## Faclan co-cheangailte
 
+[neo-bhìnearaidh](https://faclair.lgbt/neo-bhinearaidh)
+
 [tar-bhalach](https://faclair.lgbt/tar-bhalach)
 
 [tar-bhoirean](https://faclair.lgbt/tar-bhoireann)
