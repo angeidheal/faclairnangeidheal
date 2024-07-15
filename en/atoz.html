@@ -10,6 +10,6 @@ permalink: /en/all/
 
 <p>Below is a complete list of the English entries in the dictionary.</p>
 
-{% for facal in site.dictionary %}
-  <p><a href="{{ site.baseurl }}{{ facal.url }}">{{ facal.en }}</a></p>
+{% for entry in site.dictionary %}
+  <p><a href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}</a></p>
 {% endfor %}
