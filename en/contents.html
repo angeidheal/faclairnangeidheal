@@ -1,0 +1,15 @@
+---
+
+layout: page
+
+title: Clàr-amais
+
+permalink: /clar-amais/
+
+---
+
+<p>Below is a complete list of the English entries in the dictionary.</p>
+
+{% for facal in site.dictionary %}
+  <p><a href="{{ site.baseurl }}{{ facal.url }}">{{ facal.title }}</a></p>
+{% endfor %}
