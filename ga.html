@@ -1,0 +1,15 @@
+---
+
+layout: tasglann
+
+title: "Foclóir na nGaylgeoirí"
+
+permalink: /ga/
+
+---
+
+<p>Seo iad na focail Ghaeilge atá i bhFaclair nan Gèidheal.</p>
+
+{% for focal in site.focloir %}
+  <p><a href="{{ site.baseurl }}{{ focal.url }}">{{ focal.title }}</a></p>
+{% endfor %}
