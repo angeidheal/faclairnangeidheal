@@ -1,0 +1,15 @@
+---
+
+layout: tasglann
+
+title: "Faclair nan Gèidheal"
+
+permalink: /gd/
+
+---
+
+<p>'S e seo a h-uile facal Gàidhlig a tha ann am Faclair nan Gèidheal.</p>
+
+{% for facal in site.faclair %}
+  <p><a href="{{ site.baseurl }}{{ facal.url }}">{{ facal.title }}</a></p>
+{% endfor %}
