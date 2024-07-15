@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+  <h1><strong>{{ page.title }}</strong></h1>
+
+  <h2>Aistriúcháin</h2>
+
+  <p>&#x1f3f4;&#xe0067;&#xe0062;&#xe0073;&#xe0063;&#xe0074;&#xe007f; <a href="{{ page.permalink_gd | prepend: site.baseurl | replace: '//', '/' }}">{{ page.title_gd }}</a></p>
+
+  <p>&#x1f3f4;&#xe0067;&#xe0062;&#xe0065;&#xe006e;&#xe0067;&#xe007f; <a href="{{ page.permalink_en | prepend: site.baseurl | replace: '//', '/' }}">{{ page.title_en }}</a></p>
+
+  <h2>Sainmhíniú</h2>
+  
+  {{ content }}
+  
+  <!--<h4>Fàg beachd</h4>
+  {% if page.mastodon %}
+    <p>Ma tha beachd agad mun a' phost seo, faodaidh tu a chur thugam air <a href="{{ page.mastodon }}">Mastodon</a>.</p>
+  {% else %}
+    <p>Ma tha beachd agad mun a' phost seo, faodaidh tu a chur thugam air <a href="https://www.threads.net/@angeidhealur">Threads</a> no <a href="https://www.mastodon.scot/@angeidheal">Mastodon</a>.</p>
+  {% endif %}-->
