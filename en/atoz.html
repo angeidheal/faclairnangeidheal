@@ -1,0 +1,15 @@
+---
+
+layout: page
+
+title: A to Z
+
+permalink: /en/atoz/
+
+---
+
+<p>Below is a complete list of the English entries in the dictionary.</p>
+
+{% for facal in site.dictionary %}
+  <p><a href="{{ site.baseurl }}{{ facal.url }}">{{ facal.en }}</a></p>
+{% endfor %}
