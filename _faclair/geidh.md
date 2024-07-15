@@ -20,9 +20,9 @@ Uaireannan thèid am facal gèidh a chleachdadh gus iomradh a thoirt air a' choi
 
 ## Eadar-theangachaidhean
 
-&#x1f1ee;&#x1f1ea; [{{ page.title_ga }}]({{ site.brand-link }}{{ page.permalink_ga | replace: '//', '/' }})
+&#x1f1ee;&#x1f1ea; [{{ page.title_ga }}]({{ page.permalink_ga | prepend: site.brand-link | replace: '//', '/' }})
 
-&#x1f3f4;&#xe0067;&#xe0062;&#xe0065;&#xe006e;&#xe0067;&#xe007f; [{{ page.title_en }}]({{ site.brand-link }}{{ page.permalink_en | replace: '//', '/' }})
+&#x1f3f4;&#xe0067;&#xe0062;&#xe0065;&#xe006e;&#xe0067;&#xe007f; [{{ page.title_en }}]({{ page.permalink_en | prepend: site.brand-link | replace: '//', '/' }})
 
 ## Faclan co-cheangailte
 
