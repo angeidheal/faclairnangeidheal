@@ -1,6 +1,8 @@
 ---
 layout: faclair
 title: "gèidh"
+ga: "aerach"
+en: "gay"
 permalink: /geidh/
 ---
 
