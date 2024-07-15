@@ -1,0 +1,15 @@
+---
+
+layout: page
+
+title: A go U
+
+permalink: /ga/agou/
+
+---
+
+<p>Seo iad na focail Gaeilge àta i Foclóir na nGaylgeoirí.</p>
+
+{% for focal in site.focloir %}
+  <p><a href="{{ site.baseurl }}{{ focal.url }}">{{ focal.title }}</a></p>
+{% endfor %}
