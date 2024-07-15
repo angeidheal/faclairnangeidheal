@@ -33,3 +33,6 @@ collections:
   faclair:
     output: true
     permalink: /:path/
+  focloir:
+    output: true
+    permalink: /:path/
