@@ -1,5 +1,5 @@
 ---
-layout: faclair
+layout: focloir
 title: "aerach"
 title_gd: "gèidh"
 title_en: "gay"
