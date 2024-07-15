@@ -1,0 +1,33 @@
+---
+
+layout: page
+
+permalink: /ga/cuardaigh/
+
+---
+
+<h1>Foclóir na nGaylgeoirí</h1>
+
+<p>Tá an suíomh gréasáin á tógáil.</p>
+
+<p><a href="/">&#x1f3f4;&#xe0067;&#xe0062;&#xe0073;&#xe0063;&#xe0074;&#xe007f; Seall an duilleag seo sa Ghàidhlig</a></p>
+
+<p><a href="/search/">&#x1f3f4;&#xe0067;&#xe0062;&#xe0065;&#xe006e;&#xe0067;&#xe007f; View this page in English</a></p>
+
+<!-- Html Elements for Search -->
+<div class="form-group" id="search-container">
+  <input class="form-control" type="text" id="search-input" placeholder="Lorg san fhaclair..." style="padding: 10px; font-size: 17px; border: 1px solid grey; float: left; width: 100%; background: #f1f1f1;"><br />  
+  <ul style="padding-top: 30px" id="results-container"></ul>
+</div>
+  
+  <!-- Script pointing to search-script.js -->
+  <script src="/js/faclair-script.js" type="text/javascript"></script>
+  
+  <!-- Configuration -->
+  <script>
+  SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/js/faclair.json'
+  })
+  </script>
