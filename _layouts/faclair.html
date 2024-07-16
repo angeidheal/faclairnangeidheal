@@ -4,18 +4,26 @@ layout: default
 
   <h1><strong>{{ page.title }}</strong></h1>
 
-  {{ page.gramar }}
+  {% if page.gramar %}
+  <h2>Gràmar</h2>  
+    {{ page.gramar }}
+  {% endif %}
 
-  <h2>Mìneachadh</h2>
-  
-  {{ content }}
+  {% if page.content %}
+    <h2>Mìneachadh</h2>
+    {{ content }}
+  {% endif %}
 
   <h2>Eadar-theangachaidhean</h2>
 
-  <p>&#x1f1ee;&#x1f1ea; <a href="{{ page.permalink_ga | prepend: site.baseurl | replace: '//', '/' }}">{{ page.title_ga }}</a></p>
+  {% if page.title_ga %}
+   <p>&#x1f1ee;&#x1f1ea; <a href="{{ page.permalink_ga | prepend: site.baseurl | replace: '//', '/' }}">{{ page.title_ga }}</a></p>
+  {% endif %}
 
-  <p>&#x1f3f4;&#xe0067;&#xe0062;&#xe0065;&#xe006e;&#xe0067;&#xe007f; <a href="{{ page.permalink_en | prepend: site.baseurl | replace: '//', '/' }}">{{ page.title_en }}</a></p>
-  
+  {% if page.title_en %}
+    <p>&#x1f3f4;&#xe0067;&#xe0062;&#xe0065;&#xe006e;&#xe0067;&#xe007f; <a href="{{ page.permalink_en | prepend: site.baseurl | replace: '//', '/' }}">{{ page.title_en }}</a></p>
+  {% endif %}
+
   <!--<h4>Fàg beachd</h4>
   {% if page.mastodon %}
     <p>Ma tha beachd agad mun a' phost seo, faodaidh tu a chur thugam air <a href="{{ page.mastodon }}">Mastodon</a>.</p>
