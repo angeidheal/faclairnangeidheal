@@ -1,15 +1,11 @@
 ---
 layout: faclair
-title: "anti-corp"
-permalink: /anti-corp/
+title: "antasubstaint"
+title_gd: "anti-corp"
+title_en: "antibody"
+permalink: /ga/antasubstaint/
+permalink_gd: /anti-corp/
+permalink_en: /antibody/
 ---
 
-## Mìneachadh
-
-Ri thighinn
-
-## Eadar-theangachaidhean
-
-&#x1f1ee;&#x1f1ea; antasubstaint
-
-&#x1f3f4;&#xe0067;&#xe0062;&#xe0065;&#xe006e;&#xe0067;&#xe007f; antibody
+Le teacht

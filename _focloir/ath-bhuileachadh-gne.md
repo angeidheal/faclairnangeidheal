@@ -1,20 +1,16 @@
 ---
 layout: faclair
-title: "ath-bhuileachadh gnè"
-permalink: /ath-bhuileachadh-gne/
+title: "aistriú inscne"
+title_gd: "ath-bhuileachadh gnè"
+title_en: "gender reassignment"
+permalink: /ga/aistriu-inscne/
+permalink_gd: /gd/ath-bhuileachadh-gne/
+permalink_en: /en/gender-reassignment/
 ---
 
-## Mìneachadh
+Le teacht
 
-Ri thighinn
-
-## Eadar-theangachaidhean
-
-&#x1f1ee;&#x1f1ea; aistriú inscne
-
-&#x1f3f4;&#xe0067;&#xe0062;&#xe0065;&#xe006e;&#xe0067;&#xe007f; gender reassignment
-
-## Faclan co-cheangailte
+## Focail chosúla
 
 [an dèidh obrach-lannsa](https://faclair.lgbt/an-deidh-obrach-lannsa)
 
