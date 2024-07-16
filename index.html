@@ -10,5 +10,7 @@ permalink: /
 <p>Faclair de bhriathrachas LGDTC+.</p>
 
 {% for facal in site.faclair %}
-  <p><a href="{{ site.baseurl }}{{ facal.url }}">{{ facal.title }}</a></p>
+  {% if facal.layout = focloir %}
+   <p><a href="{{ site.baseurl }}{{ facal.url }}">{{ facal.title }}</a></p>
+  {% endif %}
 {% endfor %}
