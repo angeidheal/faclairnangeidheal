@@ -1,20 +1,16 @@
 ---
 layout: faclair
-title: "bànrigh draga"
-permalink: /banrigh-draga/
+title: "banríon draig"
+title_gd: "bànrigh draga"
+title_en: "drag queen"
+permalink: /ga/banrion-draig/
+permalink_gd: /gd/banrigh-draga/
+permalink_en: /en/drag-queen/
 ---
 
-## Mìneachadh
+Le teacht
 
-Ri thighinn
-
-## Eadar-theangachaidhean
-
-&#x1f1ee;&#x1f1ea; banríon draig
-
-&#x1f3f4;&#xe0067;&#xe0062;&#xe0065;&#xe006e;&#xe0067;&#xe007f; drag queen
-
-## Faclan co-cheangailte
+## Focail chosúla
 
 [draga](https://faclair.lgbt/draga)
 
