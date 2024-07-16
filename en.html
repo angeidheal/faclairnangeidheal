@@ -1,15 +1,16 @@
 ---
-
 layout: page
-
-permalink: /en/glossary/
-
+permalink: /en/
 ---
 
-<p style="text-align: right"><a href="/en/search/">🔍 Search</a> <a href="/gd/clar-mineachaidh/" title="Seall an duilleag seo sa Ghàidhlig">&#x1f3f4;&#xe0067;&#xe0062;&#xe0073;&#xe0063;&#xe0074;&#xe007f; Gàidhlig</a> <a href="/ga/gluais/" title="Amharc an leathanach as Gaeilge">&#x1f1ee;&#x1f1ea; Gaeilge</a></p>
+<p style="text-align: right"><a href="/gd/" title="Seall an duilleag seo sa Ghàidhlig">&#x1f3f4;&#xe0067;&#xe0062;&#xe0073;&#xe0063;&#xe0074;&#xe007f; Gàidhlig</a> <a href="/ga/" title="Amharc an leathanach as Gaeilge">&#x1f1ee;&#x1f1ea; Gaeilge</a></p>
 
 <h1>Glossary</h1>
 
-<p>A list of the entries in the dictionary.</p>
+<p>A glossary of Scottish Gaelic & Irish LGBTQ+ terms.</p>
 
 <p>Under construction.</p>
+
+{% for entry in site.glossary %}
+  <p><a href="{{ site.baseurl }}{{ entry.url }}">{{ entry.title }}</a></p>
+{% endfor %}
