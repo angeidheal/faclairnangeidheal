@@ -1,15 +1,11 @@
 ---
-layout: faclair
-title: 'caidreabhach / caraid'
-permalink: /caidreabhach-caraid/
+layout: focloir
+title: "comhghuaillí"
+title_gd: "caidreabhach / caraid"
+title_en: "ally"
+permalink: /ga/comhghuailli/
+permalink_gd: /gd/caidreabhach-caraid/
+permalink_en: /en/ally/
 ---
 
-## Mìneachadh
-
-Ri thighinn
-
-## Eadar-theangachaidhean
-
-&#x1f1ee;&#x1f1ea; comhghuaillí
-
-&#x1f3f4;&#xe0067;&#xe0062;&#xe0065;&#xe006e;&#xe0067;&#xe007f; ally
+Le teacht
