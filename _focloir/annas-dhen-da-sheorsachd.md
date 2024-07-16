@@ -9,7 +9,3 @@ permalink_en: /en/bicurious/
 ---
 
 Le teacht
-
-## Focail chosúla
-
-[déghnéasach](https://faclair.lgbt/ga/déghnéasach)
