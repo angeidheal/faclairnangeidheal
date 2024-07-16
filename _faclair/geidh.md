@@ -3,7 +3,7 @@ layout: faclair
 title: "gèidh"
 title_ga: "aerach"
 title_en: "gay"
-permalink: /geidh/
+permalink: /gd/geidh/
 permalink_ga: /ga/aerach/
 permalink_en: /en/gay/
 gramar: "bua. coi. -e"
