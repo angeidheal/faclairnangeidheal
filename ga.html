@@ -1,15 +1,16 @@
 ---
-
 layout: page
-
-permalink: /ga/gluais/
-
+permalink: /ga/
 ---
 
-<p style="text-align: right"><a href="/ga/cuardaigh/">🔍 Cuardaigh</a> <a href="/gd/clar-mineachaidh/" title="Seall an duilleag seo sa Ghàidhlig">&#x1f3f4;&#xe0067;&#xe0062;&#xe0073;&#xe0063;&#xe0074;&#xe007f; Gàidhlig</a> <a href="/en/glossary" title="View this page in English">&#x1f3f4;&#xe0067;&#xe0062;&#xe0065;&#xe006e;&#xe0067;&#xe007f; English</a></p>
+<p style="text-align: right"><a href="/gd/" title="Seall an duilleag seo sa Ghàidhlig">&#x1f3f4;&#xe0067;&#xe0062;&#xe0073;&#xe0063;&#xe0074;&#xe007f; Gàidhlig</a> <a href="/en/" title="View this page in English">&#x1f3f4;&#xe0067;&#xe0062;&#xe0065;&#xe006e;&#xe0067;&#xe007f; English</a></p>
 
-<h1>Gluais</h1>
+<h1>Foclóir na nGaygeoirí</h1>
 
-<p>Liosta de na focail LADTA+ san fhoclóir.</p>
+<p>Foclóir de théarmaíocht LADTA+.</p>
 
 <p>Tá an leathanach seo á tógáil.</p>
+
+{% for focol in site.focloir %}
+  <p><a href="{{ site.baseurl }}{{ focol.url }}">{{ focol.title }}</a></p>
+{% endfor %}
