@@ -1,5 +1,5 @@
 ---
-layout: faclair
+layout: focloir
 title: "dá-fhiosrach"
 title_gd: "annas dhen dà-sheòrsachd"
 title_en: "bicurious"

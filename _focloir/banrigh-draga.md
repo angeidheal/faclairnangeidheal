@@ -1,5 +1,5 @@
 ---
-layout: faclair
+layout: focloir
 title: "banríon draig"
 title_gd: "bànrigh draga"
 title_en: "drag queen"

@@ -1,5 +1,5 @@
 ---
-layout: faclair
+layout: focloir
 title: "iar-obráid"
 title_gd: "an dèidh obrach-lannsa"
 title_en: "post-op"

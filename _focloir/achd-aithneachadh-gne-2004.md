@@ -1,5 +1,5 @@
 ---
-layout: faclair
+layout: focloir
 title: "An tAcht um Inscne a Aithint (2004)"
 title_gd: "Achd Aithneachadh Gnè (2004)"
 title_en: "Gender Recognition Act (2004)"

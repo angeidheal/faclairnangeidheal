@@ -1,5 +1,5 @@
 ---
-layout: faclair
+layout: focloir
 title: "aiteach"
 title_gd: "ait"
 title_en: "queer"

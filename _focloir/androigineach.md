@@ -1,5 +1,5 @@
 ---
-layout: faclair
+layout: focloir
 title: "andraigineach"
 title_gd: "androigineach"
 title:_en: "androgynous / androgyne"

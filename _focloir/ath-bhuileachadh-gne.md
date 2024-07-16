@@ -1,5 +1,5 @@
 ---
-layout: faclair
+layout: focloir
 title: "aistriú inscne"
 title_gd: "ath-bhuileachadh gnè"
 title_en: "gender reassignment"

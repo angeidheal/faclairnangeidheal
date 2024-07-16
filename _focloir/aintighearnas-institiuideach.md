@@ -1,5 +1,5 @@
 ---
-layout: faclair
+layout: focloir
 title: "leatrom institiúideach"
 title_gd: "aintighearnas institiuideach"
 title_en: "institutional oppression"

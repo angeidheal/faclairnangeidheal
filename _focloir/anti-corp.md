@@ -1,5 +1,5 @@
 ---
-layout: faclair
+layout: focloir
 title: "antasubstaint"
 title_gd: "anti-corp"
 title_en: "antibody"

@@ -1,5 +1,5 @@
 ---
-layout: faclair
+layout: focloir
 title: "comhinscne"
 title_gd: "aon-ghnèitheach"
 title_en: "same-gender"

@@ -1,5 +1,5 @@
 ---
-layout: faclair
+layout: focloir
 title: "aitheantas inscne"
 title_gd: "aithneachadh gnè"
 title_en: "gender recognition"

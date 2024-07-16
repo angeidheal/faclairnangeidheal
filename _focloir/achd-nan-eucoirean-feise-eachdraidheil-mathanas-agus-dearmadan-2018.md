@@ -1,5 +1,5 @@
 ---
-layout: faclair
+layout: focloir
 title: "Achd nan Eucoirean Feise Eachdraidheil (Mathanas agus Dearmadan) (Alba) 2018"
 title_gd: "Achd nan Eucoirean Feise Eachdraidheil (Mathanas agus Dearmadan) (Alba) 2018"
 title_en: "Historical Sexual Offences (Pardons and Disregards) (Scotland) Act 2018"

@@ -1,5 +1,5 @@
 ---
-layout: faclair
+layout: focloir
 title: "bean aerach"
 title_gd: "bana-ghèidh"
 title_en: "lesbian / gay woman"

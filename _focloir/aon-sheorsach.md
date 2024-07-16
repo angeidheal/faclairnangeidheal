@@ -1,5 +1,5 @@
 ---
-layout: faclair
+layout: focloir
 title: "comhghnéis"
 title_gd: "aon-sheòrsach"
 title_en: "same-sex"
