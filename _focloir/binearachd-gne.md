@@ -8,12 +8,4 @@ permalink_gd: /gd/binearachd-gne/
 permalink_en: /en/gender-binary/
 ---
 
-## Sainmhíniú
-  
 Le teacht
-
-## Aistriúcháin
-
-&#x1f3f4;&#xe0067;&#xe0062;&#xe0073;&#xe0063;&#xe0074;&#xe007f; [{{ page.title_gd }}]({{ page.permalink_gd | prepend: site.baseurl | replace: '//', '/' }})
-
-&#x1f3f4;&#xe0067;&#xe0062;&#xe0065;&#xe006e;&#xe0067;&#xe007f; [{{ page.title_en }}]({{ page.permalink_en | prepend: site.baseurl | replace: '//', '/' }})
