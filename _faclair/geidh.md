@@ -6,6 +6,7 @@ title_en: "gay"
 permalink: /geidh/
 permalink_ga: /ga/aerach/
 permalink_en: /en/gay/
+gramar: "bua. coi. -e"
 ---
 
 Neach aig a bheil tàladh romansach no feiseil air luchd na gnè ceudna.
