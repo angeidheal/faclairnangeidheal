@@ -1,15 +1,19 @@
 ---
-layout: faclair
-title: "bìnearachd gnè"
-permalink: /binearachd-gne/
+layout: focloir
+title: "dénárthacht inscne"
+title_gd: "bìnearachd gnè"
+title_en: "gender binary"
+permalink: /ga/denarthacht-inscne/
+permalink_gd: /gd/binearachd-gne/
+permalink_en: /en/gender-binary/
 ---
 
-## Mìneachadh
+## Sainmhíniú
+  
+Le teacht
 
-Ri thighinn
+## Aistriúcháin
 
-## Eadar-theangachaidhean
+&#x1f3f4;&#xe0067;&#xe0062;&#xe0073;&#xe0063;&#xe0074;&#xe007f; [{{ page.title_gd }}]({{ page.permalink_gd | prepend: site.baseurl | replace: '//', '/' }})
 
-&#x1f1ee;&#x1f1ea; dénárthacht inscne
-
-&#x1f3f4;&#xe0067;&#xe0062;&#xe0065;&#xe006e;&#xe0067;&#xe007f; gender binary
+&#x1f3f4;&#xe0067;&#xe0062;&#xe0065;&#xe006e;&#xe0067;&#xe007f; [{{ page.title_en }}]({{ page.permalink_en | prepend: site.baseurl | replace: '//', '/' }})
