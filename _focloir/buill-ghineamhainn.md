@@ -1,15 +1,11 @@
 ---
-layout: faclair
-title: "buill-ghineamhainn"
-permalink: /buill-ghineamhainn/
+layout: focloir
+title: "baill ghiniúna"
+title_gd: "buill-ghineamhainn"
+title_en: "genitals"
+permalink: /ga/baill-ghiniuna/
+permalink_gd: /gd/buill-ghineamhainn/
+permalink_en: /en/genitals/
 ---
 
-## Mìneachadh
-
-Ri thighinn
-
-## Eadar-theangachaidhean
-
-&#x1f1ee;&#x1f1ea; baill ghiniúna
-
-&#x1f3f4;&#xe0067;&#xe0062;&#xe0065;&#xe006e;&#xe0067;&#xe007f; genitals
+Le teacht
