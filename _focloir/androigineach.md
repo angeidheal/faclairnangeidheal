@@ -1,15 +1,11 @@
 ---
 layout: faclair
-title: "androigineach"
-permalink: /androigineach/
+title: "andraigineach"
+title_gd: "androigineach"
+title:_en: "androgynous / androgyne"
+permalink: /ga/andraigineach/
+permalink_gd: /gd/androigineach/
+permalink_en: /en/androgynous/
 ---
 
-## Mìneachadh
-
-Ri thighinn
-
-## Eadar-theangachaidhean
-
-&#x1f1ee;&#x1f1ea; andraigineach
-
-&#x1f3f4;&#xe0067;&#xe0062;&#xe0065;&#xe006e;&#xe0067;&#xe007f; androgynous / androgyne
+Le teacht
