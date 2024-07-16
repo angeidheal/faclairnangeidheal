@@ -1,19 +1,11 @@
 ---
-layout: faclair
-title: "boireann gu fireann"
-permalink: /boireann-gu-fireann/
+layout: focloir
+title: "baineann go fireann"
+title_gd: "boireann gu fireann"
+title_en: "female to male (FTM)"
+permalink: /ga/baineann-go-fireann/
+permalink_gd: /gd/boireann-gu-fireann/
+permalink_en: /en/female-to-male/
 ---
 
-## Mìneachadh
-
-Ri thighinn
-
-## Eadar-theangachaidhean
-
-&#x1f1ee;&#x1f1ea; baineann go fireann
-
-&#x1f3f4;&#xe0067;&#xe0062;&#xe0065;&#xe006e;&#xe0067;&#xe007f; female to male (FTM)
-
-## Faclan  co-cheangailte
-
-[tar-ghnèitheach](https://faclair.lgbt/tar-ghnèitheach)
+Le teacht
