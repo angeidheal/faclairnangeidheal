@@ -7,3 +7,5 @@ permalink: /gd/aintighearnas-institiuideach/
 permalink_ga: /ga/leatrom-institiuideach/
 permalink_en: /en/institutional oppression/
 ---
+
+Ri thighinn
