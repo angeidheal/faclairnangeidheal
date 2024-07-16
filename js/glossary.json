@@ -6,7 +6,7 @@
     {
 
       "title"    : "{{ entry.title | escape }}",
-      "url"      : "{{ site.baseurl }}{{ facal.url }}",
+      "url"      : "{{ site.baseurl }}{{ entry.url }}",
       "category" : "{{ entry.category }}",
       "tags"     : "{{ entry.tags | join: ', ' }}",
       "date"     : "{{ entry.date }}",
