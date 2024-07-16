@@ -1,20 +1,16 @@
 ---
 layout: faclair
-title: "an dèidh obrach-lannsa"
-permalink: /an-deidh-obrach-lannsa/
+title: "iar-obráid"
+title_gd: "an dèidh obrach-lannsa"
+title_en: "post-op"
+permalink: /ga/iar-obraid/
+permalink: /gd/an-deidh-obrach-lannsa/
+permalink_en: /en/post-op/
 ---
 
-## Mìneachadh
+Ri teacht
 
-Abairt a tha a' tarraing air neach tar-ghnèitheach a tha air a dhol fo obair-lannsa daingneachadh gnè.
-
-## Eadar-theangachaidhean
-
-&#x1f1ee;&#x1f1ea; iar-obráid
-
-&#x1f3f4;&#xe0067;&#xe0062;&#xe0065;&#xe006e;&#xe0067;&#xe007f; post-op
-
-## Faclan co-cheangailte
+## Focail chosúla
 
 [obair-lannsa](https://faclair.lgbt/obair-lannsa)
 
