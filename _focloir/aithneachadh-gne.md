@@ -1,15 +1,11 @@
 ---
 layout: faclair
-title: "aithneachadh gnè"
-permalink: /aithneachadh-gne/
+title: "aitheantas inscne"
+title_gd: "aithneachadh gnè"
+title_en: "gender recognition"
+permalink: /ga/aitheantas-inscne/
+permalink_gd: /gd/aithneachadh-gne/
+permalink_en: /en/gender-recognition/
 ---
 
-## Mìneachadh
-
-Ri thighinn
-
-## Eadar-theangachaidhean
-
-&#x1f1ee;&#x1f1ea; aitheantas inscne
-
-&#x1f3f4;&#xe0067;&#xe0062;&#xe0065;&#xe006e;&#xe0067;&#xe007f; gender recognition
+Le teacht
