@@ -1,7 +1,11 @@
 ---
-layout: faclair
-title: 'caismeachd pròise'
-permalink: /caismeachd-proise/
+layout: focloir
+title: "paráid bhróid"
+title_gd: "caismeachd pròise"
+title_en: "pride march"
+permalink: /ga/paraid-bhroid/
+permalink_gd: /gd/caismeachd-proise/
+permalink_en: /en/pride-march/
 ---
 
 ## Mìneachadh
