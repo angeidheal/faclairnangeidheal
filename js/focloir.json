@@ -5,12 +5,12 @@
   {% for focal in site.foclair %}
     {
 
-      "title"    : "{{ facal.title | escape }}",
-      "url"      : "{{ site.baseurl }}{{ facal.url }}",
-      "category" : "{{ facal.category }}",
-      "tags"     : "{{ facal.tags | join: ', ' }}",
-      "date"     : "{{ facal.date }}",
-      "content"  : {{ facal.content | strip_html | strip_newlines | jsonify }}
+      "title"    : "{{ focal.title | escape }}",
+      "url"      : "{{ site.baseurl }}{{ focal.url }}",
+      "category" : "{{ focal.category }}",
+      "tags"     : "{{ focal.tags | join: ', ' }}",
+      "date"     : "{{ focal.date }}",
+      "content"  : {{ focal.content | strip_html | strip_newlines | jsonify }}
 
     } {% unless forloop.last %},{% endunless %}
   {% endfor %}
