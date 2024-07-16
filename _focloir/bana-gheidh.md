@@ -1,15 +1,11 @@
 ---
 layout: faclair
-title: "bana-ghèidh"
-permalink: /bana-gheidh/
+title: "bean aerach"
+title_gd: "bana-ghèidh"
+title_en: "lesbian / gay woman"
+permalink: /ga/bean-aerach/
+permalink_gd: /gd/bana-gheidh/
+permalink_en: /en/lesbian/
 ---
 
-## Mìneachadh
-
-Ri thighinn
-
-## Eadar-theangachaidhean
-
-&#x1f1ee;&#x1f1ea; bean aerach
-
-&#x1f3f4;&#xe0067;&#xe0062;&#xe0065;&#xe006e;&#xe0067;&#xe007f; a gay woman / a lesbian
+Le teacht
