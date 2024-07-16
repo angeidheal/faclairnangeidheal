@@ -9,9 +9,3 @@ permalink_en: /en/drag-queen/
 ---
 
 Le teacht
-
-## Focail chosúla
-
-[draga](https://faclair.lgbt/draga)
-
-[rìgh draga](https://faclair.lgbt/righ-draga)
