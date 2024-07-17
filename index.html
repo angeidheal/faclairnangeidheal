@@ -1,32 +1,14 @@
 ---
 layout: page
-permalink: /lorg/
+permalink: /
 ---
 
-<p style="text-align: right"><a href="/gd/clar-mineachaidh/">🗂️ Clàr‑mìneachaidh</a> <a href="/ga/cuardaigh/" title="Amharc an leathanach as Gaeilge">&#x1f1ee;&#x1f1ea; Gaeilge</a> <a href="/en/search/" title="View this page in English">&#x1f3f4;&#xe0067;&#xe0062;&#xe0065;&#xe006e;&#xe0067;&#xe007f; English</a></p>
+<p style="text-align: right; padding-top: 28px;">&#x1f3f4;&#xe0067;&#xe0062;&#xe0073;&#xe0063;&#xe0074;&#xe007f; Gàidhlig <a href="/ga/" title="Amharc an leathanach as Gaeilge">&#x1f1ee;&#x1f1ea; Gaeilge</a> <a href="/en/" title="View this page in English">&#x1f3f4;&#xe0067;&#xe0062;&#xe0065;&#xe006e;&#xe0067;&#xe007f; English</a></p>
 
 <h1>Faclair nan Gèidheal</h1>
 
-<p>Faclair de bhriathrachas LGDTC+ Gàidhlig.</p>
+<p>Faclair de bhriathrachas LGDTC+.</p>
 
-<p>Cleachd an duilleag seo gus lorg san fhaclair, no seall <a href="/gd/clar-mineachaidh/">a' chlàr-mìneachaidh</a>.</p>
-
-<p><a href="{{ site.brand-link }}mu-ar-deidhinn">Cuir fios thugainn</a> ma tha thu eòlach air facal no abairt a tha a dhìth.</p>
-
-<!-- Html Elements for Search -->
-<div class="form-group" id="search-container">
-  <input class="form-control" type="text" id="search-input" placeholder="Lorg san fhaclair..." style="padding: 10px; font-size: 17px; border: 1px solid grey; float: left; width: 100%; background: #f1f1f1;"><br />  
-  <ul style="padding-top: 30px" id="results-container"></ul>
-</div>
-  
-  <!-- Script pointing to search-script.js -->
-  <script src="/js/faclair-script.js" type="text/javascript"></script>
-  
-  <!-- Configuration -->
-  <script>
-  SimpleJekyllSearch({
-    searchInput: document.getElementById('search-input'),
-    resultsContainer: document.getElementById('results-container'),
-    json: '/js/faclair.json'
-  })
-  </script>
+{% for facal in site.faclair %}
+   <p><a href="{{ site.baseurl }}{{ facal.url }}">{{ facal.title }}</a></p>
+{% endfor %}
