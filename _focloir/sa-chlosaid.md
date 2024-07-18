@@ -1,7 +1,7 @@
 ---
 layout: focloir
-title: "sa chlòsaid"
-permalink: /sa-chlosaid/
+title: "faoi choim"
+permalink: /ga/faoi-choim/
 ---
 
 ## Sainmhíniú
@@ -12,7 +12,7 @@ Tha e comasach, agus cumanta a bhith an dà chuid sa chlòsaid agus a-mach às a
 
 ## Aistriúcháin
 
-&#x1f3f4;&#xe0067;&#xe0062;&#xe0073;&#xe0063;&#xe0074;&#xe007f; faoi choim (lit: under a cloak)
+&#x1f3f4;&#xe0067;&#xe0062;&#xe0073;&#xe0063;&#xe0074;&#xe007f; sa chlòsaid
 
 &#x1f3f4;&#xe0067;&#xe0062;&#xe0065;&#xe006e;&#xe0067;&#xe007f; closeted / in the closet
 
