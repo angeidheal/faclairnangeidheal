@@ -1,7 +1,7 @@
 ---
 layout: focloir
 title: "leatrom institiúideach"
-permalink: /ga/aintighearnas-institiuideach/
+permalink: /ga/leatrom-institiuideach/
 ---
 
 ## Sainmhíniú
