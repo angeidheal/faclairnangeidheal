@@ -1,16 +1,16 @@
 ---
 layout: focloir
-title: 'ro obair-lannsa'
-permalink: /ro-obair-lannsa/
+title: "réamh-obráid"
+permalink: /ga/reamh-obraid/
 ---
 
 ## Sainmhíniú
 
-Abairt a tha a' tarraing air neach tar-ghnèitheach nach eil air a dhol fo obair-lannsa daingneachadh gnè fhathast.
+Le teacht
 
 ## Aistriúcháin
 
-&#x1f3f4;&#xe0067;&#xe0062;&#xe0073;&#xe0063;&#xe0074;&#xe007f; réamh-obráid
+&#x1f3f4;&#xe0067;&#xe0062;&#xe0073;&#xe0063;&#xe0074;&#xe007f; ro obair-lannsa
 
 &#x1f3f4;&#xe0067;&#xe0062;&#xe0065;&#xe006e;&#xe0067;&#xe007f; pre-op
 
