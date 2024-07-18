@@ -1,7 +1,7 @@
 ---
 layout: fockleyr
 title: "Slattys Goaill Rish Keintys (2004)"
-permalink: /gv/slattys-goaill-rish-keintys/
+permalink: /gv/slattys-goaill-rish-keintys-2004/
 ---
 
 ## Meenaghey
