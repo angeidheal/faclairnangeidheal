@@ -6,7 +6,7 @@ permalink: /tar-bhoireann/
 
 ## Sainmhíniú
 
-Ri thighinn
+Le teacht
 
 ## Aistriúcháin
 

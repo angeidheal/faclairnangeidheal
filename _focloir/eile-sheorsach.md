@@ -6,7 +6,7 @@ permalink: /eile-sheorsach/
 
 ## Sainmhíniú
 
-Ri thighinn
+Le teacht
 
 ## Aistriúcháin
 

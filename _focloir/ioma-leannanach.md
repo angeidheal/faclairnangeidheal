@@ -6,7 +6,7 @@ permalink: /ioma-leannanach/
 
 ## Sainmhíniú
 
-Ri thighinn
+Le teacht
 
 ## Aistriúcháin
 

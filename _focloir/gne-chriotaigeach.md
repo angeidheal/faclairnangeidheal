@@ -6,7 +6,7 @@ permalink: /gne-chriotaigeach/
 
 ## Sainmhíniú
 
-Ri thighinn
+Le teacht
 
 ## Aistriúcháin
 

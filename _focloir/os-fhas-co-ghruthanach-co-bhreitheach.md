@@ -6,7 +6,7 @@ permalink: /os-fhas-co-ghruthanach-co-bhreitheach/
 
 ## Sainmhíniú
 
-Ri thighinn
+Le teacht
 
 ## Aistriúcháin
 

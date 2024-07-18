@@ -6,7 +6,7 @@ permalink: /fear-geidh/
 
 ## Sainmhíniú
 
-Ri thighinn
+Le teacht
 
 ## Aistriúcháin
 

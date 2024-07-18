@@ -6,7 +6,7 @@ permalink: /neo-reireach-a-thaobh-gne/
 
 ## Sainmhíniú
 
-Ri thighinn
+Le teacht
 
 ## Aistriúcháin
 

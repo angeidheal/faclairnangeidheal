@@ -6,7 +6,7 @@ permalink: /cios-ghneitheachas/
 
 ## Sainmhíniú
 
-Ri thighinn
+Le teacht
 
 ## Aistriúcháin
 

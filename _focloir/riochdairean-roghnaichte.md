@@ -6,7 +6,7 @@ permalink: /riochdairean-roghnaichte/
 
 ## Sainmhíniú
 
-Ri thighinn
+Le teacht
 
 ## Aistriúcháin
 

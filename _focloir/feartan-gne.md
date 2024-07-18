@@ -6,7 +6,7 @@ permalink: /feartan-gne/
 
 ## Sainmhíniú
 
-Ri thighinn
+Le teacht
 
 ## Aistriúcháin
 

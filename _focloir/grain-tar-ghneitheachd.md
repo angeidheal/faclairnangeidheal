@@ -6,7 +6,7 @@ permalink: /grain-tar-ghneitheachd/
 
 ## Sainmhíniú
 
-Ri thighinn
+Le teacht
 
 ## Aistriúcháin
 

@@ -6,7 +6,7 @@ permalink: /neo-romansach/
 
 ## Sainmhíniú
 
-Ri thighinn
+Le teacht
 
 ## Aistriúcháin
 

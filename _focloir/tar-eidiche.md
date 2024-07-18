@@ -6,7 +6,7 @@ permalink: /tar-eidiche/
 
 ## Sainmhíniú
 
-Ri thighinn
+Le teacht
 
 ## Aistriúcháin
 

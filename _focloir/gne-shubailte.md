@@ -6,7 +6,7 @@ permalink: /gne-shubailte/
 
 ## Sainmhíniú
 
-Ri thighinn
+Le teacht
 
 ## Aistriúcháin
 

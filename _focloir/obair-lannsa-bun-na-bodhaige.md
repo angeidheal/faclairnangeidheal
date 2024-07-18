@@ -6,7 +6,7 @@ permalink: /obair-lannsa-bun-na-bodhaige/
 
 ## Sainmhíniú
 
-Ri thighinn
+Le teacht
 
 ## Aistriúcháin
 

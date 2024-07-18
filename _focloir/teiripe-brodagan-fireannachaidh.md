@@ -6,7 +6,7 @@ permalink: /teiripe-brodagan-fireannachaidh/
 
 ## Sainmhíniú
 
-Ri thighinn
+Le teacht
 
 ## Aistriúcháin
 

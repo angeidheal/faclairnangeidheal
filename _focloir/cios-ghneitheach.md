@@ -6,7 +6,7 @@ permalink: /cios-ghneitheach/
 
 ## Sainmhíniú
 
-Ri thighinn
+Le teacht
 
 ## Aistriúcháin
 

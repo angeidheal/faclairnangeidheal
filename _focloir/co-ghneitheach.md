@@ -6,7 +6,7 @@ permalink: /co-ghneitheach/
 
 ## Sainmhíniú
 
-Ri thighinn
+Le teacht
 
 ## Aistriúcháin
 

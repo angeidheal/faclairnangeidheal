@@ -6,7 +6,7 @@ permalink: /co-ionannachd-posaidh/
 
 ## Sainmhíniú
 
-Ri thighinn
+Le teacht
 
 ## Aistriúcháin
 

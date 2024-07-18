@@ -6,7 +6,7 @@ permalink: /fireannaich-a-bhios-ri-feise-le-fireannaich/
 
 ## Sainmhíniú
 
-Ri thighinn
+Le teacht
 
 ## Aistriúcháin
 

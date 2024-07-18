@@ -6,7 +6,7 @@ permalink: /fein-riaghladh-na-bodhaige/
 
 ## Sainmhíniú
 
-Ri thighinn
+Le teacht
 
 ## Aistriúcháin
 

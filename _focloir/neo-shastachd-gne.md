@@ -6,7 +6,7 @@ permalink: /neo-shastachd-gne/
 
 ## Sainmhíniú
 
-Ri thighinn
+Le teacht
 
 ## Aistriúcháin
 

@@ -6,7 +6,7 @@ permalink: /far-ghneitheach/
 
 ## Sainmhíniú
 
-Ri thighinn
+Le teacht
 
 ## Aistriúcháin
 

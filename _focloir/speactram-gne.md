@@ -6,7 +6,7 @@ permalink: /speactram-gne/
 
 ## Sainmhíniú
 
-Ri thighinn
+Le teacht
 
 ## Aistriúcháin
 

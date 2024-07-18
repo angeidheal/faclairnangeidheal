@@ -6,7 +6,7 @@ permalink: /gne-normadachd/
 
 ## Sainmhíniú
 
-Ri thighinn
+Le teacht
 
 ## Aistriúcháin
 

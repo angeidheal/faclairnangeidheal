@@ -6,7 +6,7 @@ permalink: /leth-bhreith-a-thaobh-gne/
 
 ## Sainmhíniú
 
-Ri thighinn
+Le teacht
 
 ## Aistriúcháin
 

@@ -6,7 +6,7 @@ permalink: /taobhadh-romansach/
 
 ## Sainmhíniú
 
-Ri thighinn
+Le teacht
 
 ## Aistriúcháin
 

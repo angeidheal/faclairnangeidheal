@@ -6,7 +6,7 @@ permalink: /neodroiseach/
 
 ## Sainmhíniú
 
-Ri thighinn
+Le teacht
 
 ## Aistriúcháin
 

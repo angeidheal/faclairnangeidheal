@@ -6,7 +6,7 @@ permalink: /da-ghneitheach/
 
 ## Sainmhíniú
 
-Ri thighinn
+Le teacht
 
 ## Aistriúcháin
 

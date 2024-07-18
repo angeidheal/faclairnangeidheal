@@ -6,7 +6,7 @@ permalink: /leigheas-ro-chasgach-ro-ghabhalach/
 
 ## Sainmhíniú
 
-Ri thighinn
+Le teacht
 
 ## Aistriúcháin
 

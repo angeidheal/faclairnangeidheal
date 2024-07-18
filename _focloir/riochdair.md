@@ -6,7 +6,7 @@ permalink: /riochdair/
 
 ## Sainmhíniú
 
-Ri thighinn
+Le teacht
 
 ## Aistriúcháin
 

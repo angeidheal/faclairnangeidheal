@@ -6,7 +6,7 @@ permalink: /eadar-ghluasad-soisealta/
 
 ## Sainmhíniú
 
-Ri thighinn
+Le teacht
 
 ## Aistriúcháin
 

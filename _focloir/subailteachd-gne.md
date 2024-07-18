@@ -6,7 +6,7 @@ permalink: /subailteachd-gne/
 
 ## Sainmhíniú
 
-Ri thighinn
+Le teacht
 
 ## Aistriúcháin
 

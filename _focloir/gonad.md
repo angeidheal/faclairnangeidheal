@@ -6,7 +6,7 @@ permalink: /gonad/
 
 ## Sainmhíniú
 
-Ri thighinn
+Le teacht
 
 ## Aistriúcháin
 

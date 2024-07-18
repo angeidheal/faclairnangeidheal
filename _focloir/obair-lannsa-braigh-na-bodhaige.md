@@ -6,7 +6,7 @@ permalink: /obair-lannsa-braigh-na-bodhaige/
 
 ## Sainmhíniú
 
-Ri thighinn
+Le teacht
 
 ## Aistriúcháin
 

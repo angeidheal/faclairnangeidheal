@@ -6,7 +6,7 @@ permalink: /obair-lannsa-boireannachaidh/
 
 ## Sainmhíniú
 
-Ri thighinn
+Le teacht
 
 ## Aistriúcháin
 

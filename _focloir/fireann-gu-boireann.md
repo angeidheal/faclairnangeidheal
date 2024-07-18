@@ -6,7 +6,7 @@ permalink: /fireann-gu-boireann/
 
 ## Sainmhíniú
 
-Ri thighinn
+Le teacht
 
 ## Aistriúcháin
 

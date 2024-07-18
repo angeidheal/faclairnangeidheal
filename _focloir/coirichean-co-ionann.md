@@ -6,7 +6,7 @@ permalink: /coirichean-co-ionann/
 
 ## Sainmhíniú
 
-Ri thighinn
+Le teacht
 
 ## Aistriúcháin
 

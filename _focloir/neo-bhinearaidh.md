@@ -6,7 +6,7 @@ permalink: /neo-bhinearaidh/
 
 ## Sainmhíniú
 
-Ri thighinn
+Le teacht
 
 ## Aistriúcháin
 

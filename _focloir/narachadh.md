@@ -6,7 +6,7 @@ permalink: /narachadh/
 
 ## Sainmhíniú
 
-Ri thighinn
+Le teacht
 
 ## Aistriúcháin
 

@@ -6,7 +6,7 @@ permalink: /prois/
 
 ## Sainmhíniú
 
-Ri thighinn
+Le teacht
 
 ## Aistriúcháin
 

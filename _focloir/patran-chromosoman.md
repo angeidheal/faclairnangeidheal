@@ -6,7 +6,7 @@ permalink: /patran-chromosoman/
 
 ## Sainmhíniú
 
-Ri thighinn
+Le teacht
 
 ## Eadar-theangaichean
 

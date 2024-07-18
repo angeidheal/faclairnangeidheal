@@ -6,7 +6,7 @@ permalink: /riochdairean-spivak/
 
 ## Sainmhíniú
 
-Ri thighinn
+Le teacht
 
 ## Aistriúcháin
 

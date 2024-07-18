@@ -6,7 +6,7 @@ permalink: /leth-romansach/
 
 ## Sainmhíniú
 
-Ri thighinn
+Le teacht
 
 ## Aistriúcháin
 

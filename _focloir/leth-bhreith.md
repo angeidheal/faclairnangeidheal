@@ -6,7 +6,7 @@ permalink: /leth-bhreith/
 
 ## Sainmhíniú
 
-Ri thighinn
+Le teacht
 
 ## Aistriúcháin
 

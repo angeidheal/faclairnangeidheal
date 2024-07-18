@@ -6,7 +6,7 @@ permalink: /dearbh-aithne-gne/
 
 ## Sainmhíniú
 
-Ri thighinn
+Le teacht
 
 ## Aistriúcháin
 

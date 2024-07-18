@@ -6,7 +6,7 @@ permalink: /sionndram-easbhaidh-ion-dhion-togte/
 
 ## Sainmhíniú
 
-Ri thighinn
+Le teacht
 
 ## Aistriúcháin
 

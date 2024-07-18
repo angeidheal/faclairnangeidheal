@@ -6,7 +6,7 @@ permalink: /neach-geidh/
 
 ## Sainmhíniú
 
-Ri thighinn
+Le teacht
 
 ## Aistriúcháin
 

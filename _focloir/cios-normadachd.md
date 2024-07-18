@@ -6,7 +6,7 @@ permalink: /cios-normadachd/
 
 ## Sainmhíniú
 
-Ri thighinn
+Le teacht
 
 ## Aistriúcháin
 

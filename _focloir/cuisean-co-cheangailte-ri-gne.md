@@ -6,7 +6,7 @@ permalink: /cuisean-co-cheangailte-ri-gne/
 
 ## Sainmhíniú
 
-Ri thighinn
+Le teacht
 
 ## Aistriúcháin
 

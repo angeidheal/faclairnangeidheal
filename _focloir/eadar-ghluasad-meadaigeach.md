@@ -6,7 +6,7 @@ permalink: /eadar-ghluasad-meadaigeach/
 
 ## Sainmhíniú
 
-Ri thighinn
+Le teacht
 
 ## Aistriúcháin
 

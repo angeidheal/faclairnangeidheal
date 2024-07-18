@@ -6,7 +6,7 @@ permalink: /eadar-sheorsach/
 
 ## Sainmhíniú
 
-Ri thighinn
+Le teacht
 
 ## Aistriúcháin
 

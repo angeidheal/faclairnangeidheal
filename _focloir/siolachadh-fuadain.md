@@ -6,7 +6,7 @@ permalink: /siolachadh-fuadain/
 
 ## Sainmhíniú
 
-Ri thighinn
+Le teacht
 
 ## Aistriúcháin
 

@@ -6,7 +6,7 @@ permalink: /feis-proise/
 
 ## Sainmhíniú
 
-Ri thighinn
+Le teacht
 
 ## Aistriúcháin
 

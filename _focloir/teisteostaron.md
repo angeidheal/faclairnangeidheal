@@ -6,7 +6,7 @@ permalink: /teisteostaron/
 
 ## Sainmhíniú
 
-Ri thighinn
+Le teacht
 
 ## Aistriúcháin
 

@@ -6,7 +6,7 @@ permalink: /sionndram-neo-mhothalachd-nan-gineachan-fireann/
 
 ## Sainmhíniú
 
-Ri thighinn
+Le teacht
 
 ## Aistriúcháin
 

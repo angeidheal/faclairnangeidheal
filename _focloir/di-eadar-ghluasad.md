@@ -6,7 +6,7 @@ permalink: /di-eadar-ghluasad/
 
 ## Sainmhíniú
 
-Ri thighinn
+Le teacht
 
 ## Aistriúcháin
 

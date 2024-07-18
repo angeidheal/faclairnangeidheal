@@ -6,7 +6,7 @@ permalink: /eastraigin/
 
 ## Sainmhíniú
 
-Ri thighinn
+Le teacht
 
 ## Aistriúcháin
 

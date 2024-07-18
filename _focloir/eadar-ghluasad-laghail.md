@@ -6,7 +6,7 @@ permalink: /eadar-ghluasad-laghail/
 
 ## Sainmhíniú
 
-Ri thighinn
+Le teacht
 
 ## Aistriúcháin
 

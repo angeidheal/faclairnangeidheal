@@ -6,7 +6,7 @@ permalink: /draga/
 
 ## Sainmhíniú
 
-Ri thighinn
+Le teacht
 
 ## Aistriúcháin
 

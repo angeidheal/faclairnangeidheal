@@ -6,7 +6,7 @@ permalink: /obair-lannsa-ath-bhuileachadh-gne/
 
 ## Sainmhíniú
 
-Ri thighinn
+Le teacht
 
 ## Aistriúcháin
 

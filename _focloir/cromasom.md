@@ -6,7 +6,7 @@ permalink: /cromasom/
 
 ## Sainmhíniú
 
-Ri thighinn
+Le teacht
 
 ## Aistriúcháin
 

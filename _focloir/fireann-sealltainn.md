@@ -6,7 +6,7 @@ permalink: /fireann-sealltainn/
 
 ## Sainmhíniú
 
-Ri thighinn
+Le teacht
 
 ## Aistriúcháin
 

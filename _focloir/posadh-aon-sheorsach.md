@@ -6,7 +6,7 @@ permalink: /posadh-aon-sheorsach/
 
 ## Sainmhíniú
 
-Ri thighinn
+Le teacht
 
 ## Aistriúcháin
 

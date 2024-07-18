@@ -6,7 +6,7 @@ permalink: /teisteanas-aithneachadh-gne/
 
 ## Sainmhíniú
 
-Ri thighinn
+Le teacht
 
 ## Aistriúcháin
 

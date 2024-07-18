@@ -6,7 +6,7 @@ permalink: /eadar-ghneitheach/
 
 ## Sainmhíniú
 
-Ri thighinn
+Le teacht
 
 ## Aistriúcháin
 

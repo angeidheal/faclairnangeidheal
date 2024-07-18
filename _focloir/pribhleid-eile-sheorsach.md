@@ -6,7 +6,7 @@ permalink: /pribhleid-eile-sheorsach/
 
 ## Sainmhíniú
 
-Ri thighinn
+Le teacht
 
 ## Aistriúcháin
 

@@ -6,7 +6,7 @@ permalink: /tar-fhireann/
 
 ## Sainmhíniú
 
-Ri thighinn
+Le teacht
 
 ## Aistriúcháin
 

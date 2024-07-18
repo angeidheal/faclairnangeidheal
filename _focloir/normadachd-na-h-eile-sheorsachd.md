@@ -6,7 +6,7 @@ permalink: /normadachd-na-h-eile-sheorsachd/
 
 ## Sainmhíniú
 
-Ri thighinn
+Le teacht
 
 ## Aistriúcháin
 

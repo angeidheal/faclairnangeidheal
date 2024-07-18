@@ -6,7 +6,7 @@ permalink: /thar-bhith-beo/
 
 ## Sainmhíniú
 
-Ri thighinn
+Le teacht
 
 ## Aistriúcháin
 

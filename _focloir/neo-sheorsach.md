@@ -6,7 +6,7 @@ permalink: /neo-sheorsach/
 
 ## Sainmhíniú
 
-Ri thighinn
+Le teacht
 
 ## Aistriúcháin
 

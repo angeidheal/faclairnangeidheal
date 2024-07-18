@@ -6,7 +6,7 @@ permalink: /prois-gheidh/
 
 ## Sainmhíniú
 
-Ri thighinn
+Le teacht
 
 ## Aistriúcháin
 

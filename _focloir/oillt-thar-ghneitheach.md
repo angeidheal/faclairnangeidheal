@@ -6,7 +6,7 @@ permalink: /oillt-thar-ghneitheach/
 
 ## Sainmhíniú
 
-Ri thighinn
+Le teacht
 
 ## Aistriúcháin
 

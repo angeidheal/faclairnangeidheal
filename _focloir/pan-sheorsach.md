@@ -8,7 +8,7 @@ permalink: /pan-sheorsach/
 
 ## Sainmhíniú
 
-Ri thighinn
+Le teacht
 
 ## Eadar-theangaichean
 

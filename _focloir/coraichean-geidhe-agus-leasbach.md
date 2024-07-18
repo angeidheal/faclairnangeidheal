@@ -6,7 +6,7 @@ permalink: /coraichean-geidhe-agus-leasbach/
 
 ## Sainmhíniú
 
-Ri thighinn
+Le teacht
 
 ## Aistriúcháin
 

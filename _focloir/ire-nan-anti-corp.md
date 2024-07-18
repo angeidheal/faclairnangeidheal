@@ -6,7 +6,7 @@ permalink: /ire-nan-anti-corp/
 
 ## Sainmhíniú
 
-Ri thighinn
+Le teacht
 
 ## Aistriúcháin
 

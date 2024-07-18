@@ -6,7 +6,7 @@ permalink: /obair-lannsa-fireannachaidh/
 
 ## Sainmhíniú
 
-Ri thighinn
+Le teacht
 
 ## Aistriúcháin
 

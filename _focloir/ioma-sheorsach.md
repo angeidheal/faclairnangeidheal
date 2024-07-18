@@ -6,7 +6,7 @@ permalink: /ioma-sheorsach/
 
 ## Sainmhíniú
 
-Ri thighinn
+Le teacht
 
 ## Aistriúcháin
 

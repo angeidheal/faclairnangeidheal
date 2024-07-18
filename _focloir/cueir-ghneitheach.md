@@ -6,7 +6,7 @@ permalink: /cueir-ghneitheach/
 
 ## Sainmhíniú
 
-Ri thighinn
+Le teacht
 
 ## Aistriúcháin
 

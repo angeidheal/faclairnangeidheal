@@ -6,7 +6,7 @@ permalink: /taobhadh-feise/
 
 ## Sainmhíniú
 
-Ri thighinn
+Le teacht
 
 ## Aistriúcháin
 

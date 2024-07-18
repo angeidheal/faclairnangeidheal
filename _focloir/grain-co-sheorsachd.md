@@ -6,7 +6,7 @@ permalink: /grain-co-sheorsachd/
 
 ## Sainmhíniú
 
-Ri thighinn
+Le teacht
 
 ## Aistriúcháin
 

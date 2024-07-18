@@ -6,7 +6,7 @@ permalink: /fratt/
 
 ## Sainmhíniú
 
-Ri thighinn
+Le teacht
 
 ## Aistriúcháin
 

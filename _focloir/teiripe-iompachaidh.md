@@ -6,7 +6,7 @@ permalink: /teiripe-iompachaidh/
 
 ## Sainmhíniú
 
-Ri thighinn
+Le teacht
 
 ## Aistriúcháin
 

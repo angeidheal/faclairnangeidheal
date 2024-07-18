@@ -6,7 +6,7 @@ permalink: /teiripe-ionadachadh-bhrodagan/
 
 ## Sainmhíniú
 
-Ri thighinn
+Le teacht
 
 ## Aistriúcháin
 

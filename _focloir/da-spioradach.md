@@ -6,7 +6,7 @@ permalink: /da-spioradach/
 
 ## Sainmhíniú
 
-Ri thighinn
+Le teacht
 
 ## Aistriúcháin
 

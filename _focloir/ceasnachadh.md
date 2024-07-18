@@ -6,7 +6,7 @@ permalink: /ceasnachadh/
 
 ## Sainmhíniú
 
-Ri thighinn
+Le teacht
 
 ## Aistriúcháin
 

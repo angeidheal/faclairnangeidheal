@@ -6,7 +6,7 @@ permalink: /nochdadh-gne/
 
 ## Sainmhíniú
 
-Ri thighinn
+Le teacht
 
 ## Aistriúcháin
 

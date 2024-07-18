@@ -6,7 +6,7 @@ permalink: /grain-da-sheorsachd/
 
 ## Sainmhíniú
 
-Ri thighinn
+Le teacht
 
 ## Aistriúcháin
 

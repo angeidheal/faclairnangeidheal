@@ -6,7 +6,7 @@ permalink: /taobhadh-measgaichte/
 
 ## Sainmhíniú
 
-Ri thighinn
+Le teacht
 
 ## Aistriúcháin
 

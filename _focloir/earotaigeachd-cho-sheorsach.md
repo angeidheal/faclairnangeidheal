@@ -6,7 +6,7 @@ permalink: /earotaigeachd-cho-sheorsach/
 
 ## Sainmhíniú
 
-Ri thighinn
+Le teacht
 
 ## Aistriúcháin
 

@@ -6,7 +6,7 @@ permalink: /proiseil/
 
 ## Sainmhíniú
 
-Ri thighinn
+Le teacht
 
 ## Aistriúcháin
 

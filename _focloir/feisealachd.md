@@ -6,7 +6,7 @@ permalink: /feisealachd/
 
 ## Sainmhíniú
 
-Ri thighinn
+Le teacht
 
 ## Aistriúcháin
 

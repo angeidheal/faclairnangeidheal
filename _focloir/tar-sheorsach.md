@@ -6,7 +6,7 @@ permalink: /tar-sheorsach/
 
 ## Sainmhíniú
 
-Ri thighinn
+Le teacht
 
 ## Aistriúcháin
 

@@ -6,7 +6,7 @@ permalink: /ceile-dhen-aon-ghne/
 
 ## Sainmhíniú
 
-Ri thighinn
+Le teacht
 
 ## Aistriúcháin
 

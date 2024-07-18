@@ -6,7 +6,7 @@ permalink: /luchd-geidh/
 
 ## Sainmhíniú
 
-Ri thighinn
+Le teacht
 
 ## Aistriúcháin
 

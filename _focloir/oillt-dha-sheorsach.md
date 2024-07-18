@@ -6,7 +6,7 @@ permalink: /oillt-dha-sheorsach/
 
 ## Sainmhíniú
 
-Ri thighinn
+Le teacht
 
 ## Aistriúcháin
 

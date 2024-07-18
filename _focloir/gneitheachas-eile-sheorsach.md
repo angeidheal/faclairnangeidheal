@@ -6,7 +6,7 @@ permalink: /gneitheachas-eile-sheorsach/
 
 ## Sainmhíniú
 
-Ri thighinn
+Le teacht
 
 ## Aistriúcháin
 
