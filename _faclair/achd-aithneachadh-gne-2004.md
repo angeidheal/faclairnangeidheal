@@ -16,6 +16,8 @@ Tha e a' leigeil le inbheach tar-ghnèitheach iarrtas a chur a-steach gus [Teist
 
 &#x1f1ee;&#x1f1ea; An tAcht um Inscne a Aithint (2004)
 
+&#x1f1ee;&#x1f1f2; Slattys Goaill Rish Keintys (2004)
+
 &#x1f3f4;&#xe0067;&#xe0062;&#xe0065;&#xe006e;&#xe0067;&#xe007f; Gender Recognition Act (2004)
 
 ## Faclan Co-cheangailte 
