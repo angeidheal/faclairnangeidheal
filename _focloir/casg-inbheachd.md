@@ -1,20 +1,24 @@
 ---
-layout: faclair
-title: casg-inbheachd
-permalink: /casg-inbheachd/
+layout: focloir
+title: "casg-inbheachd"
+title_gd: "casg-inbheachd"
+title_en: "puberty blocker"
+permalink: /ga/casg-inbheachd/
+permalink_gd: /gd/casg-inbheachd/
+permalink_en: /en/puberty blocker/
 ---
 
-## Mìneachadh
+## Sainmhíniú
 
-'S e leigheasan a th' air an cleachdadh gus dàil a chur air inbheachd a th' ann an casgan-inbheachd.
+Le teacht
 
-## Eadar-theangachaidhean
+## Aistriúcháin
 
-&#x1f1ee;&#x1f1ea; 
+&#x1f3f4;&#xe0067;&#xe0062;&#xe0073;&#xe0063;&#xe0074;&#xe007f; casg-inbheachd
 
 &#x1f3f4;&#xe0067;&#xe0062;&#xe0065;&#xe006e;&#xe0067;&#xe007f; puberty blocker
 
-## Faclan co-cheangailte
+## Focail chosúla
 
 [teiripe brodagan boireannachaidh](https://faclair.lgbt/teiripe-brodagan-boireannachaidh/)
 
