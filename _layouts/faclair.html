@@ -2,33 +2,15 @@
 layout: default
 ---
 
-  <h1><strong>{{ page.title }}</strong></h1>
+<h1><strong>{{ page.title }}</strong></h1>
 
-  {% if page.gramar %}
-  <h2>Gràmar</h2>  
-    {{ page.gramar }}
-  {% endif %}
+{{ content }}
 
-  {% if page.content %}
-    <h2>Mìneachadh</h2>
-    {{ content }}
-  {% endif %}
+<p style="text-align: center"><a href="/">⬅️ Air ais</a></p>
 
-  <h2>Eadar-theangachaidhean</h2>
-
-  {% if page.title_ga %}
-   <p>&#x1f1ee;&#x1f1ea; <a href="{{ page.permalink_ga | prepend: site.baseurl | replace: '//', '/' }}">{{ page.title_ga }}</a></p>
-  {% endif %}
-
-  {% if page.title_en %}
-    <p>&#x1f3f4;&#xe0067;&#xe0062;&#xe0065;&#xe006e;&#xe0067;&#xe007f; <a href="{{ page.permalink_en | prepend: site.baseurl | replace: '//', '/' }}">{{ page.title_en }}</a></p>
-  {% endif %}
-
-  <p style="text-align: center"><a href="/">⬅️ Air ais</a></p>
-
-  <!--<h4>Fàg beachd</h4>
-  {% if page.mastodon %}
-    <p>Ma tha beachd agad mun a' phost seo, faodaidh tu a chur thugam air <a href="{{ page.mastodon }}">Mastodon</a>.</p>
-  {% else %}
-    <p>Ma tha beachd agad mun a' phost seo, faodaidh tu a chur thugam air <a href="https://www.threads.net/@angeidhealur">Threads</a> no <a href="https://www.mastodon.scot/@angeidheal">Mastodon</a>.</p>
-  {% endif %}-->
+<!--<h4>Fàg beachd</h4>
+{% if page.mastodon %}
+  <p>Ma tha beachd agad mun a' phost seo, faodaidh tu a chur thugam air <a href="{{ page.mastodon }}">Mastodon</a>.</p>
+{% else %}
+  <p>Ma tha beachd agad mun a' phost seo, faodaidh tu a chur thugam air <a href="https://www.threads.net/@angeidhealur">Threads</a> no <a href="https://www.mastodon.scot/@angeidheal">Mastodon</a>.</p>
+{% endif %}-->
