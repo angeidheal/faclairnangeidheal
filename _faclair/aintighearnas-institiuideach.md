@@ -1,11 +1,17 @@
 ---
 layout: faclair
 title: "aintighearnas institiuideach"
-title_ga: "leatrom institiúideach"
-title_en: "institutional oppression"
-permalink: /gd/aintighearnas-institiuideach/
-permalink_ga: /ga/leatrom-institiuideach/
-permalink_en: /en/institutional oppression/
+permalink: /aintighearnas-institiuideach/
 ---
 
+## Mìneachadh
+
 Ri thighinn
+
+## Eadar-theangachaidhean
+
+&#x1f1ee;&#x1f1ea; leatrom institiúideach
+
+&#x1f3f4;&#xe0067;&#xe0062;&#xe0065;&#xe006e;&#xe0067;&#xe007f; institutional oppression
+
+## Faclan Co-cheangailte 
