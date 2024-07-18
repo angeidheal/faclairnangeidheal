@@ -1,7 +1,7 @@
 ---
 layout: focloir
 title: náiriú
-permalink: /ga/náiriú/
+permalink: /ga/nairiu/
 ---
 
 ## Sainmhíniú

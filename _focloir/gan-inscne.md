@@ -1,7 +1,7 @@
 ---
 layout: focloir
 title: "gan inscne"
-permalink: /ga/gan inscne/
+permalink: /ga/gan-inscne/
 ---
 
 ## Sainmhíniú

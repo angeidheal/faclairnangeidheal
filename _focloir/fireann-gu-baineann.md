@@ -1,7 +1,7 @@
 ---
 layout: focloir
-title: "baineann gu fireann"
-permalink: /ga/baineann gu fireann/
+title: "fireann gu baineann"
+permalink: /ga/fireann gu baineann/
 ---
 
 ## Sainmhíniú

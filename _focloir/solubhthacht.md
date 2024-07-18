@@ -1,7 +1,7 @@
 ---
 layout: focloir
 title: "solúbhthacht"
-permalink: /ga/solúbhthacht/
+permalink: /ga/solubhthacht/
 ---
 
 ## Sainmhíniú

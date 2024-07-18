@@ -1,7 +1,7 @@
 ---
 layout: focloir
 title: "daoine aeracha"
-permalink: /ga/daoine aeracha/
+permalink: /ga/daoine-aeracha/
 ---
 
 ## Sainmhíniú

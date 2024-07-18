@@ -10,7 +10,7 @@ Le teacht
 
 ## Aistriúcháin
 
-&#x1f3f4;&#xe0067;&#xe0062;&#xe0073;&#xe0063;&#xe0074;&#xe007f; tar-fhireannach
+&#x1f3f4;&#xe0067;&#xe0062;&#xe0073;&#xe0063;&#xe0074;&#xe007f; tar-fhireannach / tar-dhuine
 
 &#x1f3f4;&#xe0067;&#xe0062;&#xe0065;&#xe006e;&#xe0067;&#xe007f; a trans man
 
@@ -26,9 +26,9 @@ Le teacht
 
 [tar-chaileag](https://faclair.lgbt/tar-chaileag)
 
-[tar-dhuine](https://faclair.lgbt/tar-dhuine)
-
 [tar-fhireann](https://faclair.lgbt/tar-fhireann)
+
+[tar-fhireannach](https://faclair.lgbt/tar-fhireannach)
 
 [tar-ghnèitheach](https://faclair.lgbt/tar-ghneitheach)
 

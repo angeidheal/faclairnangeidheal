@@ -1,7 +1,7 @@
 ---
 layout: focloir
 title: "leideanna inscne"
-permalink: /ga/leideanna inscne/
+permalink: /ga/leideanna-inscne/
 ---
 
 ## Sainmhíniú
