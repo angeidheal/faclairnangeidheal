@@ -18,6 +18,8 @@ Mar eisimpleir, fireannach aig a bheil tàladh romansach no feiseil air fireanna
 
 &#x1f1ee;&#x1f1ea; homaighnéasacht
 
+&#x1f1ee;&#x1f1f2; homocheintagh / homocheintysagh
+
 &#x1f3f4;&#xe0067;&#xe0062;&#xe0065;&#xe006e;&#xe0067;&#xe007f; homosexual
 
 ## Faclan co-cheangailte
