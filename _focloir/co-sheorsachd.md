@@ -1,18 +1,16 @@
 ---
-layout: post
-title: "co-sheòrsachd"
-permalink: /co-sheorsachd/
+layout: focloir
+title: "homaighnéasacht"
+permalink: /ga/homaighneasacht/
 ---
-
-1. boir. neo-ath.
 
 ## Sainmhíniú
 
-Tàladh romansach no feiseil eadar luchd na gnè ceudna.
+Le teacht
 
 ## Aistriúcháin
 
-&#x1f3f4;&#xe0067;&#xe0062;&#xe0073;&#xe0063;&#xe0074;&#xe007f; homaighnéasach
+&#x1f3f4;&#xe0067;&#xe0062;&#xe0073;&#xe0063;&#xe0074;&#xe007f; co-sheòrsachd
 
 &#x1f3f4;&#xe0067;&#xe0062;&#xe0065;&#xe006e;&#xe0067;&#xe007f; homosexuality
 

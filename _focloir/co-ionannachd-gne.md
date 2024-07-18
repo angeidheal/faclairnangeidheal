@@ -1,7 +1,7 @@
 ---
 layout: focloir
-title: 'co-ionannachd gnè'
-permalink: /co-ionannachd-gne/
+title: "comhionannas inscne"
+permalink: /ga/comhionannas-inscne/
 ---
 
 ## Sainmhíniú
@@ -10,6 +10,6 @@ Le teacht
 
 ## Aistriúcháin
 
-&#x1f3f4;&#xe0067;&#xe0062;&#xe0073;&#xe0063;&#xe0074;&#xe007f; comhionannas inscne
+&#x1f3f4;&#xe0067;&#xe0062;&#xe0073;&#xe0063;&#xe0074;&#xe007f; co-ionannachd gnè
 
 &#x1f3f4;&#xe0067;&#xe0062;&#xe0065;&#xe006e;&#xe0067;&#xe007f; gender equality

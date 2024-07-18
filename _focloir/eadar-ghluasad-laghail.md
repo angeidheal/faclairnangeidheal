@@ -1,7 +1,7 @@
 ---
 layout: focloir
-title: 'eadar-ghluasad laghail'
-permalink: /eadar-ghluasad-laghail/
+title: "trasdul dhlíthiúil"
+permalink: /ga/trasdul-dhlithiuil/
 ---
 
 ## Sainmhíniú
@@ -10,7 +10,7 @@ Le teacht
 
 ## Aistriúcháin
 
-&#x1f3f4;&#xe0067;&#xe0062;&#xe0073;&#xe0063;&#xe0074;&#xe007f; trasdul dhlíthiúil
+&#x1f3f4;&#xe0067;&#xe0062;&#xe0073;&#xe0063;&#xe0074;&#xe007f; eadar-ghluasad laghail
 
 &#x1f3f4;&#xe0067;&#xe0062;&#xe0065;&#xe006e;&#xe0067;&#xe007f; legal transition
 

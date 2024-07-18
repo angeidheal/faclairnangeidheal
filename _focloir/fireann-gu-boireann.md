@@ -1,7 +1,7 @@
 ---
 layout: focloir
-title: 'fireann gu boireann'
-permalink: /fireann-gu-boireann/
+title: "baineann gu fireann"
+permalink: /ga/baineann gu fireann/
 ---
 
 ## Sainmhíniú
@@ -10,7 +10,7 @@ Le teacht
 
 ## Aistriúcháin
 
-&#x1f3f4;&#xe0067;&#xe0062;&#xe0073;&#xe0063;&#xe0074;&#xe007f; baineann gu fireann
+&#x1f3f4;&#xe0067;&#xe0062;&#xe0073;&#xe0063;&#xe0074;&#xe007f; fireann gu boireann
 
 &#x1f3f4;&#xe0067;&#xe0062;&#xe0065;&#xe006e;&#xe0067;&#xe007f; male to female (MTF)
 

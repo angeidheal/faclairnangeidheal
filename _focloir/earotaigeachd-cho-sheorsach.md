@@ -1,7 +1,7 @@
 ---
 layout: focloir
-title: 'earotaigeachd cho-sheòrsach'
-permalink: /earotaigeachd-cho-sheorsach/
+title: "homa-earótachas"
+permalink: /ga/homa-earotachas/
 ---
 
 ## Sainmhíniú
@@ -10,6 +10,6 @@ Le teacht
 
 ## Aistriúcháin
 
-&#x1f3f4;&#xe0067;&#xe0062;&#xe0073;&#xe0063;&#xe0074;&#xe007f; homa-earótachas
+&#x1f3f4;&#xe0067;&#xe0062;&#xe0073;&#xe0063;&#xe0074;&#xe007f; earotaigeachd cho-sheòrsach
 
 &#x1f3f4;&#xe0067;&#xe0062;&#xe0065;&#xe006e;&#xe0067;&#xe007f; homoeroticism

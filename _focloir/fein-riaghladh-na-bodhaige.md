@@ -1,7 +1,7 @@
 ---
 layout: focloir
-title: 'féin-riaghladh na bodhaige'
-permalink: /fein-riaghladh-na-bodhaige/
+title: "féinriail coirp"
+permalink: /ga/feinriail-coirp/
 ---
 
 ## Sainmhíniú
@@ -10,6 +10,6 @@ Le teacht
 
 ## Aistriúcháin
 
-&#x1f3f4;&#xe0067;&#xe0062;&#xe0073;&#xe0063;&#xe0074;&#xe007f; féinriail coirp
+&#x1f3f4;&#xe0067;&#xe0062;&#xe0073;&#xe0063;&#xe0074;&#xe007f; féin-riaghladh na bodhaige
 
 &#x1f3f4;&#xe0067;&#xe0062;&#xe0065;&#xe006e;&#xe0067;&#xe007f; bodily autonomy

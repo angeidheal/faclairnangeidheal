@@ -1,11 +1,15 @@
 ---
 layout: focloir
 title: "aerach"
-title_gd: "gèidh"
-title_en: "gay"
 permalink: /ga/aerach/
-permalink_gd: /geidh/
-permalink_en: /en/gay/
 ---
 
+## Sainmhíniú
+
 Le teacht
+
+## Aistriúcháin
+
+&#x1f3f4;&#xe0067;&#xe0062;&#xe0073;&#xe0063;&#xe0074;&#xe007f; gèidh
+
+&#x1f3f4;&#xe0067;&#xe0062;&#xe0065;&#xe006e;&#xe0067;&#xe007f; gay
