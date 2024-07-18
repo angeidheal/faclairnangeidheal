@@ -20,6 +20,6 @@ Uaireannan thèid am facal gèidh a chleachdadh gus iomradh a thoirt air a' choi
 
 &#x1f1ee;&#x1f1ea; aerach
 
-&#x1f1ee; &#x1f1f2; aeragh
+&#x1f1ee;&#x1f1f2; aeragh
 
 &#x1f3f4;&#xe0067;&#xe0062;&#xe0065;&#xe006e;&#xe0067;&#xe007f; gay
