@@ -4,6 +4,8 @@ title: "leasbach"
 permalink: /leasbach/
 ---
 
+## Gràmar
+
 1. **fir.** _gin._ ⁊ _iol._ leasbaich
 
 2. _bua._ _coi._ leasbaiche
@@ -16,7 +18,9 @@ Boireannach aig a bheil tàladh romansach no feiseil air boireannaich eile.
 
 &#x1f1ee;&#x1f1ea; leispiach
 
-&#x1f3f4;&#xe0067;&#xe0062;&#xe0065;&#xe006e;&#xe0067;&#xe007f;  lesbian
+&#x1f1ee;&#x1f1f2; lesbeeagh
+
+&#x1f3f4;&#xe0067;&#xe0062;&#xe0065;&#xe006e;&#xe0067;&#xe007f; lesbian
 
 ## Làithean Mothachaidh
 
