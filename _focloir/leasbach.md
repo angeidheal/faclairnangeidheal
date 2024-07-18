@@ -1,26 +1,18 @@
 ---
 layout: focloir
-title: "leasbach"
-permalink: /leasbach/
+title: "leispiach"
+permalink: /ga/leispiach/
 ---
-
-1. **fir.** _gin._ ⁊ _iol._ leasbaich
-
-2. _bua._ _coi._ leasbaiche
 
 ## Sainmhíniú
 
-Boireannach aig a bheil tàladh romansach no feiseil air boireannaich eile.
+Le teacht
 
 ## Aistriúcháin
 
-&#x1f3f4;&#xe0067;&#xe0062;&#xe0073;&#xe0063;&#xe0074;&#xe007f; leispiach
+&#x1f3f4;&#xe0067;&#xe0062;&#xe0073;&#xe0063;&#xe0074;&#xe007f; leasbach
 
 &#x1f3f4;&#xe0067;&#xe0062;&#xe0065;&#xe006e;&#xe0067;&#xe007f;  lesbian
-
-## Làithean Mothachaidh
-
-Thathar a' comharrachadh Latha Faicsinneachd nan Leasbach 26mh den Ghiblean gach bliadhna agus Latha Eadar-nàiseanta nan Leasbach 8mh den Dhàmhair.
 
 ## Focail chosúla
 
