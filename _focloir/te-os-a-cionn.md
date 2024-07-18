@@ -1,16 +1,16 @@
 ---
 layout: focloir
-title: "tè os a cionn"
-permalink: /te-os-a-cionn/
+title: "barradóir / barrpháirtí"
+permalink: /ga/barradoir-barrphairti/
 ---
 
 ## Sainmhíniú
 
-Tè aig a bheil ròl gnìomhach rè feise.
+Le teacht
 
 ## Aistriúcháin
 
-&#x1f3f4;&#xe0067;&#xe0062;&#xe0073;&#xe0063;&#xe0074;&#xe007f; barradóir / barrpháirtí
+&#x1f3f4;&#xe0067;&#xe0062;&#xe0073;&#xe0063;&#xe0074;&#xe007f; tè os a cionn
 
 &#x1f3f4;&#xe0067;&#xe0062;&#xe0065;&#xe006e;&#xe0067;&#xe007f; top
 

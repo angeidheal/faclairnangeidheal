@@ -1,16 +1,16 @@
 ---
 layout: focloir
-title: "te foidhpe"
-permalink: /te-foidhpe/
+title: "bunadóir / bunpháirtí"
+permalink: /ga/bunadoir-bunphairti/
 ---
 
 ## Sainmhíniú
 
-Tè aig a bheil ròl neo-gnìomhach rè feise.
+Le teacht
 
 ## Aistriúcháin
 
-&#x1f3f4;&#xe0067;&#xe0062;&#xe0073;&#xe0063;&#xe0074;&#xe007f; bunadóir / bunpháirtí
+&#x1f3f4;&#xe0067;&#xe0062;&#xe0073;&#xe0063;&#xe0074;&#xe007f; te foidhpe
 
 &#x1f3f4;&#xe0067;&#xe0062;&#xe0065;&#xe006e;&#xe0067;&#xe007f; bottom
 

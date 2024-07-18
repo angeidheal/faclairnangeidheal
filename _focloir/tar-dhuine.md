@@ -1,16 +1,16 @@
 ---
 layout: focloir
-title: tar-dhuine
-permalink: /tar-dhuine/
+title: "fear tras"
+permalink: /ga/fear-tras/
 ---
 
 ## Sainmhíniú
 
-Fireannach tar-ghnèitheach (fireannach a chaidh a bhuileachadh boireann aig àm am breith).
+Le teacht
 
 ## Aistriúcháin
 
-&#x1f3f4;&#xe0067;&#xe0062;&#xe0073;&#xe0063;&#xe0074;&#xe007f; fear tras
+&#x1f3f4;&#xe0067;&#xe0062;&#xe0073;&#xe0063;&#xe0074;&#xe007f; tar-dhuine
 
 &#x1f3f4;&#xe0067;&#xe0062;&#xe0065;&#xe006e;&#xe0067;&#xe007f; a trans man
 

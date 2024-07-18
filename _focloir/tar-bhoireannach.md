@@ -1,16 +1,16 @@
 ---
 layout: focloir
-title: tar-bhoireannach
-permalink: /tar-bhoireannach/
+title: "bean thras"
+permalink: /ga/bean-thras/
 ---
 
 ## Sainmhíniú
 
-Boireannach tar-ghnèitheach (boireannach a chaidh a bhuileachadh fireann aig àm am breith).
+Le teacht
 
 ## Aistriúcháin
 
-&#x1f3f4;&#xe0067;&#xe0062;&#xe0073;&#xe0063;&#xe0074;&#xe007f; bean thras
+&#x1f3f4;&#xe0067;&#xe0062;&#xe0073;&#xe0063;&#xe0074;&#xe007f; tar-bhoireannach
 
 &#x1f3f4;&#xe0067;&#xe0062;&#xe0065;&#xe006e;&#xe0067;&#xe007f; a trans woman
 

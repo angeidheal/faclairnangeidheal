@@ -1,7 +1,7 @@
 ---
 layout: focloir
-title: 'Teiripe Ionadachadh Bhrodagan'
-permalink: /teiripe-ionadachadh-bhrodagan/
+title: "Teiripe Athsholáthair Hormón"
+permalink: /ga/teiripe-athsholathair-hormon/
 ---
 
 ## Sainmhíniú
@@ -10,7 +10,7 @@ Le teacht
 
 ## Aistriúcháin
 
-&#x1f3f4;&#xe0067;&#xe0062;&#xe0073;&#xe0063;&#xe0074;&#xe007f; Teiripe Athsholáthair Hormón
+&#x1f3f4;&#xe0067;&#xe0062;&#xe0073;&#xe0063;&#xe0074;&#xe007f; Teiripe Ionadachadh Bhrodagan
 
 &#x1f3f4;&#xe0067;&#xe0062;&#xe0065;&#xe006e;&#xe0067;&#xe007f; Hormone Replacement Therapy (HRT)
 

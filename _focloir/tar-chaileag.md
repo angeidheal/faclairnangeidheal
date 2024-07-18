@@ -1,16 +1,16 @@
 ---
 layout: focloir
-title: tar-chaileag
-permalink: /tar-chaileag/
+title: "cailín tras"
+permalink: /ga/cailin-tras/
 ---
 
 ## Sainmhíniú
 
-Caileag thar-ghnèitheach (caileag a chaidh a bhuileachadh fireann aig àm am breith).
+Le teacht
 
 ## Aistriúcháin
 
-&#x1f3f4;&#xe0067;&#xe0062;&#xe0073;&#xe0063;&#xe0074;&#xe007f; cailín tras
+&#x1f3f4;&#xe0067;&#xe0062;&#xe0073;&#xe0063;&#xe0074;&#xe007f; tar-chaileag
 
 &#x1f3f4;&#xe0067;&#xe0062;&#xe0065;&#xe006e;&#xe0067;&#xe007f; a trans girl
 
