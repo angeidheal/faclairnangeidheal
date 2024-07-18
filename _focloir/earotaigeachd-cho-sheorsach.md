@@ -1,15 +1,15 @@
 ---
-layout: faclair
+layout: focloir
 title: 'earotaigeachd cho-sheòrsach'
 permalink: /earotaigeachd-cho-sheorsach/
 ---
 
-## Mìneachadh
+## Sainmhíniú
 
 Ri thighinn
 
-## Eadar-theangachaidhean
+## Aistriúcháin
 
-&#x1f1ee;&#x1f1ea; homa-earótachas
+&#x1f3f4;&#xe0067;&#xe0062;&#xe0073;&#xe0063;&#xe0074;&#xe007f; homa-earótachas
 
 &#x1f3f4;&#xe0067;&#xe0062;&#xe0065;&#xe006e;&#xe0067;&#xe007f; homoeroticism

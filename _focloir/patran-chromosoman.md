@@ -1,10 +1,10 @@
 ---
-layout: faclair
+layout: focloir
 title: pàtran chròmosoman
 permalink: /patran-chromosoman/
 ---
 
-## Mìneachadh
+## Sainmhíniú
 
 Ri thighinn
 
@@ -14,7 +14,7 @@ Ri thighinn
 
 🏴󠁧󠁢󠁥󠁮󠁧󠁿 chromosome pattern
 
-## Faclan co-cheangailte
+## Focail chosúla
 
 
 

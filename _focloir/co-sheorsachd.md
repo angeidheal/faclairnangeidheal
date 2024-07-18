@@ -6,17 +6,17 @@ permalink: /co-sheorsachd/
 
 1. boir. neo-ath.
 
-## Mìneachadh
+## Sainmhíniú
 
 Tàladh romansach no feiseil eadar luchd na gnè ceudna.
 
-## Eadar-theangachaidhean
+## Aistriúcháin
 
-&#x1f1ee;&#x1f1ea; homaighnéasach
+&#x1f3f4;&#xe0067;&#xe0062;&#xe0073;&#xe0063;&#xe0074;&#xe007f; homaighnéasach
 
 &#x1f3f4;&#xe0067;&#xe0062;&#xe0065;&#xe006e;&#xe0067;&#xe007f; homosexuality
 
-## Faclan co-cheangailte
+## Focail chosúla
 
 [co-sheòrsach](https://faclair.lgbt/co-sheorsach/)
 

@@ -1,5 +1,5 @@
 ---
-layout: faclair
+layout: focloir
 title: "leasbach"
 permalink: /leasbach/
 ---
@@ -8,13 +8,13 @@ permalink: /leasbach/
 
 2. _bua._ _coi._ leasbaiche
 
-## Mìneachadh
+## Sainmhíniú
 
 Boireannach aig a bheil tàladh romansach no feiseil air boireannaich eile.
 
-## Eadar-theangachaidhean
+## Aistriúcháin
 
-&#x1f1ee;&#x1f1ea; leispiach
+&#x1f3f4;&#xe0067;&#xe0062;&#xe0073;&#xe0063;&#xe0074;&#xe007f; leispiach
 
 &#x1f3f4;&#xe0067;&#xe0062;&#xe0065;&#xe006e;&#xe0067;&#xe007f;  lesbian
 
@@ -22,7 +22,7 @@ Boireannach aig a bheil tàladh romansach no feiseil air boireannaich eile.
 
 Thathar a' comharrachadh Latha Faicsinneachd nan Leasbach 26mh den Ghiblean gach bliadhna agus Latha Eadar-nàiseanta nan Leasbach 8mh den Dhàmhair.
 
-## Faclan co-cheangailte
+## Focail chosúla
 
 [co-sheòrsach](https://faclair.lgbt/co-sheorsach/)
 

@@ -1,20 +1,20 @@
 ---
-layout: faclair
+layout: focloir
 title: 'Teiripe Ionadachadh Bhrodagan'
 permalink: /teiripe-ionadachadh-bhrodagan/
 ---
 
-## Mìneachadh
+## Sainmhíniú
 
 Ri thighinn
 
-## Eadar-theangachaidhean
+## Aistriúcháin
 
-&#x1f1ee;&#x1f1ea; Teiripe Athsholáthair Hormón
+&#x1f3f4;&#xe0067;&#xe0062;&#xe0073;&#xe0063;&#xe0074;&#xe007f; Teiripe Athsholáthair Hormón
 
 &#x1f3f4;&#xe0067;&#xe0062;&#xe0065;&#xe006e;&#xe0067;&#xe007f; Hormone Replacement Therapy (HRT)
 
-## Faclan co-cheangailte
+## Focail chosúla
 
 [brodag](https://faclair.lgbt/brodag)
 

@@ -1,17 +1,17 @@
 ---
-layout: faclair
+layout: focloir
 title: "Gèidheal"
 permalink: /geidheal/
 ---
 
 **fir.** _gin._ ⁊ _iol._ Gèidheil
 
-## Mìneachadh
+## Sainmhíniú
 
 Gàidheal a tha gèidh no LGDTC+
 
-## Eadar-theangachaidhean
+## Aistriúcháin
 
-&#x1f1ee;&#x1f1ea; Gaylgeoir(í)
+&#x1f3f4;&#xe0067;&#xe0062;&#xe0073;&#xe0063;&#xe0074;&#xe007f; Gaylgeoir(í)
 
 &#x1f3f4;&#xe0067;&#xe0062;&#xe0065;&#xe006e;&#xe0067;&#xe007f; Gay Gael(s)

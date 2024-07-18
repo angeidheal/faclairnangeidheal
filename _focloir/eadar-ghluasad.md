@@ -1,10 +1,10 @@
 ---
-layout: faclair
+layout: focloir
 title: eadar-ghluasad
 permalink: /eadar-ghluasad/
 ---
 
-## Mìneachadh
+## Sainmhíniú
 
 'S e eadar-ghluasad a th' ann nuair a nithear neach eadar-ghluasad bho bhith beò anns an gnè a chaidh a bhuileachadh orra aig àm am breith, gu bhith a' fuireach anns a' ghnè fhaighte aca.
 
@@ -12,13 +12,13 @@ Dh'fhaodadh seo a bhith diofraichte dhan a h-uile neach. Bidh cuid de dhaoine ai
 
 Chan eil dòigh ceart no ceàrr ann eadar-ghluasad a dhèanamh - 's e rud air leth do gach neach a th' ann.
 
-## Eadar-theangachaidhean
+## Aistriúcháin
 
-&#x1f1ee;&#x1f1ea; trasdul
+&#x1f3f4;&#xe0067;&#xe0062;&#xe0073;&#xe0063;&#xe0074;&#xe007f; trasdul
 
 &#x1f3f4;&#xe0067;&#xe0062;&#xe0065;&#xe006e;&#xe0067;&#xe007f; transition
 
-## Faclan co-cheangailte
+## Focail chosúla
 
 [dì-eadar-ghluasad](https://faclair.lgbt/di-eadar-ghluasad)
 

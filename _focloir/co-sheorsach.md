@@ -1,5 +1,5 @@
 ---
-layout: faclair
+layout: focloir
 title: "co-sheòrsach"
 permalink: /co-sheorsach/
 ---
@@ -8,19 +8,19 @@ permalink: /co-sheorsach/
 
 2. bua. coi. -aiche
 
-## Mìneachadh
+## Sainmhíniú
 
 Neach aig a bheil tàladh romansach no feiseil air luchd na gnè ceudna.
 
 Mar eisimpleir, fireannach aig a bheil tàladh romansach no feiseil air fireannaich eile.
 
-## Eadar-theangachaidhean
+## Aistriúcháin
 
-&#x1f1ee;&#x1f1ea; homaighnéasacht
+&#x1f3f4;&#xe0067;&#xe0062;&#xe0073;&#xe0063;&#xe0074;&#xe007f; homaighnéasacht
 
 &#x1f3f4;&#xe0067;&#xe0062;&#xe0065;&#xe006e;&#xe0067;&#xe007f; homosexual
 
-## Faclan co-cheangailte
+## Focail chosúla
 
 [co-sheòrsachd](https://faclair.lgbt/co-sheorsachd/)
 

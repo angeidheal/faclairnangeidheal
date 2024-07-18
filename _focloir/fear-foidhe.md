@@ -1,20 +1,20 @@
 ---
-layout: faclair
+layout: focloir
 title: "fear foidhe"
 permalink: /fear-foidhe/
 ---
 
-## Mìneachadh
+## Sainmhíniú
 
 Fear aig a bheil ròl neo-gnìomhach rè feise.
 
-## Eadar-theangachaidhean
+## Aistriúcháin
 
-&#x1f1ee;&#x1f1ea; bunadóir / bunpháirtí
+&#x1f3f4;&#xe0067;&#xe0062;&#xe0073;&#xe0063;&#xe0074;&#xe007f; bunadóir / bunpháirtí
 
 &#x1f3f4;&#xe0067;&#xe0062;&#xe0065;&#xe006e;&#xe0067;&#xe007f; bottom
 
-## Faclan co-cheangailte
+## Focail chosúla
 
 [fear os a chionn](https://faclair.lgbt/fear-os-a-chionn)
 

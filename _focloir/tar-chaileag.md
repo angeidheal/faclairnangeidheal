@@ -1,20 +1,20 @@
 ---
-layout: faclair
+layout: focloir
 title: tar-chaileag
 permalink: /tar-chaileag/
 ---
 
-## Mìneachadh
+## Sainmhíniú
 
 Caileag thar-ghnèitheach (caileag a chaidh a bhuileachadh fireann aig àm am breith).
 
-## Eadar-theangachaidhean
+## Aistriúcháin
 
-&#x1f1ee;&#x1f1ea; cailín tras
+&#x1f3f4;&#xe0067;&#xe0062;&#xe0073;&#xe0063;&#xe0074;&#xe007f; cailín tras
 
 &#x1f3f4;&#xe0067;&#xe0062;&#xe0065;&#xe006e;&#xe0067;&#xe007f; a trans girl
 
-## Faclan co-cheangailte
+## Focail chosúla
 
 [neo-bhìnearaidh](https://faclair.lgbt/neo-bhinearaidh)
 

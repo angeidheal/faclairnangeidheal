@@ -1,15 +1,15 @@
 ---
-layout: faclair
+layout: focloir
 title: 'Os-fhàs Co-ghrùthanach Co-bhreitheach'
 permalink: /os-fhas-co-ghruthanach-co-bhreitheach/
 ---
 
-## Mìneachadh
+## Sainmhíniú
 
 Ri thighinn
 
-## Eadar-theangachaidhean
+## Aistriúcháin
 
-&#x1f1ee;&#x1f1ea; Hipearpláise Aidréineach Comhbheirthe
+&#x1f3f4;&#xe0067;&#xe0062;&#xe0073;&#xe0063;&#xe0074;&#xe007f; Hipearpláise Aidréineach Comhbheirthe
 
 &#x1f3f4;&#xe0067;&#xe0062;&#xe0065;&#xe006e;&#xe0067;&#xe007f; Congenital Adrenal Hyperplasia

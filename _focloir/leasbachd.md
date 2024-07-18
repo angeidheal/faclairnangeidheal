@@ -1,16 +1,16 @@
 ---
-layout: faclair
+layout: focloir
 title: leasbachd
 permalink: /leasbachd/
 ---
 
-## Mìneachadh
+## Sainmhíniú
 
 Tàladh romansach no feiseil eadar boireannaich.
 
-## Eadar-theangachaidhean
+## Aistriúcháin
 
-&#x1f1ee;&#x1f1ea; leispiachas
+&#x1f3f4;&#xe0067;&#xe0062;&#xe0073;&#xe0063;&#xe0074;&#xe007f; leispiachas
 
 &#x1f3f4;&#xe0067;&#xe0062;&#xe0065;&#xe006e;&#xe0067;&#xe007f;  lesbianism
 
@@ -18,7 +18,7 @@ Tàladh romansach no feiseil eadar boireannaich.
 
 Thathar a' comharrachadh Latha Faicsinneachd nan Leasbach 26mh den Ghiblean gach bliadhna agus Latha Eadar-nàiseanta nan Leasbach 8mh den Dhàmhair.
 
-## Faclan co-cheangailte
+## Focail chosúla
 
 [co-sheòrsach](https://faclair.lgbt/co-sheorsach/)
 

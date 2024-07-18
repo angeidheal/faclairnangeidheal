@@ -1,20 +1,20 @@
 ---
-layout: faclair
+layout: focloir
 title: tar-bhalach
 permalink: /tar-bhalach/
 ---
 
-## Mìneachadh
+## Sainmhíniú
 
 Balach tar-ghnèitheach (balach a chaidh a bhuileachadh boireann aig àm am breith).
 
-## Eadar-theangachaidhean
+## Aistriúcháin
 
-&#x1f1ee;&#x1f1ea; buachaill tras
+&#x1f3f4;&#xe0067;&#xe0062;&#xe0073;&#xe0063;&#xe0074;&#xe007f; buachaill tras
 
 &#x1f3f4;&#xe0067;&#xe0062;&#xe0065;&#xe006e;&#xe0067;&#xe007f; a trans boy
 
-## Faclan co-cheangailte
+## Focail chosúla
 
 [neo-bhìnearaidh](https://faclair.lgbt/neo-bhinearaidh)
 

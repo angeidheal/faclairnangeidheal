@@ -1,20 +1,20 @@
 ---
-layout: faclair
+layout: focloir
 title: "neo-bhìnearaidh"
 permalink: /neo-bhinearaidh/
 ---
 
-## Mìneachadh
+## Sainmhíniú
 
 Ri thighinn
 
-## Eadar-theangachaidhean
+## Aistriúcháin
 
-&#x1f1ee;&#x1f1ea; neamh-dhénártha
+&#x1f3f4;&#xe0067;&#xe0062;&#xe0073;&#xe0063;&#xe0074;&#xe007f; neamh-dhénártha
 
 &#x1f3f4;&#xe0067;&#xe0062;&#xe0065;&#xe006e;&#xe0067;&#xe007f; non-binary
 
-## Faclan co-cheangailte
+## Focail chosúla
 
 [tar-bhalach](https://faclair.lgbt/tar-bhalach)
 

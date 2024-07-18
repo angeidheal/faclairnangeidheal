@@ -1,20 +1,20 @@
 ---
-layout: faclair
+layout: focloir
 title: 'obair-lannsa daingneachadh gnè'
 permalink: /obair-lannsa-daingneachadh-gne/
 ---
 
-## Mìneachadh
+## Sainmhíniú
 
 Ri thighinn
 
-## Eadar-theangachaidhean
+## Aistriúcháin
 
-&#x1f1ee;&#x1f1ea; máinliacht dhaingniú inscne
+&#x1f3f4;&#xe0067;&#xe0062;&#xe0073;&#xe0063;&#xe0074;&#xe007f; máinliacht dhaingniú inscne
 
 &#x1f3f4;&#xe0067;&#xe0062;&#xe0065;&#xe006e;&#xe0067;&#xe007f; gender confirmation surgery
 
-## Faclan co-cheangailte
+## Focail chosúla
 
 [an dèidh obrach-lannsa](https://faclair.lgbt/an-deidh-obrach-lannsa)
 

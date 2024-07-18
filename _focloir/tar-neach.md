@@ -1,20 +1,20 @@
 ---
-layout: faclair
+layout: focloir
 title: tar-neach
 permalink: /tar-neach/
 ---
 
-## Mìneachadh
+## Sainmhíniú
 
 Neach aig a bheil dearbh-aithne gnè a tha eadar-dhealaichte bhon a' ghnè a chaidh a bhuileachadh orra aig àm a bhreith.
 
-## Eadar-theangachaidhean
+## Aistriúcháin
 
-&#x1f1ee;&#x1f1ea; duine tras
+&#x1f3f4;&#xe0067;&#xe0062;&#xe0073;&#xe0063;&#xe0074;&#xe007f; duine tras
 
 &#x1f3f4;&#xe0067;&#xe0062;&#xe0065;&#xe006e;&#xe0067;&#xe007f; a trans person
 
-## Faclan co-cheangailte
+## Focail chosúla
 
 [neo-bhìnearaidh](https://faclair.lgbt/neo-bhinearaidh)
 

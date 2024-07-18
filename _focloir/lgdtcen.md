@@ -1,20 +1,20 @@
 ---
-layout: faclair
+layout: focloir
 title: LGDTCEN+
 permalink: /lgdtcen/
 ---
 
-## Mìneachadh
+## Sainmhíniú
 
 Giorrachadh de **L**easbach, **G**èidh, **D**à-sheòrsach, **T**ar-ghnèitheach, **C**uèir, **E**adar-sheòrsach agus **N**eo-sheòrsach+.
 
-## Eadar-theangachaidhean
+## Aistriúcháin
 
-&#x1f1ee;&#x1f1ea; LADTAIG+ (Leispiach, Aerach, Déghnéasach, Trasinscneach, Aiteach, Idirghnéas agus Gan-ghnéasach+)
+&#x1f3f4;&#xe0067;&#xe0062;&#xe0073;&#xe0063;&#xe0074;&#xe007f; LADTAIG+ (Leispiach, Aerach, Déghnéasach, Trasinscneach, Aiteach, Idirghnéas agus Gan-ghnéasach+)
 
 &#x1f3f4;&#xe0067;&#xe0062;&#xe0065;&#xe006e;&#xe0067;&#xe007f; LGBTQIA+ (Lesbian, Gay, Bisexual, Transgender, Queer, Intersex and Asexual+)
 
-## Faclan co-cheangailte
+## Focail chosúla
 
 [co-sheòrsach](https://faclair.lgbt/co-sheorsach/)
 

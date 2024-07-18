@@ -1,5 +1,5 @@
 ---
-layout: faclair
+layout: focloir
 title: dà-sheòrsach
 permalink: /da-sheorsach/
 ---
@@ -8,19 +8,19 @@ permalink: /da-sheorsach/
 
 2. bua. coi. -aiche
 
-## Mìneachadh
+## Sainmhíniú
 
 Neach aig a bheil tàladh romansach no feiseil air còrr 's aon ghnè.
 
-## Eadar-theangachaidhean
+## Aistriúcháin
 
-&#x1f1ee;&#x1f1ea; déghnéasach
+&#x1f3f4;&#xe0067;&#xe0062;&#xe0073;&#xe0063;&#xe0074;&#xe007f; déghnéasach
 
 &#x1f3f4;&#xe0067;&#xe0062;&#xe0065;&#xe006e;&#xe0067;&#xe007f; bisexual
 
 ## Làithean Mothachaidh
 
-## Faclan co-cheangailte
+## Focail chosúla
 
 [annas dhen dà-sheòrsachd](https://faclair.lgbt/annas-dhen-da-sheorsachd/)
 

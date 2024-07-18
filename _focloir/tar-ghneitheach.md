@@ -1,22 +1,22 @@
 ---
-layout: faclair
+layout: focloir
 title: "tar-ghnèitheach"
 permalink: /tar-ghneitheach/
 ---
 
-## Mìneachadh
+## Sainmhíniú
 
 Ri thighinn
 
-## Eadar-theangachaidhean
+## Aistriúcháin
 
-&#x1f1ee;&#x1f1ea; trasinscneach
+&#x1f3f4;&#xe0067;&#xe0062;&#xe0073;&#xe0063;&#xe0074;&#xe007f; trasinscneach
 
 &#x1f3f4;&#xe0067;&#xe0062;&#xe0065;&#xe006e;&#xe0067;&#xe007f; transgender
 
 ## Làithean Mothachaidh
 
-## Faclan co-cheangailte
+## Focail chosúla
 
 [neo-bhìnearaidh](https://faclair.lgbt/neo-bhinearaidh)
 

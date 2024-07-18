@@ -1,20 +1,20 @@
 ---
-layout: faclair
+layout: focloir
 title: LGDT+
 permalink: /lgdt/
 ---
 
-## Mìneachadh
+## Sainmhíniú
 
 Giorrachadh de **L**easbach, **G**èidh, **D**à-sheòrsach agus **T**ar-ghnèitheach+.
 
-## Eadar-theangachaidhean
+## Aistriúcháin
 
-&#x1f1ee;&#x1f1ea; LADT+ (Leispiach, Aerach, Déghnéasach agus Trasinscneach+)
+&#x1f3f4;&#xe0067;&#xe0062;&#xe0073;&#xe0063;&#xe0074;&#xe007f; LADT+ (Leispiach, Aerach, Déghnéasach agus Trasinscneach+)
 
 &#x1f3f4;&#xe0067;&#xe0062;&#xe0065;&#xe006e;&#xe0067;&#xe007f; LGBT+ (Lesbian, Gay, Bisexual and Transgender+)
 
-## Faclan co-cheangailte
+## Focail chosúla
 
 [co-sheòrsach](https://faclair.lgbt/co-sheorsach/)
 

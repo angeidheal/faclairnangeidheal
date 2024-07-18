@@ -1,15 +1,15 @@
 ---
-layout: faclair
+layout: focloir
 title: 'Leigheas Ro-chasgach Ro-ghabhalach'
 permalink: /leigheas-ro-chasgach-ro-ghabhalach/
 ---
 
-## Mìneachadh
+## Sainmhíniú
 
 Ri thighinn
 
-## Eadar-theangachaidhean
+## Aistriúcháin
 
-&#x1f1ee;&#x1f1ea; Próifiolacsas Roimh an Nochtaidh
+&#x1f3f4;&#xe0067;&#xe0062;&#xe0073;&#xe0063;&#xe0074;&#xe007f; Próifiolacsas Roimh an Nochtaidh
 
 &#x1f3f4;&#xe0067;&#xe0062;&#xe0065;&#xe006e;&#xe0067;&#xe007f; Pre-Exposure Prophylaxis (PrEP)

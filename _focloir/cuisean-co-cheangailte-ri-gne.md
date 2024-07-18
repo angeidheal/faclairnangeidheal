@@ -1,13 +1,13 @@
 ---
-layout: faclair
+layout: focloir
 title: 'cùisean co-cheangailte ri gnè'
 permalink: /cuisean-co-cheangailte-ri-gne/
 ---
 
-## Mìneachadh
+## Sainmhíniú
 
 Ri thighinn
 
-## Eadar-theangachaidhean
+## Aistriúcháin
 
 &#x1f3f4;&#xe0067;&#xe0062;&#xe0065;&#xe006e;&#xe0067;&#xe007f; gender issues
