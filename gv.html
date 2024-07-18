@@ -1,20 +1,16 @@
 ---
 layout: page
-permalink: /
+permalink: /gv/
 ---
 
 <p style="text-align: right; padding-top: 28px;"><a href="/" title="Seall an duilleag seo sa Ghàidhlig">&#x1f3f4;&#xe0067;&#xe0062;&#xe0073;&#xe0063;&#xe0074;&#xe007f; Gàidhlig</a> <a href="/ga/" title="Amharc an leathanach as Gaeilge">&#x1f1ee;&#x1f1ea; Gaeilge</a> &#x1f1ee;&#x1f1f2; Gaelg <a href="/en/" title="View this page in English">&#x1f3f4;&#xe0067;&#xe0062;&#xe0065;&#xe006e;&#xe0067;&#xe007f; English</a></p>
 
-<h1>Faclair nan Gèidheal</h1>
+<h1>Fockleyr ny Gaelgey Aeragh</h1>
 
-<p>Faclair de bhriathrachas LGDTC+.</p>
-
-<p>Briog orra airson barrachd fhiosrachaidh.</p>
-
-<p><a href="https://angeidhealur.scot/mu-ar-deidhinn">Cuir fios thugainn</a> ma tha thu eòlach air facal no abairt a tha a dhìth.</p>
+<p><a href="https://angeidhealur.scot/mu-ar-deidhinn">Let us know</a> if you can help with Gaelg translations.</p>
 
 <div style="border-top: 1px solid #f0f0f0; padding: 8px 0px;"></div>
 
-{% for facal in site.faclair %}
-   <p><a href="{{ site.baseurl }}{{ facal.url }}">{{ facal.title }}</a></p>
+{% for fockle in site.fockleyr %}
+   <p><a href="{{ site.baseurl }}{{ fockle.url }}">{{ fockle.title }}</a></p>
 {% endfor %}
