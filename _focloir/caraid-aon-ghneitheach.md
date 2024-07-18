@@ -1,11 +1,7 @@
 ---
 layout: focloir
 title: "lánlúin chomhghnéis"
-title_gd: "càraid aon-ghnèitheach"
-title_en: "same-sex couple"
 permalink: /ga/lanluin chomhghneis/
-permalink_gd: /gd/caraid-aon-ghneitheach/
-permalink_ga: /en/same-sex-couple/
 ---
 
 ## Sainmhíniú
