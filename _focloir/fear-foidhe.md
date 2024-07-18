@@ -1,7 +1,7 @@
 ---
 layout: focloir
 title: "bunadóir / bunpháirtí"
-permalink: /bunadoir-bunphairti/
+permalink: /ga/bunadoir-bunphairti/
 ---
 
 ## Sainmhíniú
