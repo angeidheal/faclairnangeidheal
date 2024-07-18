@@ -1,7 +1,7 @@
 ---
 layout: focloir
-title: 'obair-lannsa bun na bodhaige'
-permalink: /obair-lannsa-bun-na-bodhaige/
+title: "bunmháinliacht"
+permalink: /ga/bunmhainliacht/
 ---
 
 ## Sainmhíniú
@@ -10,7 +10,7 @@ Le teacht
 
 ## Aistriúcháin
 
-&#x1f3f4;&#xe0067;&#xe0062;&#xe0073;&#xe0063;&#xe0074;&#xe007f; bunmháinliacht
+&#x1f3f4;&#xe0067;&#xe0062;&#xe0073;&#xe0063;&#xe0074;&#xe007f; obair-lannsa bun na bodhaige
 
 &#x1f3f4;&#xe0067;&#xe0062;&#xe0065;&#xe006e;&#xe0067;&#xe007f; bottom surgery
 

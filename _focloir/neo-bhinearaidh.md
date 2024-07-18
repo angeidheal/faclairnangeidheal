@@ -1,7 +1,7 @@
 ---
 layout: focloir
-title: "neo-bhìnearaidh"
-permalink: /neo-bhinearaidh/
+title: "neamh-dhénártha"
+permalink: /ga/neamh-dhénártha/
 ---
 
 ## Sainmhíniú
@@ -10,7 +10,7 @@ Le teacht
 
 ## Aistriúcháin
 
-&#x1f3f4;&#xe0067;&#xe0062;&#xe0073;&#xe0063;&#xe0074;&#xe007f; neamh-dhénártha
+&#x1f3f4;&#xe0067;&#xe0062;&#xe0073;&#xe0063;&#xe0074;&#xe007f; neo-bhìnearaidh
 
 &#x1f3f4;&#xe0067;&#xe0062;&#xe0065;&#xe006e;&#xe0067;&#xe007f; non-binary
 

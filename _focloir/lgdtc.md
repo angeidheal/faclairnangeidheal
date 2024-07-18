@@ -1,16 +1,16 @@
 ---
 layout: focloir
-title: LGDTC+
-permalink: /lgdtc/
+title: "LADTA+"
+permalink: /ga/ladta/
 ---
 
 ## Sainmhíniú
 
-Giorrachadh de **L**easbach, **G**èidh, **D**à-sheòrsach, **T**ar-ghnèitheach agus **C**uèir+.
+Le teacht
 
 ## Aistriúcháin
 
-&#x1f3f4;&#xe0067;&#xe0062;&#xe0073;&#xe0063;&#xe0074;&#xe007f; LADTA+ (Leispiach, Aerach, Déghnéasach, Trasinscneach agus Aiteach)
+&#x1f3f4;&#xe0067;&#xe0062;&#xe0073;&#xe0063;&#xe0074;&#xe007f; LGDTC+ (Leasbach, Gèidh, Dà-sheòrsach, Tar-ghnèitheach agus Cuèir+)
 
 &#x1f3f4;&#xe0067;&#xe0062;&#xe0065;&#xe006e;&#xe0067;&#xe007f; LGBTQ+ (Lesbian, Gay, Bisexual, Transgender and Queer+)
 

@@ -1,16 +1,16 @@
 ---
 layout: focloir
-title: LGDTCEN+
-permalink: /lgdtcen/
+title: "LADTAIG+"
+permalink: /ga/ladtaig/
 ---
 
 ## Sainmhíniú
 
-Giorrachadh de **L**easbach, **G**èidh, **D**à-sheòrsach, **T**ar-ghnèitheach, **C**uèir, **E**adar-sheòrsach agus **N**eo-sheòrsach+.
+Le teacht
 
 ## Aistriúcháin
 
-&#x1f3f4;&#xe0067;&#xe0062;&#xe0073;&#xe0063;&#xe0074;&#xe007f; LADTAIG+ (Leispiach, Aerach, Déghnéasach, Trasinscneach, Aiteach, Idirghnéas agus Gan-ghnéasach+)
+&#x1f3f4;&#xe0067;&#xe0062;&#xe0073;&#xe0063;&#xe0074;&#xe007f; LGDTCEN+ (Leasbach, Gèidh, Dà-sheòrsach, Tar-ghnèitheach, Cuèir, Eadar-sheòrsach agus Neo-shèorsach+)
 
 &#x1f3f4;&#xe0067;&#xe0062;&#xe0065;&#xe006e;&#xe0067;&#xe007f; LGBTQIA+ (Lesbian, Gay, Bisexual, Transgender, Queer, Intersex and Asexual+)
 

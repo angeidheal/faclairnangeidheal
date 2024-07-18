@@ -1,16 +1,16 @@
 ---
 layout: focloir
-title: "neach os a chionn"
-permalink: /neach-os-a-chionn/
+title: "barradóir / barrpháirtí"
+permalink: /ga/barradoir-barrphairti/
 ---
 
 ## Sainmhíniú
 
-Neach aig a bheil ròl gnìomhach rè feise.
+Le teacht
 
 ## Aistriúcháin
 
-&#x1f3f4;&#xe0067;&#xe0062;&#xe0073;&#xe0063;&#xe0074;&#xe007f; barradóir / barrpháirtí
+&#x1f3f4;&#xe0067;&#xe0062;&#xe0073;&#xe0063;&#xe0074;&#xe007f; neach os a chionn
 
 &#x1f3f4;&#xe0067;&#xe0062;&#xe0065;&#xe006e;&#xe0067;&#xe007f; top
 
