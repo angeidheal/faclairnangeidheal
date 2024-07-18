@@ -1,7 +1,7 @@
 ---
 layout: focloir
 title: crómosóm
-permalink: /cromosom/
+permalink: /ga/cromosom/
 ---
 
 ## Sainmhíniú

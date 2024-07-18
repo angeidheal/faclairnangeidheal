@@ -1,7 +1,7 @@
 ---
 layout: focloir
 title: "comhinscne"
-permalink: /comhinscne/
+permalink: /ga/comhinscne/
 ---
 
 ## Sainmhíniú

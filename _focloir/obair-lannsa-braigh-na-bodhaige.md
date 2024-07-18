@@ -1,7 +1,7 @@
 ---
 layout: focloir
 title: "barrmháinliacht"
-permalink: /barrmhainliacht/
+permalink: /ga/barrmhainliacht/
 ---
 
 ## Sainmhíniú

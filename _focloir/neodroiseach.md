@@ -1,7 +1,7 @@
 ---
 layout: focloir
 title: "neodrasach"
-permalink: /neodroiseach/
+permalink: /ga/neodrasach/
 ---
 
 ## Sainmhíniú

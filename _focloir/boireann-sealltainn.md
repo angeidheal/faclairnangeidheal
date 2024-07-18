@@ -1,7 +1,7 @@
 ---
 layout: focloir
 title: "léiriú baineann"
-permalink: "/ga/leiriu-baineann/"
+permalink: /ga/leiriu-baineann/
 ---
 
 ## Sainmhíniú

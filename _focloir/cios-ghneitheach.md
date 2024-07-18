@@ -1,7 +1,7 @@
 ---
 layout: focloir
 title: "cis-inscneach"
-permalink: /cis-inscneach/
+permalink: /ga/cis-inscneach/
 ---
 
 ## Sainmhíniú
