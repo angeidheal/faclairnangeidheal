@@ -1,0 +1,17 @@
+---
+
+---
+[
+  {% for facal in site.faclair %}
+    {
+
+      "title"    : "{{ facal.title | escape }}",
+      "url"      : "{{ site.baseurl }}{{ facal.url }}",
+      "category" : "{{ facal.category }}",
+      "tags"     : "{{ facal.tags | join: ', ' }}",
+      "date"     : "{{ facal.date }}",
+      "content"  : {{ facal.content | strip_html | strip_newlines | jsonify }}
+
+    } {% unless forloop.last %},{% endunless %}
+  {% endfor %}
+]

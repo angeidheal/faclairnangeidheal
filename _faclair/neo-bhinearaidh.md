@@ -12,6 +12,8 @@ Ri thighinn
 
 &#x1f1ee;&#x1f1ea; neamh-dhénártha
 
+&#x1f1ee;&#x1f1f2; neu-yeesoil
+
 &#x1f3f4;&#xe0067;&#xe0062;&#xe0065;&#xe006e;&#xe0067;&#xe007f; non-binary
 
 ## Faclan co-cheangailte

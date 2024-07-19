@@ -36,3 +36,9 @@ collections:
   focloir:
     output: true
     permalink: /:path/
+  fockleyr:
+    output: true
+    permalink: /:path/
+  glossary:
+    output: true
+    permalink: /:path/

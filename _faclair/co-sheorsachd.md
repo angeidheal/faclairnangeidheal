@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: faclair
 title: "co-sheòrsachd"
 permalink: /co-sheorsachd/
 ---
@@ -13,6 +13,8 @@ Tàladh romansach no feiseil eadar luchd na gnè ceudna.
 ## Eadar-theangachaidhean
 
 &#x1f1ee;&#x1f1ea; homaighnéasach
+
+&#x1f1ee;&#x1f1f2; homocheintys
 
 &#x1f3f4;&#xe0067;&#xe0062;&#xe0065;&#xe006e;&#xe0067;&#xe007f; homosexuality
 
